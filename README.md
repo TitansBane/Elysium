@@ -180,9 +180,11 @@ Elysium comes with a wide variety of new quest and encounters. A few are listed 
 
 [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendarr and Daedra.
 
-[The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) is a medium-sized questline that expands Arniel's Endeavor to acquire Sunder and Wraithguard, completing the trifecta.
+[The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) is a medium-sized quest that expands Arniel's Endeavor to acquire Sunder and Wraithguard, completing the trifecta.
 
 [Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) is an excellent choice-driven quest mod with many endings surrounding the disappearance of a civilization.
+
+[Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) is a DLC-sized quest mod involving a castle high in the Velothi Mountains, which feature a obtainable player home.
 
 [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330) adds a large number of more than 70+ new random events as well as modifying some of the vanilla events.
 
