@@ -231,6 +231,10 @@ Stand still and wait until all messages have run through in the upper left corne
 #### All Geared up Derivative
 - NPC :
   - Enable Weapons : Enable
+  
+#### Animated Armoury
+- Settings → General Settings :
+    - Enable DAR Support : Enable
 
 #### Cathedral Weather
 - Settings
@@ -326,7 +330,8 @@ Stand still and wait until all messages have run through in the upper left corne
  - No tweak here; you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It will make much more sense if you do it after the Dawnguard questline and the House of Horrors quest.
   
 #### VioLens
-- Load Preset
+- Melee & Ranged → Melee :
+  - Player Killmove Immunity : Enable
 
 #### Wildcat
 - Disable Injuries: Enable
