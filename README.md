@@ -178,7 +178,7 @@ Elysium comes with a wide variety of new quest and encounters. A few are listed 
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives have been extended to Solstheim as well as Wyrmstooth.
 
-[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendarr and Daedra.
+[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendarr and Daedra. Vigilant has been tweaked to start at level 30 to prevent easy access to high-level gear and fighting bosses that are almost impossible to beat at lower levels.
 
 [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) is a medium-sized quest that expands Arniel's Endeavor to acquire Sunder and Wraithguard, completing the trifecta.
 
