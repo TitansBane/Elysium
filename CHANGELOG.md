@@ -1,3 +1,17 @@
+## 1.1.1
+
+### Released at: `09/22/2020`
+
+### Fixes
+
+- Flag three esp files as esl that I miss last update
+- Fix an potential underwater issue in White River Watch - Revisited
+
+### Tweaks
+
+- No longer forces the camera to stay in 1st person if the view is switched to 3rd person
+- Replace the Stendarr Statue from Vigilant with an alternate model
+
 ## 1.1.0
 
 ### Released at: `09/22/2020`
