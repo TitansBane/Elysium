@@ -1,3 +1,17 @@
+## 1.1.2
+
+### Released at: `09/23/2020`
+
+### Fixes
+
+- Fixed Black Face bug for Beleval
+- Followers can now enter through the Shadowfoot Sanctum dock entrance, which is now compatible with Riften Docks Overhaul
+
+### Tweaks
+
+- Switch from the TPF default Medium preset to High preset
+- Various INI tweaks, the game should look a lot better now without too much of a performance loss
+
 ## 1.1.1
 
 ### Released at: `09/22/2020`
