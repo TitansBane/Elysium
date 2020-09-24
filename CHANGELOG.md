@@ -1,3 +1,15 @@
+## 1.1.3
+
+### Released at: `09/23/2020`
+
+### Added
+
+- NPC AI Process Position Fix - SSE
+
+### Removed
+
+- Closing Time
+
 ## 1.1.2
 
 ### Released at: `09/23/2020`
