@@ -1,3 +1,62 @@
+# Changelog
+
+## 1.2.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- The Great City of Solitude - CFTO Patch
+- Legacy of the Dragonborn - Followers Patch (Inigo)
+- Relic Hunter- Guildmaster Start (Legacy and ASLAL addon)
+- Refined Water Droplet Replacer for Wet and Cold or R.A.S.S
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons
+- Legacy Safehouse Plus
+- Replacer for banners - Legacy of the Dragonborn SSE
+- High Poly Head
+- KS Hairdos SSE
+- Salt and Wind - Rough Hair for KS Hairdos SE
+- Honed Metal
+- Honed Metal Voiced
+- Enhanced Atronachs
+
+### Updated
+
+- Legacy of the Dragonborn - The Curators Companion v2.3.0
+- SSE Display Tweaks v0.4.7
+- Growl v2.0.2
+- Triumvirate v1.5.1
+- Rudy HQ Series
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.0
+- Nether's Follower Framework v2.7.1
+- Vokrii v3.3.1
+- Reliquary of Myth v3.5.1
+- Enemy (R)Evolution of Skyrim - EEOS v1.76.0
+- Miscellaneous Tweaks Collection
+- Refracting Ice Form Debris v2.0
+- BodySlide and Outfit Studio v5.2.0
+- ETHEREAL CLOUDS v2.0
+- RaceMenu v0.4.15
+- AI Overhaul SSE v1.6.4
+
+### Removed
+
+- Skyrim Souls RE - Updated
+- NPC AI Process Position Fix - SSE
+- The Staff Of Sheogorath
+- Ruin's Edge
+
+### Fixes
+
+- Dozen or more fixes were made
+
+### Tweaks
+
+- Hundreds of modded armor and weapons have been adjusted for Elysium
+- INI Particles setting set to 7500 for Rudys Enb
+
 ## 1.1.3
 
 ### Released at: `09/23/2020`
