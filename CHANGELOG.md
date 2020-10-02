@@ -40,6 +40,7 @@
 - ETHEREAL CLOUDS v2.0
 - RaceMenu v0.4.15
 - AI Overhaul SSE v1.6.4
+- Quick Loot RE v2.8.1
 
 ### Removed
 
