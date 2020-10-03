@@ -2,10 +2,19 @@
 
 ## 1.2.1
 
-### Released at: `10/02/2020`
+### Released at: `10/03/2020`
+
+### Added
+
+- Summermyst - WACCF Patch
+
+### Removed
+
+- VIGILANT Creation Club armor replacer
 
 ### Fixes
 
+- Lots of xEdit changes
 - Reverted RaceMenu back to v0-4-14 to resolve crash related issues
 
 ## 1.2.0
