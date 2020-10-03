@@ -8,6 +8,11 @@
 
 - Summermyst - WACCF Patch
 
+### Updated
+
+- Triumvirate v1.6.0
+- Vokrii v3.4.0
+
 ### Removed
 
 - VIGILANT Creation Club armor replacer
