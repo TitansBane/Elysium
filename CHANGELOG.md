@@ -1,10 +1,16 @@
 # Changelog
 
-## 1.2.0
+## 1.2.1
 
 ### Released at: `10/02/2020`
 
-## This update requires a new save game
+### Fixes
+
+- Reverted RaceMenu back to v0-4-14 to resolve crash related issues
+
+## 1.2.0
+
+### Released at: `10/02/2020`
 
 ### Added
 
