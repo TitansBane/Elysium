@@ -17,7 +17,6 @@
 - The Great City of Solitude - CFTO Patch
 - Legacy of the Dragonborn - Followers Patch (Inigo)
 - Relic Hunter- Guildmaster Start (Legacy and ASLAL addon)
-- Refined Water Droplet Replacer for Wet and Cold or R.A.S.S
 - Rudy HQ - More Lights for ENB SE - Daedric Weapons
 - Legacy Safehouse Plus
 - Replacer for banners - Legacy of the Dragonborn SSE
