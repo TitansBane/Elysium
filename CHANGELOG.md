@@ -12,6 +12,8 @@
 
 - Triumvirate v1.6.0
 - Vokrii v3.4.0
+- The Great City of Solitude Unofficial Patch
+- ENBSeries v0.448
 
 ### Removed
 
