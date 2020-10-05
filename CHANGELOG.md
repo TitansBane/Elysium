@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.2.2
+
+### Released at: `10/05/2020`
+
+### Added
+
+- SkyUI FIX for Survival Mode Integration
+
+### Updated
+
+- Spell Perk Item Distributor v3.9
+- Serana Dialogue Add-On v1.9.1
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons v1.0e
+
+### Fixes
+
+- A dozen leveled list corrected between WACCF and Summermyst
+- Riften Docks Overhaul food items now compatible with Survival mode
+- Zim's Thane weapons adjusted for WACCF
+
+### Tweaks
+
+- Revamp the CC Divine Crusader enchantments
+- Revamp the CC Staff of Sheogorath enchantment
+- Revamp the CC Spear of Bitter Mercy enchantment
+
 ## 1.2.1
 
 ### Released at: `10/03/2020`
