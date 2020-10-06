@@ -16,7 +16,7 @@
 
 ### Fixes
 
-- Patches were updated for the newest updates
+- Updated the patches for the newest mod updates
 
 ### Tweaks
 
