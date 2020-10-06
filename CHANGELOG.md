@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.2.3
+
+### Released at: `10/06/2020`
+
+## This update requires a new save game
+
+### Updated
+
+- Legacy of the Dragonborn SSE v5.4.0
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons v1.0f
+- SSE CreationKit Fixes v3.1
+- Legacy of the Dragonborn - Creation Club Patch Hub v3.0.1
+- Serana Dialogue Add-On v1.9.2
+
+### Fixes
+
+- Patches were updated for the newest updates
+
+### Tweaks
+
+- Move the Point The Way sign in Winterhold slightly, so it no longer clips through the wall
+
 ## 1.2.2
 
 ### Released at: `10/05/2020`
