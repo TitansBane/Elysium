@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.2.4
+
+### Released at: `10/07/2020`
+
+### Added
+
+- Wicked Werewolves
+- Quick Light Patch
+
+### Updated
+
+- Legacy of the Dragonborn SSE v5.4.1
+- Legacy of the Dragonborn - The Curators Companion v3.0.0
+- Legacy of the Dragonborn - Creation Club Patch Hub v3.0.3
+- Reliquary of Myth v3.5.2
+- Serana Dialogue Add-On v1.9.3
+- Keld-Nar v2.0.5
+
+### Removed
+
+- Werewolf Claws Affect Spider Webs
+
+### Tweaks
+
+- A dozen xEdit changes
+
 ## 1.2.3
 
 ### Released at: `10/06/2020`
