@@ -1,5 +1,37 @@
 # Changelog
 
+## 1.3.0
+
+### Released at: `10/09/2020`
+
+## This update requires a new save game
+
+### Added
+
+- Thrones of Skyrim
+- Summermyst Bugfixes for WACCF
+- Farmhouse Chimneys SE
+- Windhelm Lighthouse
+- Expanded Towns and Cities (SSE)
+- ETaC-BlendedRoadsPatch
+
+### Updated
+
+- Kynesgrove v2.0.8
+- Helarchen Creek v2.0.7
+- Rorikstead v1.0.8
+- Oakwood v1.0.7
+- The Fall of Granite Hill v1.0.6
+- Legacy of the Dragonborn Patches (Official) v2.3
+- Regenerated xEdit Patch Output
+- Regenerated Elysium - Dyndolod 3D Output
+- Regenerated xEdit Patch Output (Creation Club)
+- Regenerated Elysium - Dyndolod 3D Output (Creation Club)
+
+### Fixes
+
+- A few xEdit fixes
+
 ## 1.2.4
 
 ### Released at: `10/07/2020`
