@@ -39,7 +39,7 @@
 
 Elysium is a fork of the Phoenix Flavour that expands this already excellent guide with over a hundred new additions and optional Creation Club support. Many new additions, such as Vokrii, Apocalypse, Nemesis, LotD, 3DNPC, and a wide variety of new content, were added. You should expect a more challenging game with this list. 
 
-As for stability and conflict resolution, Elysium is base off of TPF and have been Patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
+As for stability and conflict resolution, Elysium is base off of TPF and has been patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
 
 ## Installation
 
@@ -83,9 +83,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and fastest speed, it is advised to place the working folder on an SSD.
 
-1. Open Wabbajack
-2. Load _Elysium - A TPF Fork .wabbajack file_ from Disk
-3. Adjust the download and installation paths.
+1. Open Wabbajack.
+2. Click Browse Modlists and download Elysium from the Modlist Gallery. Wait until you are forwarded to the next window.
+3. Adjust the download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Elysium. The Download Path will update automatically. You can move it elsewhere if you want.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
 
@@ -95,7 +95,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait till I update the Modlist.
+If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
 
 **x is not a whitelisted download**:
 
@@ -110,6 +110,8 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 ### Copy Game Folder Files
 
 Copy all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
+
+ - Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 12 MB of files.
 
 ### ENB
 
@@ -129,7 +131,7 @@ Please check that vsync is set to disable in enblocal.ini otherwise you will eit
 
 ## How to start up Elysium
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. You have to run SKSE through Mod Organizer 2 in order to play Elysium from now on.
 
 ## Updating
 
@@ -170,7 +172,7 @@ Various other mods are used to flesh out all aspects of the game as well such as
 
 ### Quest and Encounter Mods
 
-Elysium comes with a wide variety of new quest and encounters. A few are listed below.
+Elysium comes with a wide variety of new quests and encounters. A few are listed below.
 
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) is an enormous mod that shapes the way how you play the game. The museum is a very robust house mod with the ability to display almost every item in the game and also has extensive mod support, which is utilized to some extent in Elysium.
 
@@ -267,7 +269,7 @@ Stand still and wait until all messages have run through in the upper left corne
   - Only Sandbox in Town : Enable
 - Gameplay → Regard :
   - Allow Regard : Off
-- System → Casted Abilities :
+- System → Player Casted Abilities :
   - Command Followers : Disable
 - System → Core :
   - Enable ConsoleUtil : Enable
