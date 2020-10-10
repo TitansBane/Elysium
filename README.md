@@ -1,3 +1,5 @@
+![Logo](/image/Elysium_Logo.png)
+
 # Elysium
 
 - [Elysium](#elysium)
@@ -220,130 +222,153 @@ Stand still and wait until all messages have run through in the upper left corne
 ## In-Game MCM Options
 
 #### A Matter of Time
-- Presets :
+- Presets:
   - Load User Settings
   
 #### AGO
 - Settings
   - Enable/Disable
-    - Arrow Wounds (Player) : Disable
-    - Arrow Wounds (NPCs) : Disable
-    - Persistant Arrows : Disable
+    - Arrow Wounds (Player): Disable
+    - Arrow Wounds (NPCs): Disable
+    - Persistant Arrows: Disable
 
 #### All Geared up Derivative
-- NPC :
-  - Enable Weapons : Enable
+- NPC:
+  - Enable Weapons: Enable
   
 #### Animated Armoury
-- Settings → General Settings :
-    - Enable DAR Support : Enable
+- Settings → General Settings:
+    - Enable DAR Support: Enable
 
 #### Cathedral Weather
 - Settings
-  - Configuration Spell : Disable
+  - Configuration Spell: Disable
   
 #### Complete Crafting
-- Recipe Display → Crafting Menu Filters :
+- Recipe Display → Crafting Menu Filters:
   - Crafting Categories: Disable
-  - Item Filters : Disable
-- Crafting Options → Additional Items :
-  - More Jewelry : Disable
-- Crafting Options → Breakdown Equipment :
-  - At Smelter : Disable
-  - At Tanning Rack : Disable
-- Miscellaneous → Leveled Items :   
-  - Upgrade via Crafting : Disable
+  - Item Filters: Disable
+- Crafting Options → Additional Items:
+  - More Jewelry: Disable
+- Crafting Options → Breakdown Equipment:
+  - At Smelter: Disable
+  - At Tanning Rack: Disable
+- Miscellaneous → Leveled Items:   
+  - Upgrade via Crafting: Disable
   
 #### Diverse Dragons Collection
 - Dragons
-  - Nether Dragon : Disable
-  - Sanguine Dragon : Disable
-  - Vile Dragon : Disable
+  - Nether Dragon: Disable
+  - Sanguine Dragon: Disable
+  - Vile Dragon: Disable
   
-**Note : Exit the MCM after this step to allow it to do its thing**
+**Note: Exit the MCM after this step to allow it to do its thing**
+
+#### Farmhouse Chimneys
+- Mod Support → Arthmoor Village Options:
+  - Darkwater Crossing: Enable
+  - Dawnstar: Enable
+  - Dragon Bridge: Enable
+  - Falkreath: Enable
+  - Ivarstead: Enable
+  - Karthwasten: Enable
+  - Keld-Nar: Enable
+  - Kynesgrove: Enable
+  - Rorikstead: Enable
+  - Shor's Stone: Enable
+  - Soljund's Sinkhole: Enable
+  - Whistling Mine: Enable
+- Mod Support → New Villages:
+  - Helarchen Creek: Enable
+  - Oakwood: Enable
+- Mod Support → Misc Mods:
+  - Cutting Room Floor: Disable
+- Mod Support → Mod Compatibility:
+  - Expanded Towns and Cities: Enable
 
 #### Follower Framework
-- Activity → Sandboxing :
-  - Ignore Special Furniture : Enable
-  - Stop During Player Dialogue : Enable
-  - Only Sandbox in Town : Enable
-- Gameplay → Regard :
-  - Allow Regard : Off
-- System → Player Casted Abilities :
-  - Command Followers : Disable
-- System → Core :
-  - Enable ConsoleUtil : Enable
+- Activity → Sandboxing:
+  - Ignore Special Furniture: Enable
+  - Stop During Player Dialogue: Enable
+  - Only Sandbox in Town: Enable
+- Gameplay → Regard:
+  - Allow Regard: Off
+- System → Player Casted Abilities:
+  - Command Followers: Disable
+- System → Core:
+  - Enable ConsoleUtil: Enable
   
 #### GIST Soul Trap
-- Leveling :
+- Leveling:
   - Customize as you wish, or leave it disabled.
   
 #### Growl - Werebeasts of Skyrim
-- Features :
-  - Invulnerable During Transformation : Enable
+- Features:
+  - Invulnerable During Transformation: Enable
 
 #### Immersive HUD
-- Activation → Compass Activation :
-  - Key Press Toggles : Enable
-- Activation → SkyUI Active Effects :
-  - Link ALL SkyUI Widgets : Enable
+- Activation → Compass Activation:
+  - Key Press Toggles: Enable
+- Activation → SkyUI Active Effects:
+  - Link ALL SkyUI Widgets: Enable
 
 #### LOTD Settings
-- LOTD Settings → General → Shippment Crate Locations : 
+- LOTD Settings → General → Shippment Crate Locations: 
   - Carriages: Enable
   - Inns: Enable
   - Player Houses: Enable (They have been changed so you might want to report problems with that)
   
 #### moreHUD
-- Enemy's Level → Enemy Meters :
-  - Show Magicka Meter : Disable
-  - Show Stamina Meter : Disable
+- Enemy's Level → Enemy Meters:
+  - Show Magicka Meter: Disable
+  - Show Stamina Meter: Disable
   
 #### Quick Light
-- Quick Light → Brightness :
+- Quick Light → Brightness:
   - Brightness - Bright
   
 #### RDO
-- Other Options → Toggle NPCs :
-  - Allow RDO Added Followers : Disable
-  - Allow Terek : Disable
+- Other Options → Toggle NPCs:
+  - Allow RDO Added Followers: Disable
+  - Allow Terek: Disable
   
 #### Realistic Water Two
-- Mod Options → Blacksmith Forge Water :
-  - The Fall of Granite Hill : Enable
-  - Kynesgrove : Enable
-  - Rorikstead : Enable
+- Mod Options → Blacksmith Forge Water:
+  - The Fall of Granite Hill: Enable
+  - Kynesgrove: Enable
+  - Rorikstead: Enable
+  - Expanded Towns and Cities SSE: Enable
   
 #### SSoB
-- Quest Markers :
-  - Quest Markers on Stones of Barenziah : Enable
+- Quest Markers:
+  - Quest Markers on Stones of Barenziah: Enable
 
 #### Storm Lightning
-- Preset → Load Preset : 
-  - Realistic : Enabled
-- Settings → Fork Lightning : 
-  - Minimum Fork Distance : 1
+- Preset → Load Preset: 
+  - Realistic: Enabled
+- Settings → Fork Lightning: 
+  - Minimum Fork Distance: 1
   
 #### Timing is Everything
-- Extra Options → Presets :
-  - Load Preset :
+- Extra Options → Presets:
+  - Load Preset:
 
 #### VIGILANT
  - No tweak here; you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It will make much more sense if you do it after the Dawnguard questline and the House of Horrors quest.
   
 #### VioLens
-- Melee & Ranged → Melee :
-  - Player Killmove Immunity : Enable
+- Melee & Ranged → Melee:
+  - Player Killmove Immunity: Enable
 
 #### Wildcat
 - Disable Injuries: Enable
 - Allow Wildcat to manage difficulty: Enable
 
 #### Wonders of Weathers
-- Options → Rain Splashes :
-  - Level : Disabled
+- Options → Rain Splashes:
+  - Level: Disabled
 
-**NOTE. Dodging is provided by the Mod "The Ultimate Dodge Mod". Please head to System > Controls > Sneak and change the Keybind to whatever you want to use to dodge with. I recommend side mouse buttons. If you do not change this to something else, your character will not sneak or be stuck sneaking.**
+**Note: Dodging is provided by the Mod "The Ultimate Dodge Mod". Please head to System > Controls > Sneak and change the Keybind to whatever you want to use to dodge with. I recommend side mouse buttons. If you do not change this to something else, your character will not sneak or be stuck sneaking.**
 
 ## Other Post Installation FAQ
 
