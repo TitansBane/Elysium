@@ -13,6 +13,10 @@
 - RaceMenu v0.4.16
 - Legacy of the Dragonborn - Creation Club Patch Hub v3.0.4
 
+### Removed
+
+- Mundus - A Standing Stone Overhaul
+
 ## 1.3.0
 
 ### Released at: `10/09/2020`
