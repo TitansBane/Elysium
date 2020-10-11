@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.3.1
+
+### Released at: `10/10/2020`
+
+### Added
+
+- Evenstar - Minimalistic Standing Stones of Skyrim
+
+### Updated
+
+- RaceMenu v0.4.16
+- Legacy of the Dragonborn - Creation Club Patch Hub v3.0.4
+
 ## 1.3.0
 
 ### Released at: `10/09/2020`
