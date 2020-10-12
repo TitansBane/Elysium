@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.3.2
+
+### Released at: `10/12/2020`
+
+### Added
+
+- ArteFakes - Unique Artifacts Replacer
+
+### Updated
+
+- Evenstar - Minimalistic Standing Stones of Skyrim v1.1.0
+- Legacy of the Dragonborn - Interesting NPCs Patch v1.2
+- Zim's Dragon Improvements v1.1
+- Riften Docks Overhaul v1.4
+- Legacy of the Dragonborn SSE v5.4.2
+
+### Removed
+
+- Go to bed
+
+### Fixes
+
+- Numerous fixes were made
+
 ## 1.3.1
 
 ### Released at: `10/10/2020`
