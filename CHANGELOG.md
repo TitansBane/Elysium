@@ -1,5 +1,37 @@
 # Changelog
 
+## 1.3.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Expressive Facegen Morphs SE
+- Stalhrim Source
+- Zephyr Retextured
+
+### Updated
+
+- ArteFakes - Unique Artifacts Replacer v1.4
+- Improved College Entry - Questline Tweaks v2.8
+- Quick Loot RE v2.8.2
+- JContainers SE v4.1.13
+- Growl - Werebeasts of Skyrim v2.3.0
+
+### Removed
+
+- Eyes AO Clipping Fix
+- Double Sided Vertex Human Mouth Fix
+- WoodElf - MaleHair - Fix
+- Unique Zephyr
+- Just Fangs from BVFE
+
+### Fixes
+
+- Flag another three esp files as esl
+- Forward quest changes for the newest LotD update
+- Reinstalled High Poly Head
+
 ## 1.3.2
 
 ### Released at: `10/12/2020`
