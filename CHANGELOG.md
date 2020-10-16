@@ -2,7 +2,7 @@
 
 ## 1.3.3
 
-### Released at: `Unreleased`
+### Released at: `10/16/2020`
 
 ### Added
 
