@@ -17,6 +17,7 @@
 - Quick Loot RE v2.8.2
 - JContainers SE v4.1.13
 - Growl - Werebeasts of Skyrim v2.3.0
+- Reliquary of Myth v3.5.3
 
 ### Removed
 
