@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.3.4
+
+### Released at: `Unreleased`
+
+### Added
+
+- Hvergelmir Brows and SG Eyebrows for High Poly Head
+- Clockwork Plantable Addon
+
+### Updated
+
+- Legacy of the Dragonborn - Interesting NPCs Patch v1.2.1
+- Nether's Follower Framework v2.7.2
+
+### Fixes
+
+- ArteFakes fully patch for Legacy of the Dragonborn
+- Sabine footlocker chest is now accessible
+
+### Tweaks
+
+- New optional Improved Camera ini No Head-Bob Version added
+
 ## 1.3.3
 
 ### Released at: `10/16/2020`
