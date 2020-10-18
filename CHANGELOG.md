@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.4.0
+
+### Released at: `10/18/2020`
+
+### Added
+
+- Morrowloot Miscellania - No Fortify Enchanting Alchemy Smithing
+- Word Wall Transparency Fix for ENB
+- High Poly Blackreach Mushrooms
+- Assorted mesh fixes
+
+### Updated
+
+- Enhanced Atronachs - With Levelling and Luminosity v3.0B
+- ArteFakes - Unique Artifacts Replacer
+- Relighting Skyrim - SSE v1.2.0
+
+### Removed
+
+- Subtle But Classless
+- Subtle But Classless - USSEP and EEO Patch
+
+### Fixes
+
+- Patched both Frankly HD Imperial Armor and Weapons and Remiros' Ancient Falmer Armor HD for CBBE
+- Reinstalled Economy Overhaul and Speechcraft Improvements for Missive compatibility
+- Resolve a script conflict between Even Better Quest Objectives and Improved College Entry - Questline Tweaks
+- A few xEdit fixes
+
 ## 1.3.4
 
 ### Released at: `10/17/2020`
