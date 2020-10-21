@@ -35,6 +35,10 @@
 - Redid Bodyslides and made some additional fixes
 - A few more xEdit fixes
 
+### Tweaks
+
+- Generated Occlusion
+
 ## 1.4.0
 
 ### Released at: `10/18/2020`
