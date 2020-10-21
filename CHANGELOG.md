@@ -15,7 +15,6 @@
 - Unofficial Identity Crisis LotD Patch
 - OBIS SE - Organized Bandits In Skyrim Special Edition
 - OBIS Patrols
-- Practical Female Armors SE - SSE CBBE
 - Synthesis
 
 ### Updated
@@ -29,6 +28,7 @@
 
 - CBPC - Physics with Collisions for SSE and VR - Some users reported a rare skeleton crash
 - CBP PHYSICS CONFIG
+- Practical Female Armors
 
 ### Fixes
 
