@@ -15,6 +15,7 @@
 - Unofficial Identity Crisis LotD Patch
 - OBIS SE - Organized Bandits In Skyrim Special Edition
 - OBIS Patrols
+- Practical Female Armors SE - SSE CBBE
 - Synthesis
 
 ### Updated
