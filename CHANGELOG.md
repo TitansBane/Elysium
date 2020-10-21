@@ -1,5 +1,39 @@
 # Changelog
 
+## 1.5.0
+
+### Released at: `Unreleased`
+
+### This update requires a new save
+
+### Added
+
+- Experience
+- Missives - Experience Patch
+- Know Your Enemy - Trait-based resistances and weaknesses
+- Identity Crisis
+- Unofficial Identity Crisis LotD Patch
+- OBIS SE - Organized Bandits In Skyrim Special Edition
+- OBIS Patrols
+- Synthesis
+
+### Updated
+
+- 2K Sanguine Rose v1.1
+- Simple Werewolf Favourite Howls Menu v1.5.1
+- Cathedral Weathers and Seasons v2.23b
+- Reliquary of Myth - Artifact Overhaul v3.6.1
+
+### Removed
+
+- CBPC - Physics with Collisions for SSE and VR - Some users reported a rare skeleton crash
+- CBP PHYSICS CONFIG
+
+### Fixes
+
+- Redid Bodyslides and made some additional fixes
+- A few more xEdit fixes
+
 ## 1.4.0
 
 ### Released at: `10/18/2020`
