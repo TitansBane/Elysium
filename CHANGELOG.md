@@ -2,7 +2,7 @@
 
 ## 1.5.1
 
-### Released at: `Unreleased`
+### Released at: `10/21/2020`
 
 ### Fixes
 
