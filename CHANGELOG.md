@@ -1,8 +1,16 @@
 # Changelog
 
-## 1.5.0
+## 1.5.1
 
 ### Released at: `Unreleased`
+
+### Fixes
+
+- Fix Synthesis patches dependency
+
+## 1.5.0
+
+### Released at: `10/21/2020`
 
 ### This update requires a new save
 
