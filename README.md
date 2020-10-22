@@ -165,12 +165,14 @@ Elysium uses the full suite of Enai Siaion's mods, which are:
 
 Various other mods are used to flesh out all aspects of the game as well such as:
 
-1. [Morrowloot Miscellania](https://www.nexusmods.com/skyrimspecialedition/mods/27094) for overhauling Skyrim's loot system
-2. [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612) for overhauling Skyrim’s unique items
-3. [Animated Armoury - New Weapons with animations](https://www.nexusmods.com/skyrimspecialedition/mods/15394) which adds new weapons to Skyrim with custom attack animations, for both the Player and NPCs
-4. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game
-5. [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) which fixes bugs and inconsistencies for Skyrim's weapons, armors, clothing, jewelry, and clutter items
-6. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod-added stuff
+1. [Morrowloot Miscellania](https://www.nexusmods.com/skyrimspecialedition/mods/27094) for overhauling Skyrim's loot system.
+2. [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612) for overhauling Skyrim’s unique items.
+3. [Animated Armoury - New Weapons with animations](https://www.nexusmods.com/skyrimspecialedition/mods/15394) which adds new weapons to Skyrim with custom attack animations, for both the Player and NPCs.
+4. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game.
+5. [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) which fixes bugs and inconsistencies for Skyrim's weapons, armors, clothing, jewelry, and clutter items.
+6. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod-added stuff.
+7. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is accomplished. Rather than only getting experience on skill level-ups, you now gain experience level for completing quests and killing monsters.
+8. [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds trait based weakness and resistances based on armor and enemy type.
 
 ### Quest and Encounter Mods
 
@@ -322,6 +324,12 @@ Stand still and wait until all messages have run through in the upper left corne
 - Enemy's Level → Enemy Meters:
   - Show Magicka Meter: Disable
   - Show Stamina Meter: Disable
+  
+#### OBIS - Patrols
+- Settings → Bandit Patrols:
+  - Enable?: Enable
+- Settings → Difficulty:
+  - How Tough?: Toughest
   
 #### Quick Light
 - Quick Light → Brightness:
