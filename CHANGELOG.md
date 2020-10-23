@@ -2,7 +2,7 @@
 
 ## 1.5.2
 
-### Released at: `Unreleased`
+### Released at: `10/23/2020`
 
 ### This update requires a new save for only the Creation Club profile
 
