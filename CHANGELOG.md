@@ -24,7 +24,6 @@
 
 ### Fixes
 
-- Fixed errors in the CRP
 - Regenerated Synthesis patches
 
 ## 1.5.1
