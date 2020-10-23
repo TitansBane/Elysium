@@ -1,5 +1,32 @@
 # Changelog
 
+## 1.5.2
+
+### Released at: `Unreleased`
+
+### This update requires a new save for only the Creation Club profile
+
+### Added
+
+- RUSTIC NORDIC MURALS
+
+### Updated
+
+- Unofficial Skyrim Creation Club Content Patches v5.1
+- Legacy of the Dragonborn Patches (Official) v2.4
+- Legacy of the Dragonborn - The Curators Companion v3.0.1
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0g
+- ETHEREAL CLOUDS v3.0
+
+### Removed
+
+- 4K Nordic Murals
+
+### Fixes
+
+- Fixed errors in the CRP
+- Regenerated Synthesis patches
+
 ## 1.5.1
 
 ### Released at: `10/21/2020`
