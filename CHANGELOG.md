@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.5.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Extravagant Interiors - Solitude
+- Sales Overflow Solved
+- Solitude Dome Paintings SSE
+
+### Updated
+
+- Legacy of the Dragonborn - The Curators Companion v3.0.2
+
+### Removed
+
+- PrivateProfileRedirector SE - Faster game start (INI file cacher)
+- 4K Blue Palace Floor
+
+### Fixes
+
+- Fixed KYE perks in the Synthesis patches
+
 ## 1.5.2
 
 ### Released at: `10/23/2020`
