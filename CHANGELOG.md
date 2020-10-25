@@ -13,6 +13,7 @@
 ### Removed
 
 - 2K Sanguine Rose
+- Outlandish Stalhrim SSE - Incompatible with the CC Stalhrim Fur Armor
 - Solitude Dome Paintings SSE - No longer needed due to the new esp
 
 ### Fixes
