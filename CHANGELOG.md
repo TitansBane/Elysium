@@ -2,13 +2,13 @@
 
 ## 1.6.0
 
-### Released at: `Unreleased`
+### Released at: `10/24/2020`
 
 ### Added
 
 - Project Clarity - Vanilla Armor Textures Redone - Using as a base which 98% of is overwritten
 - Project Clarity - Vanilla Weapon Textures Redone - Same as above
-- 4K Blue Palace Floor- Readded again due to the new esp
+- 4K Blue Palace Floor- Added again due to the new esp
 
 ### Removed
 
@@ -18,7 +18,7 @@
 
 ### Fixes
 
-- More compatibility fixes for Identity Crisis
+- Fix navmesh conflict with Identity Crisis and the Great City of Solitude
 - Regenerated xEdit patch output for Identity Crisis
 - Fixed Vokun's ground mesh texture path
 
