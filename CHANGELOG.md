@@ -12,6 +12,7 @@
 
 ### Removed
 
+- 2K Sanguine Rose
 - Solitude Dome Paintings SSE - No longer needed due to the new esp
 
 ### Fixes
