@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.6.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- Project Clarity - Vanilla Armor Textures Redone - Using as a base which 98% of is overwritten
+- Project Clarity - Vanilla Weapon Textures Redone - Same as above
+- 4K Blue Palace Floor- Readded again due to the new esp
+
+### Removed
+
+- Solitude Dome Paintings SSE - No longer needed due to the new esp
+
+### Fixes
+
+- More compatibility fixes for Identity Crisis
+- Regenerated xEdit patch output for Identity Crisis
+- Vokun ground model textures fix
+
+### Tweaks
+
+- Made a new Blue Palace replacer esp for Extravagant Interiors - Solitude. Only the Blue Palace will be affected from the meshes of that mod.
+
 ## 1.5.3
 
 ### Released at: `10/24/2020`
