@@ -20,7 +20,7 @@
 
 - More compatibility fixes for Identity Crisis
 - Regenerated xEdit patch output for Identity Crisis
-- Vokun ground model textures fix
+- Fixed Vokun's ground mesh texture path
 
 ### Tweaks
 
