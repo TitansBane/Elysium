@@ -24,7 +24,7 @@
 
 ### Tweaks
 
-- Made a new Blue Palace replacer esp for Extravagant Interiors - Solitude. Only the Blue Palace will be affected from the meshes of that mod.
+- Created a new Blue Palace replacer esp for Extravagant Interiors - Solitude. Only the Blue Palace will be affected by the meshes of that mod.
 
 ## 1.5.3
 
