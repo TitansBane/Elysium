@@ -1,5 +1,37 @@
 # Changelog
 
+## 1.6.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Waterplants
+- Waterplants - Depths of Skyrim - Cathedral Landscapes (Compatibility Patch)
+- Window Shadows
+- Window Shadows and Relighting Skyrim Patch
+
+### Updated
+
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.1
+- Dynamic Distant Objects LOD - DynDOLOD v2.86
+- Extravagant Interiors - Solitude
+- Rudy ENB SE for Cathedral Weathers v3.0
+
+### Removed
+
+- Relighting Skyrim SSE - No Player Homes
+
+### Fixes
+
+- Fixed trees positions in Keld-Nar
+- Fixed lighting in Fort Dawnguard
+- Regenerated DynDOLOD
+
+### Tweaks
+
+- Engine Fixes MemoryManager turn on by default
+
 ## 1.6.0
 
 ### Released at: `10/24/2020`
