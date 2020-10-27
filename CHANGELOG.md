@@ -2,7 +2,7 @@
 
 ## 1.6.2
 
-### Released at: `Unreleased`
+### Released at: `10/27/2020`
 
 ### Removed
 
