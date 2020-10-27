@@ -14,7 +14,6 @@
 ### Updated
 
 - Assorted mesh fixes 0.4
-- Rudy ENB CW Zangdar's Edit v3.0
 - Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.1
 - Dynamic Distant Objects LOD - DynDOLOD v2.86
 - Extravagant Interiors - Solitude
