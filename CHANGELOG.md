@@ -20,6 +20,7 @@
 
 ### Removed
 
+- CFTO - Dawnstar by Arthmoor Patch
 - Relighting Skyrim SSE - No Player Homes
 
 ### Fixes
