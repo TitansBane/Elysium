@@ -13,6 +13,7 @@
 
 ### Updated
 
+- Rudy ENB CW Zangdar's Edit v0.4
 - Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.1
 - Dynamic Distant Objects LOD - DynDOLOD v2.86
 - Extravagant Interiors - Solitude
@@ -27,6 +28,7 @@
 
 - Fixed trees positions in Keld-Nar
 - Fixed lighting in Fort Dawnguard
+- Fixed Nighteye for Rudy ENB CW Zangdar's Edit
 - Regenerated DynDOLOD
 
 ### Tweaks
