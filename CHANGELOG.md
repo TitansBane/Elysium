@@ -1,8 +1,21 @@
 # Changelog
 
-## 1.6.1
+## 1.6.2
 
 ### Released at: `Unreleased`
+
+### Removed
+
+- Window Shadows and Relighting Skyrim Patch - Made a better patch
+
+### Fixes
+
+- Fixed all lighting issues with Winterhold and etc.
+- Fixed ENB SSS, so characters' skins no longer appear reddish.
+
+## 1.6.1
+
+### Released at: `10/26/2020`
 
 ### Added
 
