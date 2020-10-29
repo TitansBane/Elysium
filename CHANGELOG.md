@@ -12,6 +12,7 @@
 - All-Maker Stones HD Retexture
 - Archery Target Retexture
 - Arvak Reborn
+- BBB4K - Better Browner Bread 4K
 - BetterFalmerCaveCeilingGlow
 - CC's HQ Roadsigns SSE
 - Cleaned Skyrim SE Textures
@@ -50,6 +51,16 @@
 - Interior Floating Fog Remover
 - Night Mummy- A Night Mother Makeover
 
+### Fixes
+
+- Dremoras will no longer disintegrate on death
+- Fixed water seams for RWT so they are less noticeable
+- Regenerated DynDOLOD
+
+### Tweaks
+
+- Turn off vanilla DOF
+
 ## 1.6.2
 
 ### Released at: `10/27/2020`
@@ -60,8 +71,8 @@
 
 ### Fixes
 
-- Fixed all lighting issues with Winterhold and etc.
-- Fixed ENB SSS, so characters' skins no longer appear reddish.
+- Fixed all lighting issues with Winterhold and etc
+- Fixed ENB SSS, so characters' skins no longer appear reddish
 
 ## 1.6.1
 
