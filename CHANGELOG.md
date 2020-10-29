@@ -38,6 +38,7 @@
 
 ### Updated
 
+- .NET Script Framework v14
 - Rudy ENB SE for Cathedral Weathers
 - Serana Dialogue Add-On
 - Unofficial Identity Crisis LotD Patch v1.6.0
