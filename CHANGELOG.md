@@ -1,5 +1,52 @@
 # Changelog
 
+## 1.7.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- 3D Whiterun Trellis
+- 4K Torture Rack
+- All-Maker Stones HD Retexture
+- Archery Target Retexture
+- Arvak Reborn
+- BetterFalmerCaveCeilingGlow
+- CC's HQ Roadsigns SSE
+- Cleaned Skyrim SE Textures
+- Circlet USSEP Fixes
+- Corpse burned UHD
+- ElSopa HD - Saerek Skull Key SE
+- Enhanced textures detail (UV-tweaks)
+- HD Bees and Honeycombs
+- Improved Sparks
+- MystiriousDawn's HD Skyrim Overhaul
+- Rain Barrel Fix and Retexture
+- Rally's Fishing Poles
+- Rally's Jurgen Windcaller Tomb
+- Real 3D Walls
+- Skyrim Realistic Overhaul
+- Skyrim Remastered - Azura and Blackreach Crystals
+- Snazzy Model Ship
+- Snazzy Quill of Gemination
+- Sweet Mother - the Night Mother Improvement
+- OIL
+- Unofficial Material Fix
+- Water for ENB
+- WOODFIRES - Redux
+
+### Updated
+
+- Rudy ENB SE for Cathedral Weathers v3.0
+- Serana Dialogue Add-On
+- Unofficial Identity Crisis LotD Patch v1.6.0
+- Window Shadows by HHaleyy v6.2
+
+### Removed
+
+- Interior Floating Fog Remover
+- Night Mummy- A Night Mother Makeover
+
 ## 1.6.2
 
 ### Released at: `10/27/2020`
