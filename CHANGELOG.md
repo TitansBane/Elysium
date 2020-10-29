@@ -6,6 +6,7 @@
 
 ### Added
 
+- 3D Snowberries Alternate Textures
 - 3D Whiterun Trellis
 - 4K Torture Rack
 - All-Maker Stones HD Retexture
@@ -44,6 +45,7 @@
 
 ### Removed
 
+- 3D Snowberries
 - Interior Floating Fog Remover
 - Night Mummy- A Night Mother Makeover
 
