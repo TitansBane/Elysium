@@ -54,6 +54,7 @@
 ### Fixes
 
 - Dremoras will no longer disintegrate on death
+- Fixed Myrwatch main chamber from vanishing
 - Fixed water seams for RWT so they are less noticeable
 - Regenerated DynDOLOD
 
