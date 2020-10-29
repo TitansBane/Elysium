@@ -42,7 +42,7 @@
 - Rudy ENB SE for Cathedral Weathers
 - Serana Dialogue Add-On
 - Unofficial Identity Crisis LotD Patch v1.6.0
-- Window Shadows by HHaleyy v6.2
+- Window Shadows by HHaleyy v6.3
 
 ### Removed
 
