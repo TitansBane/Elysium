@@ -12,7 +12,6 @@
 - DragonStone Re-texture SE
 - Favor Jobs Overhaul
 - Guard Dialogue Overhaul - UHDAP Patch
-- Improved Traps - Mining Makes Noise
 - kryptopyr's Patch Hub - Installing only the Bandoliers + CCOR patch
 - Organic Riften Leaves
 - RedBag's Dragonsreach - SE
