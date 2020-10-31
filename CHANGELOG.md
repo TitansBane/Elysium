@@ -1,5 +1,48 @@
 # Changelog
 
+## 2.0.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- Aspens Ablaze
+- Buyable Golden Claw
+- Cathedral - 3D Mountain Flowers
+- DragonStone Re-texture SE
+- Improved Traps - Mining Makes Noise
+- kryptopyr's Patch Hub - Installing only the Bandoliers + CCOR patch
+- Skyrim 3D Landscapes - Plugin replacer for just the water plants
+- Organic Riften Leaves
+- RedBag's Dragonsreach - SE
+
+### Updated
+
+- ArteFakes - Unique Artifacts Replacer v1.2c
+- Better Dynamic Majestic Mountains v10
+- Legacy of the Dragonborn - The Curators Companion v3.0.3
+- Majestic Mountains - Cathedral Concept v3.10
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0h
+- Serana Dialogue Add-On v1.9.5
+- Unofficial Skyrim Creation Club Content Patches v5.3
+- Veydosebrom Regions - Merge both the old and new version for specific grasses
+
+### Removed
+
+- Bloodskal Blade Redone - Prefer the original look
+- Waterplants - Replace with Skyrim 3D Landscapes water plants
+- Waterplants - Depths of Skyrim - Cathedral Landscapes (Compatibility Patch)
+
+### Fixes
+
+- Complete consistency patching for Vigilants
+- Lots of xEdit fixes
+- Fixed the Saints & Seducers Butterflies textures when use alongside Butterfly Improved
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated xEdit patch output again
+- Reran Nemesis to fix claws animation for NPCs
+
 ## 1.7.0
 
 ### Released at: `10/29/2020`
