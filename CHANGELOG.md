@@ -10,11 +10,13 @@
 - Buyable Golden Claw
 - Cathedral - 3D Mountain Flowers
 - DragonStone Re-texture SE
+- Favor Jobs Overhaul
+- Guard Dialogue Overhaul - UHDAP Patch
 - Improved Traps - Mining Makes Noise
 - kryptopyr's Patch Hub - Installing only the Bandoliers + CCOR patch
-- Skyrim 3D Landscapes - Plugin replacer for just the water plants
 - Organic Riften Leaves
 - RedBag's Dragonsreach - SE
+- Skyrim 3D Landscapes - Plugin replacer for just the water plants
 
 ### Updated
 
@@ -36,8 +38,8 @@
 ### Fixes
 
 - Complete consistency patching for Vigilants
-- Lots of xEdit fixes
 - Fixed the Saints & Seducers Butterflies textures when use alongside Butterfly Improved
+- Lots of xEdit fixes
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated xEdit patch output again
