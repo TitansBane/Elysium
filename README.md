@@ -419,3 +419,11 @@ While I am sometimes available on the [Wabbajack Discord](https://discord.gg/wab
 ## Changelog
 
 See [Changelog](CHANGELOG.md).
+
+## Licenses
+
+- [ReShade License](RESHADELICENSE.md)
+
+***
+
+[[Back to top]](#elysium)
