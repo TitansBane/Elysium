@@ -41,13 +41,14 @@
 ### Fixes
 
 - Completed consistency patching for Vigilants
+- Fixed Depths of Skyrim crashes and remove the hideous kelp grass
+- Fixed range issue with Animated Armory that also fixes the claws not functioning for NPCs
 - Fixed the Saints & Seducers Butterflies textures when use alongside Butterfly Improved
 - Lots of xEdit fixes
 - Regenerated AllGUD
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated xEdit patch output again
-- Fixed range issue with Animated Armory that also fixes the claws not functioning for NPCs.
 
 ## 1.7.0
 
