@@ -29,6 +29,7 @@
 - Enemy (R)Evolution of Skyrim - EEOS v1.76.5
 - Legacy of the Dragonborn - The Curators Companion v3.0.3
 - Majestic Mountains - Cathedral Concept v3.20
+- More DBM Shipping Crates v1.1
 - Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0h
 - Serana Dialogue Add-On v1.9.5
 - Unofficial Skyrim Creation Club Content Patches v5.3
