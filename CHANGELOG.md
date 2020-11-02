@@ -8,6 +8,7 @@
 
 ### Added
 
+- 3W's - More lights for ENB SE - Mania tileset
 - Aspens Ablaze
 - Buyable Golden Claw
 - Cathedral - 3D Mountain Flowers
