@@ -46,7 +46,7 @@
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated xEdit patch output again
-- Reran Nemesis to fix claws animation for NPCs
+- Fixed range issue with Animated Armory that also fixes the claws not functioning for NPCs.
 
 ## 1.7.0
 
