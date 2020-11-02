@@ -4,6 +4,8 @@
 
 ### Released at: `Unreleased`
 
+## This update requires a new save game
+
 ### Added
 
 - Aspens Ablaze
