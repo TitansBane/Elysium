@@ -40,9 +40,10 @@
 
 ### Fixes
 
-- Complete consistency patching for Vigilants
+- Completed consistency patching for Vigilants
 - Fixed the Saints & Seducers Butterflies textures when use alongside Butterfly Improved
 - Lots of xEdit fixes
+- Regenerated AllGUD
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated xEdit patch output again
