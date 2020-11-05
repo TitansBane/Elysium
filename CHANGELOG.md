@@ -2,7 +2,7 @@
 
 ## 2.0.0
 
-### Released at: `Unreleased`
+### Released at: `11/02/2020`
 
 ## This update requires a new save game
 
