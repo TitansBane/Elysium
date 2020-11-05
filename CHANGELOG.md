@@ -1,5 +1,47 @@
 # Changelog
 
+## 2.1.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Bijin - Your Bodyslide Mesh and Texture
+- Bijin NPCs SE
+- Bijin Warmaidens SE
+- Bijin Wives SE
+- eeekie's Enhanced NPCs
+- Followers Hirelings and Housecarls SSE
+- Fresh Faces
+- Inigo the Suave - High-Poly Replacer
+- Kalilies NPCs
+- Metalsabers Beautiful Orcs of Skyrim
+- Pandorable's NPCs
+- Pandorable's NPCs - Dawnguard
+- Pandorable's NPCs - Dragonborn
+- Remiros' Dragonborn Alcohol HD
+- Skyrim Flora Overhaul SE - Only using the snow pine trees
+- The Ordinary Women SSE
+- 
+
+### Updated
+
+- Embershard Mine - Revisited v1.1.1
+- Realistic Water Two Patch Hub - Oakwood Patch
+- White River Watch - Revisited v1.0.2
+
+### Removed
+
+- Animated Armoury Vigilant Patch - Redundant now with the consistency patching for Vigilant
+- Ethereal Elven Overhaul - A conflict nightmare to patch with other NPC overhauls that touches elven NPCs
+- Ethereal Elven Overhaul Patches
+
+### Tweaks
+
+- Swap to Realistic AI Detection medium from the lite version
+
 ## 2.0.0
 
 ### Released at: `11/02/2020`
