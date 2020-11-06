@@ -39,7 +39,6 @@
 ### Updated
 
 - Embershard Mine - Revisited v1.1.1
-- HD Reworked Mammoths
 - Legacy of the Dragonborn - Creation Club Patch Hub v3.0.5
 - Realistic Water Two Patch Hub - Oakwood Patch
 - Serana Dialogue Add-On v1.9.6
@@ -53,6 +52,7 @@
 - Cathedral - 3D Mountain Flowers
 - Ethereal Elven Overhaul - A conflict nightmare to patch with other NPC overhauls that touches elven NPCs
 - Ethereal Elven Overhaul Patches
+- HD Reworked Mammoths
 
 ### Fixes
 
