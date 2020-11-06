@@ -41,6 +41,7 @@
 - Legacy of the Dragonborn - Creation Club Patch Hub v3.0.5
 - Realistic Water Two Patch Hub - Oakwood Patch
 - Serana Dialogue Add-On v1.9.6
+- Synthesis v0.10.13
 - White River Watch - Revisited v1.0.2
 
 ### Removed
@@ -49,6 +50,11 @@
 - Cathedral - 3D Mountain Flowers
 - Ethereal Elven Overhaul - A conflict nightmare to patch with other NPC overhauls that touches elven NPCs
 - Ethereal Elven Overhaul Patches
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
 
 ### Tweaks
 
