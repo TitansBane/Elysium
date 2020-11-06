@@ -50,6 +50,7 @@
 - Animated Armoury Vigilant Patch - Redundant now with the consistency patching for Vigilant
 - Bellyaches Animal and Creature Pack SSE
 - Cathedral - 3D Mountain Flowers
+- ElSopa HD - Bristleback SE
 - Ethereal Elven Overhaul - A conflict nightmare to patch with other NPC overhauls that touches elven NPCs
 - Ethereal Elven Overhaul Patches
 - HD Reworked Horses
