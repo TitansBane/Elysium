@@ -52,6 +52,7 @@
 - Cathedral - 3D Mountain Flowers
 - Ethereal Elven Overhaul - A conflict nightmare to patch with other NPC overhauls that touches elven NPCs
 - Ethereal Elven Overhaul Patches
+- HD Reworked Horses
 - HD Reworked Mammoths
 
 ### Fixes
