@@ -29,6 +29,7 @@
 - Pandorable's NPCs - males
 - Remiros' Dragonborn Alcohol HD
 - Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+- Skyrim 3D Docks and Boardwalks
 - Skyrim 3D Trees and Plants - Plugin replacer for just the 3d plants
 - Skyrim Flora Overhaul SE - Only using the snow pine trees
 - The Ordinary Women SSE
@@ -37,6 +38,7 @@
 ### Updated
 
 - Embershard Mine - Revisited v1.1.1
+- Legacy of the Dragonborn - Creation Club Patch Hub v3.0.5
 - Realistic Water Two Patch Hub - Oakwood Patch
 - Serana Dialogue Add-On v1.9.6
 - White River Watch - Revisited v1.0.2
@@ -50,6 +52,7 @@
 
 ### Tweaks
 
+- Patch Animated Armoury Daedric claws for both AllGUD and Rudy HQ Daedric Weapons
 - Swap to Realistic AI Detection medium from the lite version
 
 ## 2.0.0
