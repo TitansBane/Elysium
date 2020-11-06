@@ -9,9 +9,11 @@
 ### Added
 
 - Bijin - Your Bodyslide Mesh and Texture
+- Bijin Family - Salt and Wind Textures SE
 - Bijin NPCs SE
 - Bijin Warmaidens SE
 - Bijin Wives SE
+- Cathedral - 3D Pine Grass
 - eeekie's Enhanced NPCs
 - Followers Hirelings and Housecarls SSE
 - Fresh Faces
@@ -19,22 +21,30 @@
 - Kalilies NPCs
 - Metalsabers Beautiful Orcs of Skyrim
 - Pandorable's NPCs
+- Pandorable's NPCs - Salt and Wind Textures
 - Pandorable's NPCs - Dawnguard
+- Pandorable's NPCs - Dawnguard SE - Salt and Wind Textures
 - Pandorable's NPCs - Dragonborn
+- Pandorable's NPCs - Dragonborn - Salt and Wind Textures
+- Pandorable's NPCs - males
 - Remiros' Dragonborn Alcohol HD
+- Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+- Skyrim 3D Trees and Plants - Plugin replacer for just the 3d plants
 - Skyrim Flora Overhaul SE - Only using the snow pine trees
 - The Ordinary Women SSE
-- 
+- The Ordinary Women - Salt and Wind Textures SE
 
 ### Updated
 
 - Embershard Mine - Revisited v1.1.1
 - Realistic Water Two Patch Hub - Oakwood Patch
+- Serana Dialogue Add-On v1.9.6
 - White River Watch - Revisited v1.0.2
 
 ### Removed
 
 - Animated Armoury Vigilant Patch - Redundant now with the consistency patching for Vigilant
+- Cathedral - 3D Mountain Flowers
 - Ethereal Elven Overhaul - A conflict nightmare to patch with other NPC overhauls that touches elven NPCs
 - Ethereal Elven Overhaul Patches
 
