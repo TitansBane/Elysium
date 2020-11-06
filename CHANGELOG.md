@@ -27,6 +27,7 @@
 - Pandorable's NPCs - Dragonborn
 - Pandorable's NPCs - Dragonborn - Salt and Wind Textures
 - Pandorable's NPCs - males
+- Project Clarity - Creature Textures Redone
 - Remiros' Dragonborn Alcohol HD
 - Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
 - Skyrim 3D Docks and Boardwalks
@@ -47,6 +48,7 @@
 ### Removed
 
 - Animated Armoury Vigilant Patch - Redundant now with the consistency patching for Vigilant
+- Bellyaches Animal and Creature Pack SSE
 - Cathedral - 3D Mountain Flowers
 - Ethereal Elven Overhaul - A conflict nightmare to patch with other NPC overhauls that touches elven NPCs
 - Ethereal Elven Overhaul Patches
