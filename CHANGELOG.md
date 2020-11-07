@@ -10,7 +10,7 @@
 
 ### Fixes
 
-- Fixed issue with NFF overwriting the voices from the Serana Dialogue NFF patch
+- Fixed an issue with NFF overwriting the voice files from the Serana Dialogue NFF patch
 - Fixed the Staff of Magnus using the wrong model
 
 ## 2.1.2
