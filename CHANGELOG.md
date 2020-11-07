@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.1.3
+
+### Released at: `Unreleased`
+
+### Updated
+
+- Guard Dialogue Overhaul SE v2.14
+
+### Fixes
+
+- Fixed the Staff of Magnus using the wrong model
+
 ## 2.1.2
 
 ### Released at: `11/07/2020`
