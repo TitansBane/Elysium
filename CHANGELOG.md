@@ -10,7 +10,7 @@
 
 ### Tweaks
 
-- Swap all previous creature textures installed from the last update to 2k for a slight performance gained.
+- Swap all previous creature textures installed from the last update to 2k for a slight performance gained
 
 ## 2.1.1
 
