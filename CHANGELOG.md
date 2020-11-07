@@ -1,8 +1,20 @@
 # Changelog
 
-## 2.1.1
+## 2.1.2
 
 ### Released at: `Unreleased`
+
+### Updated
+
+- Creation Club Integration - Armours v2.1.3
+
+### Tweaks
+
+- Swap all previous creature textures installed from the last update to 2k for a slight performance gained.
+
+## 2.1.1
+
+### Released at: `11/07/2020`
 
 ### Added
 
