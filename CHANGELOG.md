@@ -1,8 +1,36 @@
 # Changelog
 
-## 2.1.0
+## 2.1.1
 
 ### Released at: `Unreleased`
+
+### Added
+
+- DRAGON PRIEST
+- DRAUGR
+- FALMER
+- Hagraven Claw
+- HAPPY HORKER - RUSTIC Retexture for HD HORKER
+- MM - REAL ELKS
+- Photoreal Foxes 2K HD Retexture
+- PondFish - HD
+- Realistic Horse Breeds by KrittaKitty
+- Salmon Roe model replacer 3D
+- SKELETON
+
+### Updated
+
+- Project Clarity - Creature Textures Redone v1.2
+- Serana Dialogue Add-On v2.0.0
+
+### Fixes
+
+- Fixed Aela werewolf form being invisible
+- Regenerated Synthesis patches
+
+## 2.1.0
+
+### Released at: `11/06/2020`
 
 ## This update requires a new save game
 
