@@ -2,7 +2,7 @@
 
 ## 2.1.2
 
-### Released at: `Unreleased`
+### Released at: `11/07/2020`
 
 ### Updated
 
