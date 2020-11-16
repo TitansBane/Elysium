@@ -1,5 +1,66 @@
 # Changelog
 
+## 2.2.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- ELE-ELFX Consistency Patch and Tweaks
+- ELFX Dwemer Floor Footsteps Fix
+- ELFX Fixes
+- Enhanced Lighting for ENB
+- Enhanced Lights and FX
+- Fortified Whiterun
+- JK's Dragonsreach
+- JK's Skyrim
+- Lanterns Of Skyrim II - Tamriel Master Lights Cities Version
+- No Grass In Objects
+- Remiros' Bloodskal Blade HD
+- Sacrilege - Minimalistic Vampires of Skyrim
+- SHIT MOD - Mesh Improvement Mod
+- Sky Haven Temple HD
+- Sufficiently Optimized Snowberries 3D
+- The Great Cities ELFX Compatibility - Winterhold
+- Unofficial Enhanced Lights and FX ELFX SMIM fps patch for SE
+
+### Updated
+
+- 3D Whiterun Trellis v1.1
+- Dwemer Gates Don't Reset v1.2.4
+- Enhanced Atronachs v3.0BLite
+- Legacy of the Dragonborn - The Curators Companion v4.0.0
+- Reliquary of Myth - Artifact Overhaul v3.6.2
+- Riften Docks Overhaul v1.5
+- Rudy ENB CW Zangdar's Edit v3.1
+- Rudy HQ - Miscellaneous SE v1.02
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0i
+- Serana Dialogue Add-On v2.0.3
+- Zephyr Redone v2.0
+
+### Removed
+
+- 3D Snowberries
+- 3D Snowberries HD Texture Option
+- Luminosity Lighting Overhaul
+- Organic Riften Leaves - Using High Poly Project 3D leaves instead
+- Relighting Skyrim - SSE
+- Sacrosanct - Vampires of Skyrim
+- Window Shadows
+
+### Fixes
+
+- Completed consistency patching for Thunderchild, Tools of Kagrenac, and 3DNPC
+- Patch Rudy's Daedric armor and Frank's Imperial armors for CBBE
+- Fixed blackfaces for a few NPCs
+- Hundreds of xEdit fixes
+- Regenerated AllGUD
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated xEdit patch output
+
 ## 2.1.3
 
 ### Released at: `11/07/2020`
