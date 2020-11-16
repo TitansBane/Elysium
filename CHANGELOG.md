@@ -32,6 +32,7 @@
 - Dwemer Gates Don't Reset v1.2.4
 - Enhanced Atronachs v3.0BLite
 - Legacy of the Dragonborn - The Curators Companion v4.0.0
+- Project Clarity - Vanilla Armor Textures Redone v2.2
 - Reliquary of Myth - Artifact Overhaul v3.6.2
 - Riften Docks Overhaul v1.5
 - Rudy ENB CW Zangdar's Edit v3.1
