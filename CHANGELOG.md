@@ -13,6 +13,7 @@
 - ELFX Fixes
 - Enhanced Lighting for ENB
 - Enhanced Lights and FX
+- Face Discoloration Fix
 - Fortified Whiterun
 - JK's Dragonsreach
 - JK's Skyrim
@@ -39,6 +40,7 @@
 - Rudy HQ - Miscellaneous SE v1.02
 - Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0i
 - Serana Dialogue Add-On v2.0.3
+- Synthesis v0.10.18
 - Zephyr Redone v2.0
 
 ### Removed
