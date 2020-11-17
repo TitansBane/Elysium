@@ -57,8 +57,9 @@
 
 - Completed consistency patching for Thunderchild, Tools of Kagrenac, and 3DNPC
 - Patch Rudy's Daedric armor and Frank's Imperial armors for CBBE
-- Fixed blackfaces for a few NPCs
-- Hundreds of xEdit fixes
+- Fixed black faces for a few NPCs
+- Hundreds of xEdit fixes and consistency patching
+- Tweak grass settings for a slight fps gained
 - Regenerated AllGUD
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
