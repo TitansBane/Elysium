@@ -1,5 +1,34 @@
 # Changelog
 
+## 2.2.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- 3D Solitude Market Trellis
+
+### Updated
+
+- Sacrilege - Minimalistic Vampires of Skyrim v1.2
+- Skyrim Landscape and Water Fixes v5.7
+
+### Fixes
+
+- A dozen missed xEdit fixes from the previous update
+- Fixed a few patrol markers in WInterhold so NPCs will no longer walk into walls
+- Fixed all Blacksmith trough to be compatible with RWT
+- Fixed Myrwatch cell again
+- Merge both ETaC and Jks Riverwood overhaul
+- Patch Fortified Whiterun to be compatible with LoS II + TML
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated xEdit patch output
+
+### Tweaks
+
+- Optimize grass settings for a very slight performance increase
+
 ## 2.2.0
 
 ### Released at: `11/17/2020`
