@@ -10,6 +10,9 @@
 
 ### Updated
 
+- Dynamic Distant Objects LOD - DynDOLOD v2.87
+- Frozen Electrocuted Combustion v4.0
+- powerofthree's Papyrus Extender for SSE v4.0
 - Sacrilege - Minimalistic Vampires of Skyrim v1.2
 - Skyrim Landscape and Water Fixes v5.7
 
