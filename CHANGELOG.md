@@ -30,7 +30,7 @@
 
 ### Tweaks
 
-- Optimize grass settings for a very slight performance increase
+- Optimize grass settings for a very small performance increase
 
 ## 2.2.0
 
