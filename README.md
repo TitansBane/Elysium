@@ -345,7 +345,6 @@ Stand still and wait until all messages have run through in the upper left corne
   - The Fall of Granite Hill: Enable
   - Kynesgrove: Enable
   - Rorikstead: Enable
-  - Expanded Towns and Cities SSE: Enable
   
 #### SSoB
 - Quest Markers:
