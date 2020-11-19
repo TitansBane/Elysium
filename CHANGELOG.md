@@ -4,13 +4,19 @@
 
 ### Released at: `Unreleased`
 
+### Added
+
+- Item Durability
+
 ### Updated
 
+- Serana Dialogue Add-On v2.0.4
 - Unofficial Skyrim Creation Club Content Patches v5.4
 
 ### Fixes
 
-- Fixed a repeatable crash that would occur outside Whiterun
+- Patch another Blacksmith trough in Solitude that was missed last update
+- Fixed a repeatable crash that could occur outside Whiterun
 
 ## 2.2.1
 
