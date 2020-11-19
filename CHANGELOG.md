@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.2.2
+
+### Released at: `Unreleased`
+
+### Updated
+
+- Unofficial Skyrim Creation Club Content Patches v5.4
+
+### Fixes
+
+- Fixed a repeatable crash that would occur outside Whiterun
+
 ## 2.2.1
 
 ### Released at: `11/18/2020`
