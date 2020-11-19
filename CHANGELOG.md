@@ -2,7 +2,7 @@
 
 ## 2.2.2
 
-### Released at: `Unreleased`
+### Released at: `11/19/2020`
 
 ### Added
 
@@ -15,7 +15,7 @@
 
 ### Fixes
 
-- Patch another Blacksmith trough in Solitude that was missed last update
+- Patch another Blacksmith trough in Solitude that was missed in the last update
 - Fixed a repeatable crash that could occur outside Whiterun
 
 ## 2.2.1
