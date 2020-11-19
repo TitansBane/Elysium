@@ -2,7 +2,7 @@
 
 ## 2.2.1
 
-### Released at: `Unreleased`
+### Released at: `11/18/2020`
 
 ### Added
 
@@ -19,7 +19,7 @@
 ### Fixes
 
 - A dozen missed xEdit fixes from the previous update
-- Fixed a few patrol markers in WInterhold so NPCs will no longer walk into walls
+- Fixed a few patrol markers in Winterhold so NPCs will no longer walk into walls
 - Fixed all Blacksmith trough to be compatible with RWT
 - Fixed Myrwatch cell again
 - Merge both ETaC and Jks Riverwood overhaul
