@@ -7,6 +7,7 @@
 ### Added
 
 - JK's Skyrim - Farmhouse Chimneys Patch
+- Extravagant Interiors - Solitude 4K
 
 ### Updated
 
@@ -21,6 +22,7 @@
 
 - Added a missing patch for JK's Skyrim and Finding Helgi and Laelette
 - Fixed a few issues with the ETaC + Jks Riverwood patch
+- Fixed disable some objects from the Saint and Seducer CC that were clipping into the mountainside by Solitude
 
 ### Tweaks
 
