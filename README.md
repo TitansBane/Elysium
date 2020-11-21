@@ -223,14 +223,10 @@ Stand still and wait until all messages have run through in the upper left corne
 
 ## In-Game MCM Options
 
-All required MCM options have been automated for you. Enjoy the game or tweak the following to your liking:
+All the required MCM options have been automated for you. Enjoy the game or tweak the following to your liking:
 
 #### Lucien 
 - (If you set a nickname that's supported he can call you by that name)
-
-#### Timing is Everything
-- Extra Options → Presets:
-  - Load Preset:
 
 #### VIGILANT
  - No tweak here; you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It will make much more sense if you do it after the Dawnguard questline and the House of Horrors quest.
