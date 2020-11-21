@@ -1,5 +1,31 @@
 # Changelog
 
+## 2.2.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- JK's Skyrim - Farmhouse Chimneys Patch
+
+### Updated
+
+- Bleak falls barrow - Revisited v1.2.1
+- Embershard Mine - Revisited v1.1.2
+- EVG Conditional Idles v1.4
+- Halted Stream Camp - Revisited v1.0.2
+- Item Durability v2
+- Ustengrav - Revisited v1.1.2
+
+### Fixes
+
+- Added a missing patch for JK's Skyrim and Finding Helgi and Laelette
+- Fixed a few issues with the ETaC + Jks Riverwood patch
+
+### Tweaks
+
+- Required MCM options have been automated for the player
+
 ## 2.2.2
 
 ### Released at: `11/19/2020`
