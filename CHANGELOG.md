@@ -2,7 +2,7 @@
 
 ## 2.2.3
 
-### Released at: `Unreleased`
+### Released at: `11/21/2020`
 
 ### Added
 
@@ -26,7 +26,7 @@
 
 ### Tweaks
 
-- Required MCM options have been automated for the player
+- All required MCM options have been automated for the player
 
 ## 2.2.2
 
