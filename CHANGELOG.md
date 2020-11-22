@@ -19,7 +19,7 @@
 - Fixed a few floating lanterns in Windhelm
 - Fixed a CTD that would occur when entering Eldengleam Sanctuary
 - Regenerated Synthesis patches
-- Turn off the Clockwork Glided resurrect mechanics to prevents possible crashes
+- Turn off the Clockwork Glided resurrect mechanics to prevent possible crashes
 
 ## 2.2.3
 
