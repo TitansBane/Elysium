@@ -1,5 +1,26 @@
 # Changelog
 
+## 2.2.4
+
+### Released at: `Unreleased`
+
+### Added
+
+- Flinching - Script Free Edition
+- Legacy of the Dragonborn - Blended Roads Patch
+- OnHit Animations Framework - SSE
+
+### Updated
+
+- Frozen Electrocuted Combustion v4.1
+
+### Fixes
+
+- Fixed a few floating lanterns in Windhelm
+- Fixed a CTD that would occur when entering Eldengleam Sanctuary
+- Regenerated Synthesis patches
+- Turn off the Clockwork Glided resurrect mechanics to prevents possible crashes
+
 ## 2.2.3
 
 ### Released at: `11/21/2020`
