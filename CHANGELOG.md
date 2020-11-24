@@ -18,6 +18,10 @@
 - Pirate's Life for Me - A Creation Club Integration Mod v1.1.0
 - Unofficial Skyrim Creation Club Content Patches v5.5
 
+### Removed
+
+- MAPS
+
 ### Fixes
 
 - Auriel's Bow and Shield will no longer degrade with item durability
