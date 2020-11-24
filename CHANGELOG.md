@@ -1,5 +1,34 @@
 # Changelog
 
+## 2.3.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- lilebonymace xEdit scripts
+- Majestic Landscapes
+- RUSTIC MAPS
+
+### Updated
+
+- Cathedral - 3D Pine Grass v0.458
+- Embershard Mine - Revisited v1.1.3
+- No Grass In Objects v3
+- Pirate's Life for Me - A Creation Club Integration Mod v1.1.0
+- Unofficial Skyrim Creation Club Content Patches v5.5
+
+### Fixes
+
+- Auriel's Bow and Shield will no longer degrade with item durability
+- Enemies can now follow you through loading screen doors in almost every cell
+- Fixed an issue with Riften Docks Overhaul LODs not disappearing when up close
+- Patch all modded flora for Wiseman303's Flora Fixes - Revamp
+
+### Tweaks
+
+- Optimize the ini settings for a 5-10 fps performance boost without diminishing the visuals quality too much
+
 ## 2.2.4
 
 ### Released at: `11/21/2020`
