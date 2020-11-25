@@ -27,7 +27,7 @@
 ### Tweaks
 
 - Creation Club profile ini settings are now identical to the default profile
-- Default game diffculty is now Master
+- Default game difficulty is now Master
 - Generated grass for No Grass In Objects (Small performance hit for extending grass drawing distance beyond the regular amounts)
 
 ## 2.3.0
