@@ -1,5 +1,33 @@
 # Changelog
 
+## 2.3.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Difficulty Balance
+- Ingredients
+- SSE Parallax Shader Fix (BETA)
+
+### Updated
+
+- Lanterns Of Skyrim II v3.0
+- Pandorable's NPCs - males v1.1
+- Survival Control Panel v1.0.3
+
+### Fixes
+
+- A few xEdit fixes
+- Fixed Dyndolod crash-related issues on the Creation Club profile
+- Forward two USSEP fixes in the NPC retexture merge
+- Regenerated Synthesis patches
+- Updated all custom LoS II patches for the newest version of LoS II
+
+### Tweaks
+
+- Creation Club profile ini settings are now identical to the default profile
+
 ## 2.3.0
 
 ### Released at: `11/23/2020`
