@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.3.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Smooth Windhelm Ground Meshes
+
+### Fixes
+
+- Fixed Fralia nakedness - Why does the mod make her naked?
+
 ## 2.3.1
 
 ### Released at: `11/25/2020`
