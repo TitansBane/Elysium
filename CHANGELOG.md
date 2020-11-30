@@ -1,5 +1,63 @@
 # Changelog
 
+## 2.4.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- Equip Enchantment Fix
+- Favorite Misc Items
+- Horse Hide Retexture
+- Horse Shoulder Harness Retexture
+- Imperial Saddle Retexture
+- Light Horses of Skyrim (Realistic body and fur)
+- Loki's Wade In Water
+- Project Clarity - Vanilla Clothing And Jewelry Textures Redone
+- Rally's Lava
+- Shadowmere Saddle Retexture
+- SmoothCam
+- SmoothCam - EasyEase Preset
+- Soul Husk Retexture
+- Yee Haaaa Horse Saddle Retexture
+
+### Updated
+
+- Cathedral - 3D Pine Grass v0.461
+- Cuyima Interesting NPCs SE v1.1
+- Frozen Electrocuted Combustion v4.2
+- Item Durability v3
+- Legacy of the Dragonborn SSE v5.4.4
+- OnHit Animations Framework - SSE v0.95
+- Quick Loot RE v2.8.4
+- RUSTIC MAPS v2.0
+- Serana Dialogue Add-On v2.1.0
+
+### Removed
+
+- Bandolier - Bags and Pouches Classic - Clips badly with AllGUD
+- Enhanced Atronachs - With Levelling and Luminosity - Removed for balancing reasons
+- HD Lava for Dawnguard - Superseded by Rally's Lava
+- kryptopyr's Patch Hub - Removing the Bandoliers + CCOR patch
+- Realistic Horse Breeds by KrittaKitty - Replaced with Light Horses of Skyrim
+
+### Fixes
+
+- Disable a barrel from Jks Cities that was clipping into another barrel from the Gray Cowl of Nocturnal Creation Club
+- Fixed a few items that were inaccessible in Falkreath from the mod Falkreath Hauntings
+- Fixed LODs that was missing from Majestic Landscapes
+- Fixed the skeleton crash that could sometimes occur. These can still happen if you don't update your VC to the latest version
+- Forward a USSEP fix to an aspen tree overwritten by Aspen Ablaze
+- Reduce the stuttering that would occur when loading a cell with pre-generated grass
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Restalled High Poly Project for more high poly objects
+- Reverted the settings to high quality due to being too negligible and instead lower grass density yielding a higher performance boost
+
 ## 2.3.2
 
 ### Released at: `11/25/2020`
