@@ -29,7 +29,9 @@
 - Item Durability v3
 - Legacy of the Dragonborn SSE v5.4.4
 - OnHit Animations Framework - SSE v0.95
+- Project Clarity - Creature Textures Redone v1.3
 - Quick Loot RE v2.8.4
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0j
 - RUSTIC MAPS v2.0
 - Serana Dialogue Add-On v2.1.0
 
@@ -45,6 +47,7 @@
 
 - Disable a barrel from Jks Cities that was clipping into another barrel from the Gray Cowl of Nocturnal Creation Club
 - Fixed a few items that were inaccessible in Falkreath from the mod Falkreath Hauntings
+- Fixed enchantment charge for phantom weapons
 - Fixed LODs that was missing from Majestic Landscapes
 - Fixed the skeleton crash that could sometimes occur. These can still happen if you don't update your VC to the latest version
 - Forward a USSEP fix to an aspen tree overwritten by Aspen Ablaze
