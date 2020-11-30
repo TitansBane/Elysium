@@ -52,11 +52,12 @@
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
+- Removed cells from JKs Rorikstead that were never meant to be accessible
 
 ### Tweaks
 
 - Restalled High Poly Project for more high poly meshes
-- Reverted the settings to high quality due to being too negligible and instead lower grass density yielding a higher performance boost
+- Reverted the settings back to high quality due to being too negligible and instead lower grass density yielding a higher performance boost
 
 ## 2.3.2
 
