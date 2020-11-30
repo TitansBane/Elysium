@@ -28,6 +28,7 @@
 - Frozen Electrocuted Combustion v4.2
 - Item Durability v3
 - Legacy of the Dragonborn SSE v5.4.4
+- No Grass In Objects v5
 - OnHit Animations Framework - SSE v0.95
 - Project Clarity - Creature Textures Redone v1.3
 - Quick Loot RE v2.8.4
