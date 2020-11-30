@@ -40,12 +40,14 @@
 
 - Bandolier - Bags and Pouches Classic - Clips badly with AllGUD
 - Enhanced Atronachs - With Levelling and Luminosity - Removed for balancing reasons
+- Face Discoloration Fix - No longer needed as no more Black Face bugs exist
 - HD Lava for Dawnguard - Superseded by Rally's Lava
 - kryptopyr's Patch Hub - Removing the Bandoliers + CCOR patch
 - Realistic Horse Breeds by KrittaKitty - Replaced with Light Horses of Skyrim
 
 ### Fixes
 
+- All OBIS Bandits will no longer have the Black Face bug
 - Disable a barrel from Jks Cities that was clipping into another barrel from the Gray Cowl of Nocturnal Creation Club
 - Fixed a few items that were inaccessible in Falkreath from the mod Falkreath Hauntings
 - Fixed enchantment charge for phantom weapons
