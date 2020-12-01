@@ -31,6 +31,7 @@
 - No Grass In Objects v5
 - OnHit Animations Framework - SSE v0.95
 - Project Clarity - Creature Textures Redone v1.3
+- Provincial Courier Service v4.1.1
 - Quick Loot RE v2.8.4
 - Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0j
 - RUSTIC MAPS v2.0
