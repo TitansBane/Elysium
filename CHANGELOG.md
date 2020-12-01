@@ -35,6 +35,7 @@
 - Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0j
 - RUSTIC MAPS v2.0
 - Serana Dialogue Add-On v2.1.0
+- Unofficial Skyrim Creation Club Content Patches v5.6
 
 ### Removed
 
