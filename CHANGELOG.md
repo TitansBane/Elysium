@@ -6,6 +6,7 @@
 
 ### Added
 
+- Courier Delivers to NPCs
 - Equip Enchantment Fix
 - Favorite Misc Items
 - Horse Hide Retexture
@@ -27,6 +28,7 @@
 - Cuyima Interesting NPCs SE v1.1
 - Frozen Electrocuted Combustion v4.2
 - Item Durability v3
+- Keld-Nar v2.0.6
 - Legacy of the Dragonborn SSE v5.4.4
 - No Grass In Objects v5
 - OnHit Animations Framework - SSE v0.95
