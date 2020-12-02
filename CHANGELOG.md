@@ -2,7 +2,7 @@
 
 ## 2.4.1
 
-### Released at: `Unrleased`
+### Released at: `Unreleased`
 
 ### Added
 
