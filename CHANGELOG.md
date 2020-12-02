@@ -1,5 +1,25 @@
 # Changelog
 
+## 2.4.1
+
+### Released at: `Unrleased`
+
+### Added
+
+- Sink Or Swim
+
+### Updated
+
+- Legacy of the Dragonborn Patches (Official) v2.4.1
+
+### Removed
+
+- Loki's Wade In Water
+
+### Fixes
+
+- Fixed an issue where many quest scenes would not start because the player was no longer a friend of the quest giver, which would bug certain quests.
+
 ## 2.4.0
 
 ### Released at: `11/30/2020`
