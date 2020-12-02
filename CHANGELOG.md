@@ -2,7 +2,7 @@
 
 ## 2.4.1
 
-### Released at: `Unreleased`
+### Released at: `12/01/2020`
 
 ### Added
 
