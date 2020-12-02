@@ -18,7 +18,7 @@
 
 ### Fixes
 
-- Fixed an issue where many quest scenes would not start because the player was no longer a friend of the quest giver, which would bug certain quests.
+- Fixed an issue where many quest scenes would not start because the player was no longer a friend of the quest giver, which would bug certain quests
 
 ## 2.4.0
 
