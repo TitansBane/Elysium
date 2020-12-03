@@ -1,5 +1,33 @@
 # Changelog
 
+## 2.4.2
+
+### Added
+
+- Better Hallowed Remains Texture for Wintersun
+- Embers and Fire Combo Patch
+- High Quality Tintmasks for JKs Skyrim
+- High Quality Tintmasks for Vanilla NPCs
+- Interesting NPCs SE - FaceGen HD Tintmasks
+
+### Updated
+
+- Courier Delivers to NPCs v1.0.4
+- Equip Enchantment Fix v1.2.0
+- Serana Dialogue Add-On v2.1.1
+- Sink Or Swim v1.0.1
+
+### Removed
+
+- Paintings Replacer for Legacy of the Dragonborn SSE
+
+### Fixes
+
+- Fixed all remaining Blacksmith trough to be compatible with RWT
+- Fixed an issue where Interesting NPCs bards that play a song would crash the game due to the sound files being compressed
+- Numerous xEdit fixes
+- Regenerated DynDOLOD
+
 ## 2.4.1
 
 ### Released at: `12/01/2020`
