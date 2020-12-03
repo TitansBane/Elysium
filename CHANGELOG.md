@@ -23,7 +23,7 @@
 
 ### Removed
 
-- Paintings Replacer for Legacy of the Dragonborn SSE
+- Paintings Replacer for Legacy of the Dragonborn SSE - Paintings didn't look authentic
 
 ### Fixes
 
