@@ -11,6 +11,8 @@
 - High Quality Tintmasks for JKs Skyrim
 - High Quality Tintmasks for Vanilla NPCs
 - Interesting NPCs SE - FaceGen HD Tintmasks
+- NPC AI Process Position Fix - SSE
+- Remiros' Ebony Blade HD
 
 ### Updated
 
@@ -28,6 +30,8 @@
 - Fixed all remaining Blacksmith trough to be compatible with RWT
 - Fixed an issue where Interesting NPCs bards that play a song would crash the game due to the sound files being compressed
 - Numerous xEdit fixes
+- Patch the one-handed Ebony Blade from RoM for Remiros' Ebony Blade HD
+- Regenerated AllGUD
 - Regenerated DynDOLOD
 
 ## 2.4.1
