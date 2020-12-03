@@ -2,6 +2,8 @@
 
 ## 2.4.2
 
+### Released at: `Unreleased`
+
 ### Added
 
 - Better Hallowed Remains Texture for Wintersun
