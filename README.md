@@ -237,7 +237,8 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 - Presets
   - Load Preset
     - Slot 2 EasyEase_Preset
-    This preset might not be the best for you, don't hesitate tweaking the numerous options of that mod if you wish to use it to it's full potential
+
+**Note: This preset might not be the best for you, don't hesitate tweaking the numerous options of that mod if you wish to use it to it's full potential.**
 
 #### VIGILANT
  - No tweak here; you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It will make much more sense if you do it after the Dawnguard questline and the House of Horrors quest.
