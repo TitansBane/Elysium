@@ -1,5 +1,35 @@
 # Changelog
 
+## 2.4.3
+
+### Released at: `12/05/2020`
+
+## This update requires a new save game
+
+### Added
+
+- Legacy of the Dragonborn Cleaned Textures
+- Remiros' Hrothmund's Axe HD
+
+### Updated
+
+- OnHit Animations Framework - SSE v0.96
+- Remiros' Ebony Blade HD v1.2
+- Synthesis v0.11.3
+- The Falkreath Hauntings v2.0
+
+### Removed
+
+- Legacy of the Dragonborn - Cleaner Display Glass
+- Wonders Of Weather - Less opaque rain splashes for ENB - Not needed anymore
+
+### Fixes
+
+- Disabe Shield Cover animation from EVG Conditional Idles due to AllGUD shield on back
+- Enable Wonders of Weather rain splashes since a fix is now available that fixes the CTD
+- Regenerated AllGUD
+- Regenerated Synthesis patches
+
 ## 2.4.2
 
 ### Released at: `12/02/2020`
