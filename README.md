@@ -30,8 +30,10 @@
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Controlmap](#controlmap)
+    - [How do I use High Poly Head?](#how-do-i-use-high-poly-head?)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
+    - [Zoomed in Display](#zoomed-in-display)
     - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -39,9 +41,9 @@
 
 ## Preface
 
-Elysium is a visually focused list that is fully featured with hundreds of new additions and optional Creation Club support. Many new additions, such as Vokrii, Apocalypse, Nemesis, LotD, 3DNPC, and a wide variety of new content, were added. You should expect a more challenging game with this list. 
+Elysium is a visually focused list that is fully featured with hundreds of new additions and optional Creation Club support. Many new mods, such as 3DNPC, Apocalypse, LotD, Nemesis, Vokrii, and a wide variety of new content, were added. You should expect a more challenging game with this list.
 
-As for stability and conflict resolution, Elysium is base off of TPF and has been patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
+As for stability and conflict resolution, Elysium is base off of The Phoenix Flavour and has been patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
 
 ## Installation
 
@@ -117,7 +119,7 @@ Copy all of the files from the `Installation Folder/Game Folder Files` directory
 
 ### ENB
 
-Elysium comes configured with [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
+Elysium comes configured with [Rudy ENB SE for Cathedral Weathers + Zangdar's Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 
 Suppose you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini, and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
@@ -213,7 +215,9 @@ Elysium also has a lot of modified vanilla quests such as:
 
 ### Creation Club
 
-Elysium has an optional MO2 profile that utilizes all Creation Club content for the Legacy of the Dragonborn and various other mods. Fully integrated into Skyrim's world and is the recommended profile for Elysium. It requires all forty-eight purchasable downloadables to start up and play.
+Elysium has an optional MO2 profile that utilizes all Creation Club content for Legacy of the Dragonborn and various other mods. Fully integrated into Skyrim's world and is the recommended profile for Elysium. It requires all forty-eight purchasable downloadables to start up and play. 
+
+There is an empty mod at the top left of MO2 called `Creation Club` below `Official Master Files - Cleaned` that you can put all of your Creation Club content into, be sure to make a backup of all of your CC files as well.
 
 ## Creating your Character
 
@@ -228,10 +232,16 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 #### Lucien 
 - (If you set a nickname that's supported he can call you by that name)
 
+#### SmoothCam
+- Presets
+  - Load Preset
+    - Slot 2 EasyEase_Preset
+    This preset might not be the best for you, don't hesitate tweaking the numerous options of that mod if you wish to use it to it's full potential
+
 #### VIGILANT
  - No tweak here; you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It will make much more sense if you do it after the Dawnguard questline and the House of Horrors quest.
 
-**Note: Dodging is provided by the Mod "The Ultimate Dodge Mod". Please head to System > Controls > Sneak and change the Keybind to whatever you want to use to dodge with. I recommend side mouse buttons. If you do not change this to something else, your character will not sneak or be stuck sneaking.**
+**Note: Dodging is provided by the Mod "The Ultimate Dodge Mod". You can head to System > Controls > Sneak and change the Keybind to whatever you want to use to dodge with. However, I recommend sticking with the default buttons else; the slide tackle animation might now function correctly.**
 
 ## Other Post Installation FAQ
 
@@ -243,11 +253,20 @@ These are currently the custom controls added by Mods. Feel free to customize th
 - The Ultimate Dodge Mod - Dodge : Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side-stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
 
+### How do I use High Poly Head?
+
+Use the Face Part slider in RaceMenu to switch to the high poly head.
+
+#### Gamepad support
+
+Enable `Movement Behavior Overhaul - Gamepad Patch` in the left side of MO2 and once in-game, go to The Ultimate Dodge Mod MCM and configure your sneak key! As written, it is your vanilla sneak key. This step is crucial.
+ - The Ultimate Dodge Mod → Player Settings :
+  - Gamepad/Controller Compatibility : Enabled
+  - Sneak Style : Sneak Style 2
+  
 ### Ultrawide Options
 
-Adding widescreen support is a matter of replacing interface mods with compatible versions. Thankfully, there is a central mod page offering widescreen patches for pretty much every interface mod out there.
-
-You will want to install the Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files).
+If you have an ultrawide monitor (21:9), the UI will be off. You will want to reinstall Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked. You will also want to install the SkyHud - High Resolution Widescreen Fix from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
 
 ### Tweaking the Game Settings
 
@@ -256,6 +275,16 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
 - `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
+
+### Zoomed in Display
+
+This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
+
+- Set the display scaling back to 100% in the Screen Resolution Settings for Windows
+- Edit the mod SSE Display Tweaks.
+  - Under `[Render]`
+    - Set Fullscreen to `True`
+    - Set Borderless to `False`
 
 ### Removing the Modlist
 
