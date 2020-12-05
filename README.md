@@ -268,7 +268,50 @@ Enable `Movement Behavior Overhaul - Gamepad Patch` in the left side of MO2 and 
   
 ### Ultrawide Options
 
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to reinstall Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked. You will also want to install the SkyHud - High Resolution Widescreen Fix from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
+If you have an ultrawide monitor (21:9), the UI will be off. Adding widescreen support is a matter of replacing interface mods with compatible versions. Thankfully, there is a central mod page offering widescreen patches for pretty much every interface mod out there.
+
+Most of the files below are available on the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) mod page.
+
+#### SkyUI
+Download the following file :
+  - Main Files : Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080
+  Install as usual. Place the mod below SkyUI in the mod order and SkyUI_SE.esp in the load order.
+
+#### Better Dialogue & MessageBox Controls
+Download the following files :
+  - Optional Files : Better Dialogue Control Widescreen Fix
+  - Optional Files : Better MessageBox Control Widescreen Fix
+  These files are replacers. Place them below Complete Widescreen Fix for SkyUI in the mod order and disable/delete the regular versions.
+  
+#### Creation Club
+Download the following file if your on the Creation Club profile :
+  - Optional Files : Creation Club - Widescreen Fix
+  This is a patch. Place it below Complete Widescreen Fix for SkyUI in the mod order.
+  
+#### Extended UI
+Download the following file :
+  - Optional Files : Extended UI - Widescreen Fix
+  This is a patch. Place it below Extended UI in the mod order.
+
+#### Wider MCM Menu for SkyUI
+Download the following file :
+  - Optional Files : Opt. 1 - Wider MCM Menu for SkyUI - Widescreen Fix
+  This is a replacer. Disable/delete the regular version.
+
+#### SkyHUD
+Download the following file :
+  - Optional Files : SkyHud - High Resolution Widescreen Fix
+  This is a patch. Place it below SkyHUD in the mod order.
+
+#### RaceMenu
+Download the following file :
+  - Optional Files : Race Menu SE - WIdescreen Fix
+  This is a patch. Place it below RaceMenu in the mod order.
+
+#### Remove QuickSave Button
+Download the following file from the original [Remove QuickSave Button](https://www.nexusmods.com/skyrimspecialedition/mods/28334) mod page :
+  - Main Files : Remove QuickSave Button - UltraWide
+  In the FOMOD select 3b - MCM-Save-etc, MCM renamed. This mod is a replacer. Disable/delete the original version.
 
 ### Tweaking the Game Settings
 
