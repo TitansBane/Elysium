@@ -31,6 +31,7 @@
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Controlmap](#controlmap)
     - [How do I use High Poly Head?](#how-do-i-use-high-poly-head?)
+    - [Gamepad Support](#gamepad-support)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
@@ -257,7 +258,7 @@ These are currently the custom controls added by Mods. Feel free to customize th
 
 Use the Face Part slider in RaceMenu to switch to the high poly head.
 
-#### Gamepad support
+#### Gamepad Support
 
 Enable `Movement Behavior Overhaul - Gamepad Patch` in the left side of MO2 and once in-game, go to The Ultimate Dodge Mod MCM and configure your sneak key! As written, it is your vanilla sneak key. This step is crucial.
  - The Ultimate Dodge Mod → Player Settings :
