@@ -120,7 +120,7 @@ Copy all of the files from the `Installation Folder/Game Folder Files` directory
 
 ### ENB
 
-Elysium comes configured with [Rudy ENB SE for Cathedral Weathers + Zangdar's Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
+Elysium comes configured with [Rudy ENB SE for Cathedral Weathers Zangdar's Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 
 Suppose you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini, and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
