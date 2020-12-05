@@ -25,7 +25,7 @@
 
 ### Fixes
 
-- Disabe Shield Cover animation from EVG Conditional Idles due to AllGUD shield on back
+- Disabe Shield Cover animation from EVG Conditional Idles due to AllGUD shield on the back
 - Enable Wonders of Weather rain splashes since a fix is now available that fixes the CTD
 - Regenerated AllGUD
 - Regenerated Synthesis patches
