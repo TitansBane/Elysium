@@ -259,7 +259,7 @@ These are currently the custom controls added by Mods. Feel free to customize th
 
 Use the Face Part slider in RaceMenu to switch to the high poly head.
 
-#### Gamepad Support
+### Gamepad Support
 
 Enable `Movement Behavior Overhaul - Gamepad Patch` in the left side of MO2 and once in-game, go to The Ultimate Dodge Mod MCM and configure your Player Settings! This step is crucial for gamepad support.
  - The Ultimate Dodge Mod → Player Settings :
