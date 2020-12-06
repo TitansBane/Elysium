@@ -30,7 +30,7 @@
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Controlmap](#controlmap)
-    - [How do I use High Poly Head?](#how-do-i-use-high-poly-head?)
+    - [High Poly Head](#high-poly-head)
     - [Gamepad Support](#gamepad-support)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -255,7 +255,7 @@ These are currently the custom controls added by Mods. Feel free to customize th
 - The Ultimate Dodge Mod - Dodge : Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side-stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
 
-### How do I use High Poly Head?
+### High Poly Head
 
 Use the Face Part slider in RaceMenu to switch to the high poly head.
 
