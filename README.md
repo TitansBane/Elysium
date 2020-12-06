@@ -243,7 +243,7 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 #### VIGILANT
  - No tweak here; you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It will make much more sense if you do it after the Dawnguard questline and the House of Horrors quest.
 
-**Note: Dodging is provided by the Mod "The Ultimate Dodge Mod". You can head to System > Controls > Sneak and change the Keybind to whatever you want to use to dodge with. However, I recommend sticking with the default buttons else; the slide tackle animation might not function correctly.**
+**Note: Dodging is provided by the Mod "The Ultimate Dodge Mod". You can head to System > Controls > Sneak and change the Keybind to whatever you want to use to dodge with. However, I recommend sticking with the default buttons else; the crouch slide animation might not function correctly.**
 
 ## Other Post Installation FAQ
 
