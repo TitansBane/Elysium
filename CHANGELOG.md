@@ -35,7 +35,7 @@
 - Regenerated AllGUD
 - Regenerated OBIS Facegen
 - Regenerated Synthesis patches
-- Updated the Great City of Winterhold and Fortifed Whiterun lanterns positions from LoS II
+- Updated the Great City of Winterhold and Fortified Whiterun lanterns positions from LoS II
 
 ## 2.4.3
 
