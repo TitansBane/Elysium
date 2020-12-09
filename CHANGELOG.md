@@ -23,6 +23,7 @@
 - Skyrim Landscape and Water Fixes v5.8
 - Spell Perk Item Distributor v4.0
 - Triumvirate - Mage Archetypes v1.7.0
+- Unofficial Skyrim Creation Club Content Patches v5.7
 
 ### Removed
 
