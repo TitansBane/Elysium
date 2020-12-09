@@ -1,5 +1,41 @@
 # Changelog
 
+## 2.5.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Blackreach Tentacle Mesh Fix
+- LOTD Dragonmail Cuirass Enhanced
+- The Falkreath Hauntings - JKs Skyrim patch
+- WoW Dragon Mounds CTD Fix
+
+### Updated
+
+- Complete Crafting Overhaul Remastered v2.2.1
+- Immersive Fort Dawnguard v1.2
+- OnHit Animations Framework - SSE v1.13
+- Reliquary of Myth - Artifact Overhaul v3.6.3
+- Sacrilege - Minimalistic Vampires of Skyrim v1.3.0
+- Skyrim Landscape and Water Fixes v5.8
+- Spell Perk Item Distributor v4.0
+- Triumvirate - Mage Archetypes v1.7.0
+
+### Removed
+
+- NPC AI Process Position Fix - SSE - Causes a crash while sleeping in the Lotd safehouse
+
+### Fixes
+
+- Bound daggers added by Mysticism are no longer invisible when equipped
+- Regenerated AllGUD
+- Regenerated OBIS Facegen
+- Regenerated Synthesis patches
+- Updated the Great City of Winterhold and Fortifed Whiterun lanterns positions from LoS II
+
 ## 2.4.3
 
 ### Released at: `12/05/2020`
