@@ -32,6 +32,7 @@
 ### Fixes
 
 - Bound daggers added by Mysticism are no longer invisible when equipped
+- Lots of xEdit fixes
 - Regenerated AllGUD
 - Regenerated OBIS Facegen
 - Regenerated Synthesis patches
