@@ -2,7 +2,7 @@
 
 ## 2.5.0
 
-### Released at: `Unreleased`
+### Released at: `12/09/2020`
 
 ## This update requires a new save game
 
@@ -22,6 +22,7 @@
 - Sacrilege - Minimalistic Vampires of Skyrim v1.3.0
 - Skyrim Landscape and Water Fixes v5.8
 - Spell Perk Item Distributor v4.0
+- Synthesis v0.12.2
 - Triumvirate - Mage Archetypes v1.7.0
 - Unofficial Skyrim Creation Club Content Patches v5.7
 
