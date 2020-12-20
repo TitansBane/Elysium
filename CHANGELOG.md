@@ -11,6 +11,7 @@
 - Birds and Flocks SSE Edition
 - Cathedral - 3D Mountain Flowers - Readded to replace Yellow Mountain Flowers, which 3D Plants did not cover
 - Clams and Oysters Clipping Fix
+- DweFarm01 Mesh Replacer
 - Embers XD
 - Enhanced Reanimation
 - HD Reworked Horses - Readded for Carriage horses, which weren't cover by Light Horses of Skyrim
@@ -55,6 +56,7 @@
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
+- Regenerated xEdit patch output
 
 ### Tweaks
 
