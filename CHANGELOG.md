@@ -51,6 +51,7 @@
 
 ### Fixes
 
+- Lots of xEdit fixes
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
@@ -58,6 +59,7 @@
 ### Tweaks
 
 - Generated Grass LOD
+- Merge Ember HD, XD and Inferno together
 - Optimize the INI settings for better performance usage with Grass LOD 
 
 ## 2.5.0
