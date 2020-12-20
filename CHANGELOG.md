@@ -1,5 +1,65 @@
 # Changelog
 
+## 2.6.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Birds and Flocks SSE Edition
+- Cathedral - 3D Mountain Flowers - Readded to replace Yellow Mountain Flowers, which 3D Plants did not cover
+- Clams and Oysters Clipping Fix
+- Embers XD
+- Enhanced Reanimation
+- HD Reworked Horses - Readded for Carriage horses, which weren't cover by Light Horses of Skyrim
+- Interesting NPCs and WACCF Outfits Patch
+- Jazbay by Mari
+- Riekling Barrels SMIM
+- Saturalia Holiday Pack for CBBE Bodyslide
+- SSE Gameplay Tweaks
+- Stagger Direction Fix - SSE
+- Stockades of Skyrim 3D
+- Survival Spells
+- Take clam shell
+- The Notice Board Redefined - New Meshes and Textures SE
+
+### Updated
+
+- Cathedral - 3D Pine Grass v0.462
+- Dwemer Gates Don't Reset v1.2.5
+- Dynamic Distant Objects LOD - DynDOLOD
+- Enhanced Vanilla Trees SE v2.1.0
+- Equip Enchantment Fix v1.2.1
+- Flinching - Script Free Edition v1.31
+- Miscellaneous Tweaks Collection
+- Morrowloot Miscellania
+- No Grass In Objects v6
+- Project Clarity - Creature Textures Redone v1.4
+- Project Clarity - Vanilla Armor Textures Redone v2.3
+- Quick Loot RE v2.8.5
+- Riften Docks Overhaul
+- Shor's Stone v2.0.5
+- Spell Perk Item Distributor v4.1
+- Unofficial Skyrim Creation Club Content Patches v5.9
+- Unofficial Skyrim Special Edition Patch v4.2.4b
+
+### Removed
+
+- The Notice Board Redefined - New Meshes and Textures LE
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Generated Grass LOD
+- Optimize the INI settings for better performance usage with Grass LOD 
+
 ## 2.5.0
 
 ### Released at: `12/09/2020`
