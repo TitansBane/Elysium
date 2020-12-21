@@ -7,7 +7,7 @@
 ### Updated
 
 - ENBSeries v0.452
-- Sacrilege - Minimalistic Vampires of Skyrim
+- Sacrilege - Minimalistic Vampires of Skyrim v1.4.0
 
 ## 2.6.0
 
