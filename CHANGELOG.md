@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.6.1
+
+### Released at: `12/20/2020`
+
+### Updated
+
+- ENBSeries v0.452
+- Sacrilege - Minimalistic Vampires of Skyrim
+
 ## 2.6.0
 
 ### Released at: `12/20/2020`
