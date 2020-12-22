@@ -1,5 +1,36 @@
 # Changelog
 
+## 2.6.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Feminine Khajiit Textures (Grey Cat and Leopard)
+- Flawn's Vanilla Argonians Redux
+- FranklinZunge Collection SSE CBBE Bodyslide
+- Masculine Khajiit Textures (Grey Cat and Leopard)
+
+### Updated
+
+- Clams and Oysters Clipping Fix v1.5
+- Depths of Skyrim - An Underwater Overhaul SSE v1.1.7
+- Legacy of The Dragonborn - museum dome sunlight and shadows v0.4
+
+### Removed
+
+- Argonian Improvements SSE - Horns - Flawn's Argonian horn textures are superior
+- Common Clothes CBBE Files
+- Coverkhajiits - Replace with Feminine & Masculine Khajiit Textures
+- Bodyslide Conversions for 'Common Armors'
+
+### Fixes
+
+- Fixed Argonian & Khajiit feet texture for SkySight Skins
+- Fixed issue where tree popping effect was noticeable
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+
 ## 2.6.1
 
 ### Released at: `12/20/2020`
