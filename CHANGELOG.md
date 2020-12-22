@@ -29,6 +29,7 @@
 - Fixed male Argonian & Khajiit feet texture for SkySight Skins
 - Fixed issue where tree popping effect was noticeable
 - Regenerated DynDOLOD
+- Regenerated OBIS Facegen again to fix a minor issue
 - Regenerated Synthesis patches
 
 ## 2.6.1
