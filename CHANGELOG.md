@@ -26,6 +26,7 @@
 - SkyTEST Integration Project SE
 - The Great Cities SSE Edition - No snow under the Roof SE
 - Whistling Mine - No Snow Under the Roof
+- zxlice BackStab and Parry SSE - Script Free
 
 ### Updated
 
