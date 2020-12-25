@@ -34,6 +34,7 @@
 - Dynamic Distant Objects LOD - DynDOLOD vAlpha-13
 - ELFX Fixes v5.5
 - Legacy of the Dragonborn - The Curators Companion v4.1.0
+- Stagger Direction Fix - SSE v0.95a
 
 ### Removed
 
