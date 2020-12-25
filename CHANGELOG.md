@@ -43,7 +43,7 @@
 
 ### Fixes
 
-- Downgrade to version 1.21 of Flinching to solve an issue with Mysticism summons attack animations not working
+- Downgrade to version 1.21 of Flinching to solve an issue with Mysticism skeleton summons attack animations not working
 - Fixed some meshes that were being overwritten
 - Patch Masculine Argonian Textures for SkySight Skins
 - Regenerated DynDOLOD
