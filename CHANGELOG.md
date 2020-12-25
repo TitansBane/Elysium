@@ -1,5 +1,57 @@
 # Changelog
 
+## 2.7.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- Briraka's Draugr Overhaul
+- Deadly Dragons
+- Draugr Upgrades and Improvements
+- Helarchen Creek - No Snow Under the Roof
+- JK's Skyrim - No Snow Under the Roof
+- Masculine Argonian Textures (Chameleon and Lizard)
+- No snow under the roof
+- Particle Lights For ENB SE - Bugs in a Jar
+- SkyTEST - Bellyaches HD collection SE
+- SkyTEST - Better sheep SE
+- SkyTEST - HD Horkers SE
+- SkyTEST - Less shiny pigs
+- SkyTEST - Mihail's chick replacer and better idle sound SE
+- SkyTEST - Mihail's gray farm goose SE
+- SkyTEST - Realistic Animals and Predators SE
+- SkyTEST Integration Project SE
+- The Great Cities SSE Edition - No snow under the Roof SE
+- Whistling Mine - No Snow Under the Roof
+
+### Updated
+
+- Alternate Start - Live Another Life - SSE v4.1.4
+- DweFarm01 and DweFarm02 Mesh Fix Replacer v1.3
+- Dynamic Distant Objects LOD - DynDOLOD vAlpha-13
+- ELFX Fixes v5.5
+- Legacy of the Dragonborn - The Curators Companion v4.1.0
+
+### Removed
+
+- FAR - Forgotten Argonian Roots
+- Simply Stronger Dragons
+
+### Fixes
+
+- Downgrade to version 1.21 of Flinching to solve an issue with Mysticism summons attack animations not working
+- Fixed some meshes that were being overwritten
+- Patch Masculine Argonian Textures for SkySight Skins
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated xEdit patch output
+
+### Tweaks
+
+- Disable "SSE Gameplay Tweaks" stamina cost for running as it felt too harsh
+- Tweak the "A Matter of Time" widgets to be more minimalistic
+
 ## 2.6.2
 
 ### Released at: `12/22/2020`
