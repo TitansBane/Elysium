@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.7.1
+
+### Released at: `12/25/2020`
+
+## This update requires a new save game
+
+### Updated
+
+- More to Say v7.0
+
 ## 2.7.0
 
 ### Released at: `12/25/2020`
