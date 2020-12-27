@@ -1,5 +1,32 @@
 # Changelog
 
+## 2.7.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Project Clarity - Clutter Textures Redone
+- Skyrim 3D Trees and Plants Purple Mountain Flower Restored
+- Vigilant CBBE Patch
+- Windhelm Enhanced - 500 Companions Wall 8k HD Retexture
+
+### Updated
+
+- Dynamic Distant Objects LOD - DynDOLOD vAlpha-14
+- More to Say v7.0.2
+- Stagger Direction Fix - SSE v0.96
+- zxlice BackStab and Parry SSE - Script Free v1.0.1
+
+### Removed
+
+- Al's Bust of The Gray Fox
+- Corpse burned UHD
+- Rally's Fishing Poles
+- Rally's Jurgen Windcaller Tomb
+- Rally's Nightingale Clutter
+- Rally's Werewolf Totems
+
 ## 2.7.1
 
 ### Released at: `12/25/2020`
