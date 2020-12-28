@@ -7,6 +7,7 @@
 ### Added
 
 - Project Clarity - Clutter Textures Redone
+- Project Clarity - Effects Textures Redone
 - Skyrim 3D Trees and Plants Purple Mountain Flower Restored
 - Vigilant CBBE Patch
 - Windhelm Enhanced - 500 Companions Wall 8k HD Retexture
