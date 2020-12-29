@@ -22,6 +22,7 @@
 ### Removed
 
 - Al's Bust of The Gray Fox
+- BBB4K - Better Browner Bread 4K
 - Corpse burned UHD
 - Rally's Fishing Poles
 - Rally's Jurgen Windcaller Tomb
