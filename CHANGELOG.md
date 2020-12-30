@@ -36,6 +36,8 @@
 - Better Dynamic Ash SE
 - Better Dynamic Majestic Mountains
 - Corpse burned UHD
+- JK's Dragonsreach - Remove for better consistency with palaces from other cities, will revisit into overhauling all palaces in the future
+- JK's Dragonsreach - ELFX Patch
 - OCW_BDS_FEPatch
 - Rally's Fishing Poles
 - Rally's Jurgen Windcaller Tomb
