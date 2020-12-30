@@ -4,6 +4,8 @@
 
 ### Released at: `Unreleased`
 
+## This update requires a new save game
+
 ### Added
 
 - Better Dynamic Ash - Special Edition - A new version that is being maintained
