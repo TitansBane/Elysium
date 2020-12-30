@@ -1,11 +1,14 @@
 # Changelog
 
-## 2.7.2
+## 2.8.0
 
 ### Released at: `Unreleased`
 
 ### Added
 
+- Better Dynamic Ash - Special Edition - A new version that is being maintained
+- Blended Roads - Only the meshes are being use since the ones in CL are from version 1.6
+- NPC AI Process Position Fix - SSE - I tested this extensively, and it should be crash-free now
 - Project Clarity - Clutter Textures Redone
 - Project Clarity - Effects Textures Redone
 - Skyrim 3D Trees and Plants Purple Mountain Flower Restored
@@ -14,20 +17,44 @@
 
 ### Updated
 
+- Better Dynamic Snow SE v3.0
 - Dynamic Distant Objects LOD - DynDOLOD vAlpha-14
-- More to Say v7.0.2
+- Flinching - Script Free Edition v1.35
+- lilebonymace's patches and stuff vs1.7
+- More Immersive Activations (SkyRem - Mia) v2.1.2
+- More to Say v7.0.3
+- OnHit Animations Framework - SSE v1.13a
+- Project Clarity - Creature Textures Redone v1.5
+- Serana Dialogue Add-On v2.2
 - Stagger Direction Fix - SSE v0.96
-- zxlice BackStab and Parry SSE - Script Free v1.0.1
+- zxlice BackStab and Parry SSE - Script Free v1.0.3
 
 ### Removed
 
 - Al's Bust of The Gray Fox
 - BBB4K - Better Browner Bread 4K
+- Better Dynamic Ash SE
+- Better Dynamic Majestic Mountains
 - Corpse burned UHD
+- OCW_BDS_FEPatch
 - Rally's Fishing Poles
 - Rally's Jurgen Windcaller Tomb
 - Rally's Nightingale Clutter
 - Rally's Werewolf Totems
+
+### Fixes
+
+- Fixed a navmesh issue outside Solitude to prevent NPCs from walking into the wall
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Regenerated xEdit patch output
+- Switch to High Poly Breads from 3D Cooking to fix Potato Bread texture which is broken in 3D Cooking
+
+### Tweaks
+
+- Added animal spawns to new locations from SkyTest for consistency
+- Remove all low-quality animal spawns from SkyTest and only kept the high-quality looking animals
 
 ## 2.7.1
 
