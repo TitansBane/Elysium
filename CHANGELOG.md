@@ -14,21 +14,25 @@
 - Project Clarity - Clutter Textures Redone
 - Project Clarity - Effects Textures Redone
 - Skyrim 3D Trees and Plants Purple Mountain Flower Restored
+- Unofficial Material Fix __ Improved Traps
 - Vigilant CBBE Patch
 - Windhelm Enhanced - 500 Companions Wall 8k HD Retexture
 
 ### Updated
 
 - Better Dynamic Snow SE v3.0
+- CBBE Creation Club Outfits Bodyslides v1.6
 - Dynamic Distant Objects LOD - DynDOLOD vAlpha-14
 - Flinching - Script Free Edition v1.35
 - lilebonymace's patches and stuff vs1.7
+- Improved Traps v2.4
 - More Immersive Activations (SkyRem - Mia) v2.1.2
 - More to Say v7.0.3
 - OnHit Animations Framework - SSE v1.13a
 - Project Clarity - Creature Textures Redone v1.5
-- Serana Dialogue Add-On v2.2
+- Serana Dialogue Add-On v2.2.1
 - Stagger Direction Fix - SSE v0.96
+- WiZkiD Signs v2.3
 - zxlice BackStab and Parry SSE - Script Free v1.0.3
 
 ### Removed
@@ -48,11 +52,13 @@
 
 ### Fixes
 
+- Fixed an "A Matter of Time" widgets from disappearing from the HUD
 - Fixed a navmesh issue outside Solitude to prevent NPCs from walking into the wall
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
 - Regenerated xEdit patch output
+- Smoothcam MCM is now correctly automated
 - Switch to High Poly Breads from 3D Cooking to fix Potato Bread texture which is broken in 3D Cooking
 
 ### Tweaks
