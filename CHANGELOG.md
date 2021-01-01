@@ -8,7 +8,6 @@
 
 ### Added
 
-- Better Dynamic Ash - Special Edition - A new version that is being maintained
 - Blended Roads - Only the meshes are being use since the ones in CL are from version 1.6
 - NPC AI Process Position Fix - SSE - I tested this extensively, and it should be crash-free now
 - Project Clarity - Clutter Textures Redone
@@ -20,7 +19,8 @@
 
 ### Updated
 
-- Better Dynamic Snow SE v3.0
+- Better Dynamic Ash SE v0.1
+- Better Dynamic Snow SE v3.1
 - CBBE Creation Club Outfits Bodyslides v1.6
 - Dynamic Distant Objects LOD - DynDOLOD vAlpha-14
 - Flinching - Script Free Edition v1.35
@@ -28,6 +28,7 @@
 - Improved Traps v2.4
 - More Immersive Activations (SkyRem - Mia) v2.1.2
 - More to Say v7.0.3
+- Nether's Follower Framework v2.7.5
 - OnHit Animations Framework - SSE v1.13a
 - Project Clarity - Creature Textures Redone v1.5
 - Serana Dialogue Add-On v2.2.1
@@ -39,7 +40,6 @@
 
 - Al's Bust of The Gray Fox
 - BBB4K - Better Browner Bread 4K
-- Better Dynamic Ash SE
 - Better Dynamic Majestic Mountains
 - Corpse burned UHD
 - JK's Dragonsreach - Remove for better consistency with palaces from other cities, will revisit into overhauling all palaces in the future
@@ -65,6 +65,7 @@
 
 - Added animal spawns to new locations from SkyTest for consistency
 - Remove all low-quality animal spawns from SkyTest and only kept the high-quality looking animals
+- Tweak ini settings for further terrain distance and minimize the amount of Z-fighting seen
 
 ## 2.7.1
 
