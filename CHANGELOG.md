@@ -35,6 +35,7 @@
 
 - DweFarm01 and DweFarm02 Mesh Fix Replacer - Already cover by Markarth - A Reflective Experience
 - Rudy HQ - More Lights for ENB SE - Soul Gems - Causes a crash when a melee weapon or physical projectile hits lesser filled soul gems
+- RUSTIC AZURA'S STAR - Special Edition
 - RUSTIC SOULGEMS - Special Edition
 
 ### Fixes
