@@ -2,7 +2,7 @@
 
 ## 2.8.1
 
-### Released at: `Unreleased`
+### Released at: `01/05/2021`
 
 ### Added
 
