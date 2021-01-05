@@ -1,5 +1,54 @@
 # Changelog
 
+## 2.8.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- 3D Junipers - Trees and Berries
+- Aquatic Jungle
+- Better Dyndolod Red Mountain Plume
+- Markarth - A Mountainous Experience
+- Markarth - A Reflective Experience
+- Skyrim Remastered - Soul Gems
+- Solitude Mesh Fixes
+
+### Updated
+
+- Archery Target Retexture 2k and 4k added v1.1
+- Better Dynamic Snow SE v3.2
+- More to Say v7.0.4
+- Mysticism - A Magic Overhaul v1.1.4
+- OnHit Animations Framework - SSE v1.13b
+- Project Clarity - Clutter Textures Redone v1.1
+- Quick Loot RE v2.8.6
+- The Ordinary Women SSE v4.0
+- Unofficial Skyrim Creation Club Content Patches v5.10
+- Veydosebrom Regions v1.1.0
+- Vigilant CBBE Patch v1.2.0
+- zxlice BackStab and Parry SSE - Script Free v1.0.3
+
+### Removed
+
+- DweFarm01 and DweFarm02 Mesh Fix Replacer - Already cover by Markarth - A Reflective Experience
+- Rudy HQ - More Lights for ENB SE - Soul Gems - Causes a crash when a melee weapon or physical projectile hits lesser filled soul gems
+- RUSTIC SOULGEMS - Special Edition
+
+### Fixes
+
+- Fixed holes in the oceans in the Sea of Ghosts
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Remove grass LODs due to having issues with Veydosebrom grass not working
+- Swap out Catherdal tundra grass for old Veydosebrom tundra grass, which will have a small performance hit
+- Tweak Skyrim ini settings to reduce Z-fighting further, so it's no longer noticeable
+
 ## 2.8.0
 
 ### Released at: `01/01/2021`
