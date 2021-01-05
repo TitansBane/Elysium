@@ -18,11 +18,13 @@
 
 - Archery Target Retexture 2k and 4k added v1.1
 - Better Dynamic Snow SE v3.2
+- Miscellaneous Tweaks Collection
 - More to Say v7.0.4
 - Mysticism - A Magic Overhaul v1.1.4
 - OnHit Animations Framework - SSE v1.13b
 - Project Clarity - Clutter Textures Redone v1.1
 - Quick Loot RE v2.8.6
+- Synthesis v0.13.1
 - The Ordinary Women SSE v4.0
 - Unofficial Skyrim Creation Club Content Patches v5.10
 - Veydosebrom Regions v1.1.0
@@ -37,6 +39,7 @@
 
 ### Fixes
 
+- Fixed a black face bug from Solstheim Lighthouse
 - Fixed holes in the oceans in the Sea of Ghosts
 - Regenerated DynDOLOD
 - Regenerated Occlusion
@@ -45,7 +48,7 @@
 
 ### Tweaks
 
-- Remove grass LODs due to having issues with Veydosebrom grass not working
+- Remove grass LODs due to having issues with Veydosebrom grass or 3D Pine not working
 - Swap out Catherdal tundra grass for old Veydosebrom tundra grass, which will have a small performance hit
 - Tweak Skyrim ini settings to reduce Z-fighting further, so it's no longer noticeable
 
