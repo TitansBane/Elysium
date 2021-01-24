@@ -11,6 +11,7 @@
 - Dynamic Volumetric Lighting and Sun Shadows
 - Improved Clouds Mesh
 - Kalilies NPCs - Salt and Wind retexture
+- Less Distracting Blowing Snow Effects for ENB Particle Patch
 - Majestic Landscapes - Windhelm Snow Fix
 - Morthal Quest Coffin Retexture 2K-4K
 - Pandorable's Males - Salt and Wind retexture
@@ -62,6 +63,7 @@
 
 - Ashbound - Solstheim Enhanced
 - Hide Those Futile Quests
+- Subtle Wind FX
 - Swamp Fungal Pod - 2K
 
 ## 2.8.1
