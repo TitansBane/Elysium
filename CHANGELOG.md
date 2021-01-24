@@ -7,25 +7,40 @@
 ### Added
 
 - All Geared Up Derivative - JS Purses and Septims Patch
+- Ancient Automatons
 - Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn
+- Around the Fire - Skyrim Fan-Made Music
+- Azura's Star Dungeon Retexture
 - Dynamic Volumetric Lighting and Sun Shadows
+- HD Reworked Bears 4K
+- HD Reworked Falmer Architecture 4K
+- HD Reworked Shellbug
 - Improved Clouds Mesh
+- Improved Dwemer Glass
+- I'm Walkin' Here
 - Kalilies NPCs - Salt and Wind retexture
+- Legacy of the Dragonborn CBBE Patch
 - Less Distracting Blowing Snow Effects for ENB Particle Patch
 - Majestic Landscapes - Windhelm Snow Fix
 - Morthal Quest Coffin Retexture 2K-4K
 - Pandorable's Males - Salt and Wind retexture
 - Particle Lights For ENB SE - Ingredients
 - Project Clarity - Architecture Textures Redone
+- Relationship Dialogue Overhaul - Update and MCM
 - SDA Relationship Dialogue Overhaul Patch
 - Simple Weapon Swing Parry - Scripts Free - SSE
 - Swamp fungal pod by Mari
+- The Halls of the Greybeards - a High Hrothgar Retexuring
+- Thunder Sounds - WiZkiD Mix -
 - Unique Stros M'Kai Rum
 - Unofficial Identity Crisis TCC Patch
+- Unofficial Skyrim Creation Club Content Patches v5.13
+- Vanilla Table Replacers
 - Yet another Legacy of the Dragonborn art replacer - paintings murals frames
 
 ### Undated
 
+- Assorted mesh fixes v0.10
 - Better Dynamic Ash SE v2.0
 - Better Dynamic Snow SE v3.3
 - Better Windhelm Ground Meshes v1.3
@@ -36,10 +51,13 @@
 - ELFX Dwemer Floor Footsteps Fix v2.0
 - Enhanced Reanimation v1.1
 - Legacy of the Dragonborn - Creation Club Patch Hub v3.0.6
+- Legacy of the Dragonborn - NPC Overhaul by 1N v1.20
 - Legacy of the Dragonborn SSE v5.4.5
 - Legacy of the Dragonborn - The Curators Companion v5.0.1
+- lilebonymace xEdit scripts vs1.10
 - More Expensive Transmute for Mysticism v1.4
 - moreHUD SE v4.0.0.4Beta
+- More to Say v7.0.5
 - Nether's Follower Framework v2.7.6
 - NPC AI Process Position Fix - SSE v4.03c
 - OnHit Animations Framework - SSE v1.14
@@ -48,6 +66,7 @@
 - Rorikstead Basalt Cliffs Patches v2.0
 - Rudy ENB CW Zangdar's Edit v4.0
 - Serana Dialogue Add-On v2.2.4
+- SSE Engine Fixes (skse64 plugin) v5.6.0
 - Unofficial Identity Crisis LotD Patch v1.6.0
 - Useless Patches Collection - Because who cares about conflict resolution and consistency v1.2.7
 - VIGILANT - Book Covers v1.2
@@ -62,7 +81,9 @@
 ### Removed
 
 - Ashbound - Solstheim Enhanced
+- CC’s HD Dwemer Automatons - Remastered
 - Hide Those Futile Quests
+- STR - High Hrothgar with Halls of the Greybeards
 - Subtle Wind FX
 - Swamp Fungal Pod - 2K
 
