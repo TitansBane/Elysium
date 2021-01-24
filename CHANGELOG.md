@@ -1,5 +1,69 @@
 # Changelog
 
+## 3.0.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- All Geared Up Derivative - JS Purses and Septims Patch
+- Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn
+- Dynamic Volumetric Lighting and Sun Shadows
+- Improved Clouds Mesh
+- Kalilies NPCs - Salt and Wind retexture
+- Majestic Landscapes - Windhelm Snow Fix
+- Morthal Quest Coffin Retexture 2K-4K
+- Pandorable's Males - Salt and Wind retexture
+- Particle Lights For ENB SE - Ingredients
+- Project Clarity - Architecture Textures Redone
+- SDA Relationship Dialogue Overhaul Patch
+- Simple Weapon Swing Parry - Scripts Free - SSE
+- Swamp fungal pod by Mari
+- Unique Stros M'Kai Rum
+- Unofficial Identity Crisis TCC Patch
+- Yet another Legacy of the Dragonborn art replacer - paintings murals frames
+
+### Undated
+
+- Better Dynamic Ash SE v2.0
+- Better Dynamic Snow SE v3.3
+- Better Windhelm Ground Meshes v1.3
+- BodySlide and Outfit Studio v5.3.1
+- Castle Volkihar Rebuilt - SSE v2.0.5
+- Classic Sprinting Redone v2.1
+- eeekie's Enhanced NPCs v2.0.2a
+- ELFX Dwemer Floor Footsteps Fix v2.0
+- Enhanced Reanimation v1.1
+- Legacy of the Dragonborn - Creation Club Patch Hub v3.0.6
+- Legacy of the Dragonborn SSE v5.4.5
+- Legacy of the Dragonborn - The Curators Companion v5.0.1
+- More Expensive Transmute for Mysticism v1.4
+- moreHUD SE v4.0.0.4Beta
+- Nether's Follower Framework v2.7.6
+- NPC AI Process Position Fix - SSE v4.03c
+- OnHit Animations Framework - SSE v1.14
+- Project Clarity - Creature Textures Redone v1.6
+- Reliquary of Myth - Artifact Overhaul v3.7.1
+- Rorikstead Basalt Cliffs Patches v2.0
+- Rudy ENB CW Zangdar's Edit v4.0
+- Serana Dialogue Add-On v2.2.4
+- Unofficial Identity Crisis LotD Patch v1.6.0
+- Useless Patches Collection - Because who cares about conflict resolution and consistency v1.2.7
+- VIGILANT - Book Covers v1.2
+- Vigilant CBBE Patch v1.3.0
+- VIGILANT SE v1.6.0
+- VIGILANT Voiced - English Addon v3.1
+- WOODFIRES - Redux v1.4
+- WoW Dragon Mounds CTD Fix v1.1
+- XP32 Maximum Skeleton Special Extended - XPMSSE v4.80
+- zxlice BackStab and Parry SSE - Script Free v1.1.2
+
+### Removed
+
+- Ashbound - Solstheim Enhanced
+- Hide Those Futile Quests
+- Swamp Fungal Pod - 2K
+
 ## 2.8.1
 
 ### Released at: `01/05/2021`
