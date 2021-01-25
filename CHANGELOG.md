@@ -12,6 +12,8 @@
 - Around the Fire - Skyrim Fan-Made Music
 - Azura's Star Dungeon Retexture
 - Dynamic Volumetric Lighting and Sun Shadows
+- Faction Economy Complete
+- Falmer Eye Gem Retexture 2K-4K
 - HD Reworked Bears 4K
 - HD Reworked Falmer Architecture 4K
 - HD Reworked Shellbug
@@ -66,6 +68,7 @@
 - Rorikstead Basalt Cliffs Patches v2.0
 - Rudy ENB CW Zangdar's Edit v4.0
 - Serana Dialogue Add-On v2.2.4
+- Sink Or Swim v1.8
 - SSE Engine Fixes (skse64 plugin) v5.6.0
 - Unofficial Identity Crisis LotD Patch v1.6.0
 - Useless Patches Collection - Because who cares about conflict resolution and consistency v1.2.7
@@ -86,6 +89,17 @@
 - STR - High Hrothgar with Halls of the Greybeards
 - Subtle Wind FX
 - Swamp Fungal Pod - 2K
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+-  Flag 28+ ESP's with the ESL header to save plugin slots for Elysium
 
 ## 2.8.1
 
