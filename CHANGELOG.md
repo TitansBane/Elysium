@@ -53,10 +53,10 @@
 - ELFX Dwemer Floor Footsteps Fix v2.0
 - Enhanced Reanimation v1.1
 - Legacy of the Dragonborn - Creation Club Patch Hub v3.0.6
-- Legacy of the Dragonborn - NPC Overhaul by 1N v1.20
+- Legacy of the Dragonborn - NPC Overhaul by 1N v1.2.1
 - Legacy of the Dragonborn SSE v5.4.5
 - Legacy of the Dragonborn - The Curators Companion v5.0.1
-- lilebonymace xEdit scripts vs1.10
+- lilebonymace xEdit scripts vs1.11
 - More Expensive Transmute for Mysticism v1.4
 - moreHUD SE v4.0.0.4Beta
 - More to Say v7.0.5
