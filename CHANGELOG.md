@@ -49,6 +49,7 @@
 - BodySlide and Outfit Studio v5.3.1
 - Castle Volkihar Rebuilt - SSE v2.0.5
 - Classic Sprinting Redone v2.1
+- Dynamic Distant Objects LOD - DynDOLOD v2.88
 - eeekie's Enhanced NPCs v2.0.2a
 - ELFX Dwemer Floor Footsteps Fix v2.0
 - Enhanced Reanimation v1.1
@@ -72,6 +73,7 @@
 - SSE Engine Fixes (skse64 plugin) v5.6.0
 - Unofficial Identity Crisis LotD Patch v1.6.0
 - Useless Patches Collection - Because who cares about conflict resolution and consistency v1.2.7
+- Vigilant Armors ReTexture SE v0.04
 - VIGILANT - Book Covers v1.2
 - Vigilant CBBE Patch v1.3.0
 - VIGILANT SE v1.6.0
