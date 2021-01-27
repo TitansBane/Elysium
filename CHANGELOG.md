@@ -40,7 +40,7 @@
 - Vanilla Table Replacers
 - Yet another Legacy of the Dragonborn art replacer - paintings murals frames
 
-### Undated
+### Updated
 
 - Assorted mesh fixes v0.10
 - Better Dynamic Ash SE v2.0
