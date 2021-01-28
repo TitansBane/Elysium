@@ -32,6 +32,7 @@
 - Particle Lights For ENB SE - Ingredients
 - Project Clarity - Architecture Textures Redone
 - Relationship Dialogue Overhaul - Update and MCM
+- Remastered Ash Piles Of Skyrim (4K-2K-1K)
 - SDA Relationship Dialogue Overhaul Patch
 - Simple Weapon Swing Parry - Scripts Free - SSE
 - Swamp fungal pod by Mari
@@ -57,7 +58,7 @@
 - ELFX Dwemer Floor Footsteps Fix v2.0
 - Enhanced Reanimation v1.1
 - Legacy of the Dragonborn - Creation Club Patch Hub v3.0.6
-- Legacy of the Dragonborn - NPC Overhaul by 1N v1.2.1
+- Legacy of the Dragonborn - NPC Overhaul by 1N v1.2.2
 - Legacy of the Dragonborn SSE v5.4.5
 - Legacy of the Dragonborn - The Curators Companion v5.0.1
 - lilebonymace xEdit scripts vs1.12
@@ -83,12 +84,14 @@
 - VIGILANT Voiced - English Addon v3.1
 - WOODFIRES - Redux v1.4
 - WoW Dragon Mounds CTD Fix v1.1
+- xLODGen vbeta 69
 - XP32 Maximum Skeleton Special Extended - XPMSSE v4.80
 - zxlice BackStab and Parry SSE - Script Free v1.1.2
 
 ### Removed
 
 - Ashbound - Solstheim Enhanced
+- Better Hallowed Remains Texture for Wintersun
 - CC’s HD Dwemer Automatons - Remastered
 - Hide Those Futile Quests
 - STR - High Hrothgar with Halls of the Greybeards
