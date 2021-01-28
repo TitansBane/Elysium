@@ -9,6 +9,7 @@
 - All Geared Up Derivative - JS Purses and Septims Patch
 - Ancient Automatons
 - Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn
+- Angi's Camp Tweaks
 - Around the Fire - Skyrim Fan-Made Music
 - Azura's Star Dungeon Retexture
 - Dynamic Volumetric Lighting and Sun Shadows
@@ -49,7 +50,7 @@
 - BodySlide and Outfit Studio v5.3.1
 - Castle Volkihar Rebuilt - SSE v2.0.5
 - Classic Sprinting Redone v2.1
-- Dynamic Distant Objects LOD - DynDOLOD v2.88
+- Dynamic Distant Objects LOD - DynDOLOD v2.89
 - eeekie's Enhanced NPCs v2.0.2a
 - ELFX Dwemer Floor Footsteps Fix v2.0
 - Enhanced Reanimation v1.1
@@ -57,7 +58,7 @@
 - Legacy of the Dragonborn - NPC Overhaul by 1N v1.2.1
 - Legacy of the Dragonborn SSE v5.4.5
 - Legacy of the Dragonborn - The Curators Companion v5.0.1
-- lilebonymace xEdit scripts vs1.11
+- lilebonymace xEdit scripts vs1.12
 - More Expensive Transmute for Mysticism v1.4
 - moreHUD SE v4.0.0.4Beta
 - More to Say v7.0.5
@@ -73,7 +74,7 @@
 - SSE Engine Fixes (skse64 plugin) v5.6.0
 - Unofficial Identity Crisis LotD Patch v1.6.0
 - Useless Patches Collection - Because who cares about conflict resolution and consistency v1.2.7
-- Vigilant Armors ReTexture SE v0.04
+- Vigilant Armors ReTexture SE v0.05
 - VIGILANT - Book Covers v1.2
 - Vigilant CBBE Patch v1.3.0
 - VIGILANT SE v1.6.0
