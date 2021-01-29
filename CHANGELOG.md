@@ -2,7 +2,7 @@
 
 ## 3.0.0
 
-### Released at: `Unreleased`
+### Released at: `01/28/2021`
 
 ## This update requires a new save game
 
@@ -24,6 +24,7 @@
 - Improved Dwemer Glass
 - I'm Walkin' Here
 - Kalilies NPCs - Salt and Wind retexture
+- KS Hairdos 1.7 Salt and Wind
 - Legacy of the Dragonborn CBBE Patch
 - Less Distracting Blowing Snow Effects for ENB Particle Patch
 - Majestic Landscapes - Windhelm Snow Fix
@@ -68,6 +69,7 @@
 - Nether's Follower Framework v2.7.6
 - NPC AI Process Position Fix - SSE v4.03c
 - OnHit Animations Framework - SSE v1.14
+- Pirate's Life for Me - A Creation Club Integration Mod v1.2.0
 - Project Clarity - Creature Textures Redone v1.6
 - Reliquary of Myth - Artifact Overhaul v3.7.1
 - Rorikstead Basalt Cliffs Patches v2.0
@@ -80,7 +82,7 @@
 - Vigilant Armors ReTexture SE v0.05
 - VIGILANT - Book Covers v1.2
 - Vigilant CBBE Patch v1.3.0
-- VIGILANT SE v1.6.0
+- VIGILANT SE v1.6.2
 - VIGILANT Voiced - English Addon v3.1
 - WOODFIRES - Redux v1.4
 - WoW Dragon Mounds CTD Fix v1.1
@@ -94,6 +96,7 @@
 - Better Hallowed Remains Texture for Wintersun
 - CC’s HD Dwemer Automatons - Remastered
 - Hide Those Futile Quests
+- Salt and Wind - Rough Hair for KS Hairdos SE
 - STR - High Hrothgar with Halls of the Greybeards
 - Subtle Wind FX
 - Swamp Fungal Pod - 2K
