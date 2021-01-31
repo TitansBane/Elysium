@@ -23,6 +23,7 @@
 - Legacy of the Dragonborn - The Curators Companion v5.0.3
 - moreHUD SE v4.0.0.5Beta
 - Pandorable's Males - Salt and Wind retexture v1.1
+- powerofthree's Papyrus Extender for SSE v4.1
 - Useless Patches Collection - Because who cares about conflict resolution and consistency v1.2.8
 - Vigilant Armors ReTexture SE v0.06
 - VIGILANT Voiced - English Addon v3.2
