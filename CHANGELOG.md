@@ -1,5 +1,41 @@
 # Changelog
 
+## 3.1.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Bijin Family - Salt and Wind
+- Inconsequential NPCs
+- Inconsequential NPCs - My HD versions
+- Inconsequential NPCs Visual Overhaul
+- Modern Toggle Walk-Run Fix SE
+- Simple Children - Inconsequential NPCs Patch
+
+### Updated
+
+- Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn v2.0
+- Frozen Electrocuted Combustion v4.6
+- Kalilies NPCs - Salt and Wind retexture v1.1
+- Legacy of the Dragonborn - The Curators Companion v5.0.3
+- moreHUD SE v4.0.0.5Beta
+- Pandorable's Males - Salt and Wind retexture v1.1
+- Useless Patches Collection - Because who cares about conflict resolution and consistency v1.2.8
+- Vigilant Armors ReTexture SE v0.06
+- VIGILANT Voiced - English Addon v3.2
+
+### Removed
+
+- Bijin Family - Salt and Wind Textures SE
+
+### Fixes
+
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+
 ## 3.0.0
 
 ### Released at: `01/28/2021`
