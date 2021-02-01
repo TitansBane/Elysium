@@ -2,7 +2,7 @@
 
 ## 3.1.1
 
-### Released at: `Unreleased`
+### Released at: `02/01/2021`
 
 ### Added
 
