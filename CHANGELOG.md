@@ -1,5 +1,39 @@
 # Changelog
 
+## 3.1.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Pandorable's Brelyna and Nevri
+- Weathered Dragonstone Retexture (4K-2K)
+
+### Updated
+
+- Assorted mesh fixes v0.11
+- KS Hairdos 1.7 Salt and Wind v1.1
+- Legacy of the Dragonborn - Creation Club Patch Hub v3.0.6a
+- Mysticism - A Magic Overhaul v1.1.5
+- Project Clarity - Effects Textures Redone v2.2
+- Skyrim Landscape and Water Fixes v5.9
+- Unofficial Skyrim Creation Club Content Patches v5.14
+
+### Removed
+
+- DragonStone Re-texture SE
+
+### Fixes
+
+- Fixed conflicts with Inconsequential NPCs/3DNPC bed and ELFX clutter in Belyn Hlaalu's House
+- Fixed Quicklight not working in first person if using the Improved Camera Custom .ini (No Head-Bob Version)
+- Fix the navmesh near Solitude entrance so NPCs can transverse the road or not walk into walls
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Disable the EnableNightFadeOut in Dynamic Volumetric Lighting ini
+
 ## 3.1.0
 
 ### Released at: `01/30/2021`
