@@ -1,5 +1,46 @@
 # Changelog
 
+## 3.1.2
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Conditional Expressions - Subtle Face Animations
+- Deiform Alduin
+- Dirt and Blood - Dynamic Visual Effects
+- Dynamic Mountain Fogs
+- Ennead Banners
+- Project Clarity - Dungeons
+
+### Updated
+
+- Dynamic Distant Objects LOD - DynDOLOD v3.0 Alpha-27
+- Frozen Electrocuted Combustion v4.7
+- Lanterns Of Skyrim II v3.1
+- Legacy of the Dragonborn - The Curators Companion v5.0.4
+- powerofthree's Papyrus Extender for SSE v4.2
+- R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust v3.2
+- The Fall of Granite Hill v1.0.7
+- Undiscovered Means Unknown - Map Markers v2.10
+- Vigilant Armors ReTexture SE v0.07
+
+### Removed
+
+- DVLaSS Skyrim Underside - No longer needed with DynDOLOD v3.0
+- Sigils of Skyrim
+
+### Fixes
+
+- Fixed distant mountains being too bright/shiny looking
+- Fixed an ue with Daedric boots and AllGUD shield on the back where the boots would unequip
+
+### Tweaks
+
+- 
+
 ## 3.1.1
 
 ### Released at: `02/01/2021`
