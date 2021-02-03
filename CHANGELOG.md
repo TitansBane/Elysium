@@ -35,11 +35,11 @@
 ### Fixes
 
 - Fixed distant mountains being too bright/shiny looking
-- Fixed an ue with Daedric boots and AllGUD shield on the back where the boots would unequip
+- Fixed an issue with Daedric boots and AllGUD shield on the back
 
 ### Tweaks
 
-- 
+- Improve the "A Matter of Time" MCM clock settings
 
 ## 3.1.1
 
