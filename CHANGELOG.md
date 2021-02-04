@@ -30,16 +30,20 @@
 ### Removed
 
 - DVLaSS Skyrim Underside - No longer needed with DynDOLOD v3.0
+- I'm Walkin' Here
 - Sigils of Skyrim
 
 ### Fixes
 
-- Fixed distant mountains being too bright/shiny looking
 - Fixed an issue with Daedric boots self-unequipping whenever you had a shield equipped
+- Fixed distant mountains being too bright/shiny looking
+- Fixed incorrect models being use for Keening and Chillrend
+- Fixed torch texures from Forgotten retex project being in the incorrect folder
 
 ### Tweaks
 
 - Improve the "A Matter of Time" MCM clock settings
+- Reinstall Undiscovered Means Unknown with visible unknown map marker icons for all non-city undiscovered locations
 
 ## 3.1.1
 
