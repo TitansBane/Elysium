@@ -2,7 +2,7 @@
 
 ## 3.1.2
 
-### Released at: `Unreleased`
+### Released at: `Unreleased`'
 
 ## This update requires a new save game
 
