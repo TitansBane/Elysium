@@ -9,11 +9,14 @@
 ### Added
 
 - Conditional Expressions - Subtle Face Animations
+- Cuyima Interesting NPCs - Salt and Wind
 - Deiform Alduin
 - Dirt and Blood - Dynamic Visual Effects
 - Dynamic Mountain Fogs
 - Ennead Banners
+- Legacy of the Dragonborn NPC Overhaul - Salt and Wind
 - Project Clarity - Dungeons
+- The Ordinary Women - Salt and Wind
 
 ### Updated
 
@@ -32,6 +35,7 @@
 - DVLaSS Skyrim Underside - No longer needed with DynDOLOD v3.0
 - I'm Walkin' Here
 - Sigils of Skyrim
+- The Ordinary Women - Salt and Wind Textures SE
 
 ### Fixes
 
