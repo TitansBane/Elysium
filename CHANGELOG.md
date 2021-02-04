@@ -37,8 +37,8 @@
 
 - Fixed an issue with Daedric boots self-unequipping whenever you had a shield equipped
 - Fixed distant mountains being too bright/shiny looking
-- Fixed incorrect models being use for Keening and Chillrend
-- Fixed torch texures from Forgotten retex project being in the incorrect folder
+- Fixed incorrect models being used for Keening and Chillrend
+- Fixed torch textures from Forgotten retex project being in the incorrect folder
 
 ### Tweaks
 
