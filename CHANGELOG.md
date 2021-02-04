@@ -35,7 +35,7 @@
 ### Fixes
 
 - Fixed distant mountains being too bright/shiny looking
-- Fixed an issue with Daedric boots and AllGUD shield on the back
+- Fixed an issue with Daedric boots self-unequipping whenever you had a shield equipped
 
 ### Tweaks
 
