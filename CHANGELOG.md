@@ -1,5 +1,24 @@
 # Changelog
 
+## 3.2.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Improved Atmosphere Mesh
+- Metalsabers Beautiful Orcs - Salt and Wind
+
+### Updated
+
+- Improved Clouds Mesh v1.1.1
+- Simple Weapon Swing Parry - Scripts Free - SSE v0.82a
+
+### Tweaks
+
+- Enable bUse64bitsHDRRenderTarget ini setting
+- Tweak fFirstSliceDistance ini setting to 2896 instead of 2000
+
 ## 3.2.0
 
 ### Released at: `02/03/2021`
