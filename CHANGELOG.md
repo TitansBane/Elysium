@@ -38,10 +38,11 @@
 - Fixed an issue with Daedric boots self-unequipping whenever you had a shield equipped
 - Fixed distant mountains being too bright/shiny looking
 - Fixed incorrect models being used for Keening and Chillrend
-- Fixed torch textures from Forgotten retex project being in the incorrect folder
+- Fixed torch textures from Forgotten retex project being in the wrong folder
 
 ### Tweaks
 
+- Disable zxlice parry in favor of Simple Weapon Swing Parry
 - Improve the "A Matter of Time" MCM clock settings
 - Reinstall Undiscovered Means Unknown with visible unknown map marker icons for all non-city undiscovered locations
 
