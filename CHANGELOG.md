@@ -29,6 +29,7 @@
 - The Fall of Granite Hill v1.0.7
 - Undiscovered Means Unknown - Map Markers v2.10
 - Vigilant Armors ReTexture SE v0.07
+- xLODGen vbeta 71
 
 ### Removed
 
