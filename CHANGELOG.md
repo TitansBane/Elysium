@@ -1,5 +1,32 @@
 # Changelog
 
+## 3.2.2
+
+### Released at: `Unreleased`
+
+### Updated
+
+- Assorted mesh fixes v0.12
+- Conditional Expressions - Subtle Face Animations v1.11-ESL
+- Markarth - A Mountainous Experience v1.1
+- Pirate's Life for Me - A Creation Club Integration Mod v1.2.1
+
+### Fixes
+
+- Camping now allows the player to get the "Rested" effect while sleeping in exterior cells in Survival mode - Only applies for the CC Edition profile
+- Fixed a conflict between both Missives and CFTO that would prevent the delivery quest involving a carriage driver or ferryman edited by CFTO to be impossible to complete
+- Fixed black faces for a few NPCs
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Occlusion
+- Regenerated TexGen output
+
+### Tweaks
+
+- Disable dagger and mace animations and dagger parrying from Animated Armoury - Already have a parrying system in place, and left-handed daggers were glitch when paired with a spell on the right hand
+- Interesting NPCs files are no longer loose but now pack into a uncompressed BSA which will reduce load times - Thanks to Xanza
+- Enable grass outside Whiterun city exterior
+
 ## 3.2.1
 
 ### Released at: `02/04/2021`
