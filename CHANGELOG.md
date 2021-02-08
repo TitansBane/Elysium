@@ -1,5 +1,33 @@
 # Changelog
 
+## 3.2.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Alteration Staff HD - SE
+- Autorun
+- Conjuration Staff HD - SE
+- Illusion Staff HD - SE
+- Restoration Staff HD - SE
+
+### Updated
+
+- Arena - An Encounter Zone Overhaul v1.1.0
+- Assorted mesh fixes v0.13
+- R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust v3.2.1
+- Vigilant Armors ReTexture SE v0.08
+
+### Removed
+
+- ACC - Autorun Console Commands - Replace with a bugfree version call Autorun
+- EVG Animation Variance - The cause of random skeleton crashes in Elysium is no more
+
+### Fixes
+
+- Fix double archery crosshair bug and other crosshair related bugs
+
 ## 3.2.2
 
 ### Released at: `02/06/2021`
