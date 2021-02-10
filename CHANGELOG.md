@@ -21,6 +21,7 @@
 - LeanWolf's Better-Shaped Weapons SE
 - Legacy of the Dragonborn CBBE Patch v1.0.1
 - Misc Tweaks - Shrines Don't Cure Diseases v1.6
+- OnHit Animations Framework - SSE v1.15
 - SDA Relationship Dialogue Overhaul Patch v3.0
 - SDA Serana Dialogue Edit Patch v3.0
 
@@ -32,6 +33,7 @@
 ### Fixes
 
 - Couple of xEdit fixes
+- Fixed a typo with door bar activations
 - Regenerated DynDOLOD
 - Regenerated TexGen output
 
