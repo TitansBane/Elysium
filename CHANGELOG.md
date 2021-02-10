@@ -1,5 +1,44 @@
 # Changelog
 
+## 3.2.4
+
+### Released at: `Unreleased`
+
+### Added
+
+- (Creation Club) Simple Camping Storage
+- Dirt and Blood HD Retexture
+- Project Clarity - Landscape Textures Redone
+- Skeever Tail HD
+- Skyrim 2020 Parallax by Pfuscher
+- Static Mesh improvement Mod - SMIM - Quality Addon
+
+### Updated
+
+- Conjuration Staff HD - SE v1.2
+- Dirt and Blood - Dynamic Visual Effects v1.7
+- Eyes and Staves of Magnus HD SE v1.2
+- LeanWolf's Better-Shaped Weapons SE
+- Legacy of the Dragonborn CBBE Patch v1.0.1
+- Misc Tweaks - Shrines Don't Cure Diseases v1.6
+- SDA Relationship Dialogue Overhaul Patch v3.0
+- SDA Serana Dialogue Edit Patch v3.0
+
+### Removed
+
+- Simple Weapon Swing Parry - Scripts Free - SSE - Causes a CTD when loading a save or in combat
+- Soul Husk Retexture
+
+### Fixes
+
+- Couple of xEdit fixes
+- Regenerated DynDOLOD
+- Regenerated TexGen output
+
+### Tweaks
+
+- Tweak "zxlice BackStab and Parry" settings reducing the damage multiplier and lowering the parry time to half a second
+
 ## 3.2.3
 
 ### Released at: `02/08/2021`
