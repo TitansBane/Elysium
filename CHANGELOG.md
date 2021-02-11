@@ -1,5 +1,26 @@
 # Changelog
 
+## 3.2.5
+
+### Released at: `Unreleased`
+
+### Added
+
+- (Creation Club) Planters for Hendraheim
+- Iconic's Jurgen Windcaller Tomb And Horn Retexture
+- Radiant Requirements MCM
+- Revamped Assets Skyrim - Weapon Racks Patch
+
+### Updated
+
+- KS Hairdos 1.7 Salt and Wind
+- Serana Dialogue Add-On v2.3.0
+
+### Fixes
+
+- Fixed a CTD that could happen from disarming tripwires
+- Regenerated Grass Cache
+
 ## 3.2.4
 
 ### Released at: `02/10/2021`
