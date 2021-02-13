@@ -1,5 +1,52 @@
 # Changelog
 
+## 3.3.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Better Falskaar and Wyrmstooth Map With Roads
+- Even More LOTD Crates for Mods - Wyrmstooth
+- Folkvangr - Grass and Landscape Overhaul - Made a cut version for Elysium
+- Iconic's Bust Of The Gray Fox Retexture
+- Missives - Wyrmstooth
+- RWT Wyrmstooth Patch
+- Wyrmstooth
+- Wyrmstooth Farmhouse Chimneys Patch
+- Wyrmstooth Simple Children Patch
+- Wyrmstooth Upscaled Textures
+
+### Updated
+
+- Cathedral - 3D Pine Grass
+- ENBSeries v0.452
+- Guard Dialogue Overhaul SE v2.15
+- Veydosebrom Regions v1.1.2
+- Vigilant Armors ReTexture SE v0.09
+
+### Removed
+
+- Yet another Legacy of the Dragonborn art replacer - paintings murals frames - Wyrmstooth Upscaled Textures produces the same results with better quality
+
+### Fixes
+
+- Completed consistency patching for Wyrmstooth
+- Remove all ELE cell edits from the Elysium conflict resolution patch into a new merge call "ELE Patches Merge."
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Regenerated xEdit patch output
+- Updated the LotD and DD patches for Wyrmstooth v1.19
+
+### Tweaks
+
+- Reduce grass density from 40 to 50, which will yield a 3-4 FPS gained
+
 ## 3.2.5
 
 ### Released at: `02/10/2021`
