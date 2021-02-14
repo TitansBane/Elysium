@@ -9,14 +9,20 @@
 ### Added
 
 - Better Falskaar and Wyrmstooth Map With Roads
+- Mr. Dragonfly ENB Particle Light
 - Even More LOTD Crates for Mods - Wyrmstooth
 - Folkvangr - Grass and Landscape Overhaul - Made a cut version for Elysium
 - Iconic's Bust Of The Gray Fox Retexture
+- Legacy of The Dragonborn museum dome improved
 - Missives - Wyrmstooth
-- RWT Wyrmstooth Patch
 - Wyrmstooth
+- Wyrmstooth Creation Club Patch
+- Wyrmstooth Deadly Dragons Patch
 - Wyrmstooth Farmhouse Chimneys Patch
+- Wyrmstooth LotD Patch
+- Wyrmstooth RWT Patch
 - Wyrmstooth Simple Children Patch
+- Wyrmstooth TCC Patch
 - Wyrmstooth Upscaled Textures
 
 ### Updated
@@ -46,6 +52,7 @@
 ### Tweaks
 
 - Reduce grass density from 40 to 50, which will yield a 3-4 FPS gained
+- Reduce the drop rate of high tier healing potions
 
 ## 3.2.5
 
