@@ -48,6 +48,7 @@
 
 - Completed consistency patching for Wyrmstooth
 - Remove all ELE cell edits from the Elysium conflict resolution patch into a new merge call "ELE Patches Merge."
+- Regenerated AllGUD
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Occlusion
