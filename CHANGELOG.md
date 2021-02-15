@@ -46,7 +46,9 @@
 
 ### Fixes
 
+- Added a replacement mesh for the Skyforge HD LOD to fix it clipping outside of the city walls
 - Completed consistency patching for Wyrmstooth
+- Fixed an issue "Once A Hunter" would not complete and a double chest not being disabled
 - Remove all ELE cell edits from the Elysium conflict resolution patch into a new merge call "ELE Patches Merge."
 - Regenerated AllGUD
 - Regenerated DynDOLOD
