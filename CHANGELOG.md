@@ -13,8 +13,10 @@
 - Even More LOTD Crates for Mods - Wyrmstooth
 - Folkvangr - Grass and Landscape Overhaul - Made a cut version for Elysium
 - Iconic's Bust Of The Gray Fox Retexture
+- Iconic's Remastered Paragon Gems Retexture
 - Legacy of The Dragonborn museum dome improved
 - Missives - Wyrmstooth
+- Vigilant Armors and Weapons Retexture SE
 - Wyrmstooth
 - Wyrmstooth Creation Club Patch
 - Wyrmstooth Deadly Dragons Patch
@@ -28,13 +30,18 @@
 ### Updated
 
 - Cathedral - 3D Pine Grass
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-29
+- DynDOLOD Resources SE v3.00 Alpha-8
 - ENBSeries v0.452
+- Flinching - Script Free Edition v3
 - Guard Dialogue Overhaul SE v2.15
+- Landscape Fixes For Grass Mods v4.8
+- Serana Dialogue Add-On v2.3.1
 - Veydosebrom Regions v1.1.2
-- Vigilant Armors ReTexture SE v0.09
 
 ### Removed
 
+- Vigilant Armors ReTexture SE
 - Yet another Legacy of the Dragonborn art replacer - paintings murals frames - Wyrmstooth Upscaled Textures produces the same results with better quality
 
 ### Fixes
