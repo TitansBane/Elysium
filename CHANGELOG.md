@@ -9,13 +9,18 @@
 ### Added
 
 - Better Falskaar and Wyrmstooth Map With Roads
-- Mr. Dragonfly ENB Particle Light
+- Ennead Banners - RUGNAROK Patch
 - Even More LOTD Crates for Mods - Wyrmstooth
 - Folkvangr - Grass and Landscape Overhaul - Made a cut version for Elysium
 - Iconic's Bust Of The Gray Fox Retexture
 - Iconic's Remastered Paragon Gems Retexture
 - Legacy of The Dragonborn museum dome improved
 - Missives - Wyrmstooth
+- Mr. Dragonfly ENB Particle Light
+- Pandorable's Black-Briar Ladies - Maven Ingun
+- Pandorable's Frea
+- Pandorable's Lethal Ladies - Jenassa Karliah
+- Pandorable's Warrior Women - Mjoll Uthgerd
 - Vigilant Armors and Weapons Retexture SE
 - Wyrmstooth
 - Wyrmstooth Creation Club Patch
@@ -34,9 +39,12 @@
 - DynDOLOD Resources SE v3.00 Alpha-8
 - ENBSeries v0.452
 - Flinching - Script Free Edition v3
+- Fortified Whiterun v1.5
 - Guard Dialogue Overhaul SE v2.15
+- Kalilies NPCs v2.4
 - Landscape Fixes For Grass Mods v4.8
-- Serana Dialogue Add-On v2.3.1
+- Serana Dialogue Add-On v2.3.2
+- Synthesis v0.14.0
 - Veydosebrom Regions v1.1.2
 
 ### Removed
@@ -49,6 +57,7 @@
 - Added a replacement mesh for the Skyforge HD LOD to fix it clipping outside of the city walls
 - Completed consistency patching for Wyrmstooth
 - Fixed an issue "Once A Hunter" would not complete and a double chest not being disabled
+- Fixed NavMesh errors outside Whiterun
 - Remove all ELE cell edits from the Elysium conflict resolution patch into a new merge call "ELE Patches Merge."
 - Regenerated AllGUD
 - Regenerated DynDOLOD
