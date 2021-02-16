@@ -21,6 +21,7 @@
 - Pandorable's Frea
 - Pandorable's Lethal Ladies - Jenassa Karliah
 - Pandorable's Warrior Women - Mjoll Uthgerd
+- Real Rabbits HD - Color Variants and Smooth Mesh
 - Vigilant Armors and Weapons Retexture SE
 - Wyrmstooth
 - Wyrmstooth Creation Club Patch
@@ -49,6 +50,7 @@
 
 ### Removed
 
+- High poly HD Rabbit by Pfuscher
 - Vigilant Armors ReTexture SE
 - Yet another Legacy of the Dragonborn art replacer - paintings murals frames - Wyrmstooth Upscaled Textures produces the same results with better quality
 
