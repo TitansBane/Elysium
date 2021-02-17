@@ -36,7 +36,7 @@
 ### Updated
 
 - Cathedral - 3D Pine Grass
-- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-29
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-30
 - DynDOLOD Resources SE v3.00 Alpha-8
 - ENBSeries v0.452
 - Flinching - Script Free Edition v3
@@ -52,7 +52,6 @@
 
 - High poly HD Rabbit by Pfuscher
 - Vigilant Armors ReTexture SE
-- Yet another Legacy of the Dragonborn art replacer - paintings murals frames - Wyrmstooth Upscaled Textures produces the same results with better quality
 
 ### Fixes
 
