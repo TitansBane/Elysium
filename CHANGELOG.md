@@ -69,12 +69,15 @@
 - Regenerated Synthesis patches
 - Regenerated TexGen output
 - Regenerated xEdit patch output
+- Updated bodyslides for Vigilant armors
 - Updated the LotD and DD patches for Wyrmstooth v1.19
+- Updated the Night Eye Overhaul patch for Rudy ENB v4.0
 
 ### Tweaks
 
 - Reduce grass density from 40 to 50, which will yield a 3-4 FPS gained
 - Reduce the drop rate of high tier healing potions
+- Elysium now defaults to upscaled 1080p instead of upscaled 1440p, which will yield a massive FPS boost
 
 ## 3.2.5
 
