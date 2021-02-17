@@ -21,6 +21,7 @@
 - Pandorable's Frea
 - Pandorable's Lethal Ladies - Jenassa Karliah
 - Pandorable's Warrior Women - Mjoll Uthgerd
+- Particle Lights For ENB SE - Paragon Gems
 - Real Rabbits HD - Color Variants and Smooth Mesh
 - Vigilant Armors and Weapons Retexture SE
 - Wyrmstooth
@@ -44,8 +45,9 @@
 - Guard Dialogue Overhaul SE v2.15
 - Kalilies NPCs v2.4
 - Landscape Fixes For Grass Mods v4.8
+- R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust v3.2.2
+- Rudy ENB SE for Cathedral Weathers v4.0
 - Serana Dialogue Add-On v2.3.2
-- Synthesis v0.14.0
 - Veydosebrom Regions v1.1.2
 
 ### Removed
