@@ -2,7 +2,7 @@
 
 ## 3.3.0
 
-### Released at: `Unreleased`
+### Released at: `02/16/2021`
 
 ## This update requires a new save game
 
