@@ -14,6 +14,7 @@
 
 ### Removed
 
+- Hermaeus Mora - Water and tentacles - My HD version SE
 - Project Clarity - Architecture Textures Redone
 - Project Clarity - Clutter Textures Redone
 - Project Clarity - Creature Textures Redone
