@@ -6,7 +6,9 @@
 
 ### Added
 
+- Iconic's Moon Crest Retexture
 - Project Clarity AIO - Skyrim Textures Redone
+- Rally's Instruments
 
 ### Updated
 
@@ -15,6 +17,7 @@
 ### Removed
 
 - Hermaeus Mora - Water and tentacles - My HD version SE
+- HD High Poly Keys II
 - Project Clarity - Architecture Textures Redone
 - Project Clarity - Clutter Textures Redone
 - Project Clarity - Creature Textures Redone
