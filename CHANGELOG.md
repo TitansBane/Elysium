@@ -1,5 +1,36 @@
 # Changelog
 
+## 3.3.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Project Clarity AIO - Skyrim Textures Redone
+
+### Updated
+
+- Particle Lights For ENB SE - Paragon Gems v1.2
+
+### Removed
+
+- Project Clarity - Architecture Textures Redone
+- Project Clarity - Clutter Textures Redone
+- Project Clarity - Creature Textures Redone
+- Project Clarity - Dungeon Textures Redone
+- Project Clarity - Effects Textures Redone
+- Project Clarity - Landscape Textures Redone
+- Project Clarity - Vanilla Armor Textures Redone
+- Project Clarity - Vanilla Clothing And Jewelry Textures Redone
+- Project Clarity - Vanilla Weapon Textures Redone
+- Skyrim Realistic Overhaul
+
+### Fixes
+
+- Fixed MCM automation for R.A.S.S
+- Regenerated DynDOLOD
+- Regenerated TexGen output
+
 ## 3.3.0
 
 ### Released at: `02/16/2021`
