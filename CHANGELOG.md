@@ -6,6 +6,7 @@
 
 ### Added
 
+- Bright Snow Fix for ENB
 - Iconic's Moon Crest Retexture
 - Project Clarity AIO - Skyrim Textures Redone
 - Rally's Instruments
@@ -31,6 +32,7 @@
 
 ### Fixes
 
+- Fixed broken weathers for Rudy ENB
 - Fixed MCM automation for R.A.S.S
 - Regenerated DynDOLOD
 - Regenerated TexGen output
