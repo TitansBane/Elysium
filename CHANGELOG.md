@@ -1,5 +1,29 @@
 # Changelog
 
+## 3.3.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Better Volkihar Secret Entrance
+- Rally's Solstheim Shrines
+- Upgraded Moondial
+
+### Updated
+
+- Assorted mesh fixes v0.14
+- Deadly Dragons SE Patches v1.3.1
+- Improved Sparks v3.0
+- Mod Organizer 2 v2.4.0 RC2
+- Serana Dialogue Add-On v2.3.3
+- Synthesis v0.14.1
+- Vigilant Armors and Weapons Retexture SE v1.1
+
+### Fixes
+
+- Regenerated Synthesis patches
+
 ## 3.3.1
 
 ### Released at: `02/17/2021`
