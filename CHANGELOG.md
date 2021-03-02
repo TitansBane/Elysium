@@ -1,8 +1,83 @@
 # Changelog
 
-## 3.3.2
+## 3.4.0
 
 ### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- 4K SMIM Whiterun Bench
+- Beard stubble
+- Beastly Smiles
+- Better beast race scars
+- Boats and Ships 8k 4k 2k
+- Cathedral Landscapes - Fixed Bridge Meshes
+- CC's Remastered Murals
+- elwaps' Patches and Fixes - Rude Imperial Soldiers Escort Prisoner fix
+- Fixed body collision
+- Forsworn and Blackblood and Boethiah Tattoos 2k
+- HD Dead Trees and Driftwoods
+- HQ Tree Bark
+- JS Dragon Claws Legacy of the Dragonborn patch
+- JS Dragon Claws - Wyrmstooth Patch
+- Legacy of the Dragonborn Plaques Retexture
+- Mild Complexions
+- Odin - Skyrim Magic Overhaul
+- Odin - Vokrii Compatibility Patch
+- Pandorable's Lethal Ladies - Salt and Wind
+- Rally's Werewolf Totems
+- Reach Tree Replacer SSE
+- Thunderbolt - HD Lightning
+- Ultimate Combat and Creatures Behaviour compatibility for Nemesis
+- Vampires Cast No Shadow 2
+- Vanilla hair - Salt and Wind
+- Vanilla Warpaints Absolution
+- zxlice hitStop SSE - Script Free
+
+### Updated
+
+- Deadly Dragons SE Patches v1.3.1
+- Dynamic Volumetric Lighting and Sun Shadows v1.0.2
+- Equip Enchantment Fix v1.2.2
+- Flinching - Script Free Edition v3.51
+- Guard Dialogue Overhaul SE v2.16
+- Iconic's Moon Crest Retexture v1.2
+- Improved Dwemer Glass v1.1
+- Kalilies NPCs - Salt and Wind retexture v1.2
+- lilebonymace's patches xEdit scripts and stuff vs1.14
+- Meridia's Luxon Beacon Replacer - Grey Beacon
+- Misc Tweaks - Better Horses v1.2
+- Mod Organizer 2 v2.4.0
+- Project Clarity AIO - Skyrim Textures Redone v2.0
+- Rally's Solstheim Shrines v1.1
+- Revamped Assets Skyrim - Weapon Racks Patch v1.1
+- Serana's Hood Fix v3.0.1
+- Spell Perk Item Distributor v4.3
+- Stagger Direction Fix - SSE v2.02
+- Synthesis v0.16.2
+- Undiscovered Means Unknown - Map Markers v2.11
+- Vigilant Armors and Weapons Retexture SE v1.1
+- Vigilant CBBE Patch v1.4.2
+- xLODGen vbeta 73
+
+### Removed
+
+- Blended Roads
+- JS Dragon Claws - LOTD Patch
+- Khajiit Wild Eyes
+- More Expensive Transmute for Mysticism
+- Mysticism - A Magic Overhaul
+- Mysticism - Vokrii Compatibility Patch
+- Reach Tree Reborn
+- Rude Imperial Soldiers Escort Prisoner fix
+- RUSTIC NORDIC MURALS
+- Voltage
+
+## 3.3.2
+
+### Released at: `02/19/2021`
 
 ### Added
 
