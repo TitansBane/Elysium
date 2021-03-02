@@ -22,6 +22,7 @@
 - HQ Tree Bark
 - JS Dragon Claws Legacy of the Dragonborn patch
 - JS Dragon Claws - Wyrmstooth Patch
+- Legacy of the Dragonborn dome retexture
 - Legacy of the Dragonborn Plaques Retexture
 - Mild Complexions
 - Odin - Skyrim Magic Overhaul
