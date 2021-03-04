@@ -73,6 +73,7 @@
 ### Removed
 
 - Blended Roads
+- Faction Economy - Selling items that were favorited could potentially cause a crash
 - JS Dragon Claws - LOTD Patch
 - Khajiit Wild Eyes
 - More Expensive Transmute for Mysticism
@@ -83,6 +84,13 @@
 - RUSTIC NORDIC MURALS
 - Sacred Trees - Regrown Gildergreen was pretty ugly
 - Voltage
+
+### Fixes
+
+- Lots of bug fixes
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
 
 ## 3.3.2
 
