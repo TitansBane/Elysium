@@ -13,6 +13,7 @@
 - Beastly Smiles
 - Better beast race scars
 - Boats and Ships 8k 4k 2k
+- Canticle Tree - Bark - and Draw Knife Retexture
 - Cathedral Landscapes - Fixed Bridge Meshes
 - CC's Remastered Murals
 - elwaps' Patches and Fixes - Rude Imperial Soldiers Escort Prisoner fix
@@ -22,14 +23,17 @@
 - HQ Tree Bark
 - JS Dragon Claws Legacy of the Dragonborn patch
 - JS Dragon Claws - Wyrmstooth Patch
+- Kanjs - Chaurus eggs - 4k - 2k - 1k - New Meshes
 - Legacy of the Dragonborn dome retexture
 - Legacy of the Dragonborn Plaques Retexture
 - Mild Complexions
 - Odin - Skyrim Magic Overhaul
+- Odin - Summons Redone
 - Odin - Vokrii Compatibility Patch
 - Pandorable's Lethal Ladies - Salt and Wind
 - Rally's Werewolf Totems
 - Reach Tree Replacer SSE
+- Skyrim 3D Gildergreen
 - Thunderbolt - HD Lightning
 - Ultimate Combat and Creatures Behaviour compatibility for Nemesis
 - Vampires Cast No Shadow 2
@@ -40,14 +44,16 @@
 ### Updated
 
 - Deadly Dragons SE Patches v1.3.1
+- Dirt and Blood - Dynamic Visual Effects v1.75
 - Dynamic Volumetric Lighting and Sun Shadows v1.0.2
+- Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon v1.77.0
 - Equip Enchantment Fix v1.2.2
 - Flinching - Script Free Edition v3.51
 - Guard Dialogue Overhaul SE v2.16
 - Iconic's Moon Crest Retexture v1.2
 - Improved Dwemer Glass v1.1
 - Kalilies NPCs - Salt and Wind retexture v1.2
-- lilebonymace's patches xEdit scripts and stuff vs1.14
+- lilebonymace's patches xEdit scripts and stuff vs1.15
 - Meridia's Luxon Beacon Replacer - Grey Beacon
 - Misc Tweaks - Better Horses v1.2
 - Mod Organizer 2 v2.4.0
@@ -56,8 +62,9 @@
 - Revamped Assets Skyrim - Weapon Racks Patch v1.1
 - Serana's Hood Fix v3.0.1
 - Spell Perk Item Distributor v4.3
+- SSE Display Tweaks v0.4.8-1
 - Stagger Direction Fix - SSE v2.02
-- Synthesis v0.16.2
+- Synthesis v0.16.5
 - Undiscovered Means Unknown - Map Markers v2.11
 - Vigilant Armors and Weapons Retexture SE v1.1
 - Vigilant CBBE Patch v1.4.2
@@ -69,11 +76,12 @@
 - JS Dragon Claws - LOTD Patch
 - Khajiit Wild Eyes
 - More Expensive Transmute for Mysticism
-- Mysticism - A Magic Overhaul - Adds too many useless spells
+- Mysticism - A Magic Overhaul - Adds too many useless spells and Odin fits better
 - Mysticism - Vokrii Compatibility Patch
 - Reach Tree Reborn
 - Rude Imperial Soldiers Escort Prisoner fix
 - RUSTIC NORDIC MURALS
+- Sacred Trees - Regrown Gildergreen was pretty ugly
 - Voltage
 
 ## 3.3.2
