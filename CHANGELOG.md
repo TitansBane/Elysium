@@ -16,10 +16,14 @@
 - Canticle Tree - Bark - and Draw Knife Retexture
 - Cathedral Landscapes - Fixed Bridge Meshes
 - CC's Remastered Murals
+- Deer Skull and Antlers Retexture
 - elwaps' Patches and Fixes - Rude Imperial Soldiers Escort Prisoner fix
 - Fixed body collision
 - Forsworn and Blackblood and Boethiah Tattoos 2k
 - HD Dead Trees and Driftwoods
+- HD Dead Trees and Driftwoods 2K Mesh Fix
+- HD Falmer Armor - Weapons - Huts - Everything - Glow
+- HD Reflective Ebony Armor and Weapons
 - HQ Tree Bark
 - JS Dragon Claws Legacy of the Dragonborn patch
 - JS Dragon Claws - Wyrmstooth Patch
@@ -31,8 +35,11 @@
 - Odin - Summons Redone
 - Odin - Vokrii Compatibility Patch
 - Pandorable's Lethal Ladies - Salt and Wind
+- Pine Branches Redone
+- Pine Shrubs Redone
 - Rally's Werewolf Totems
 - Reach Tree Replacer SSE
+- Rudy HQ - Hay SE
 - Skyrim 3D Gildergreen
 - Thunderbolt - HD Lightning
 - Ultimate Combat and Creatures Behaviour compatibility for Nemesis
@@ -43,11 +50,12 @@
 
 ### Updated
 
+- Armor and Clothing Extension v1.2
 - Deadly Dragons SE Patches v1.3.1
 - Dirt and Blood - Dynamic Visual Effects v1.75
 - Dynamic Volumetric Lighting and Sun Shadows v1.0.2
 - Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon v1.77.0
-- Equip Enchantment Fix v1.2.2
+- Equip Enchantment Fix v1.2.3
 - Flinching - Script Free Edition v3.51
 - Guard Dialogue Overhaul SE v2.16
 - Iconic's Moon Crest Retexture v1.2
@@ -62,7 +70,7 @@
 - Revamped Assets Skyrim - Weapon Racks Patch v1.1
 - Serana's Hood Fix v3.0.1
 - Spell Perk Item Distributor v4.3
-- SSE Display Tweaks v0.4.8-1
+- SSE Display Tweaks v0.4.8-3
 - Stagger Direction Fix - SSE v2.02
 - Synthesis v0.16.5
 - Undiscovered Means Unknown - Map Markers v2.11
@@ -72,8 +80,12 @@
 
 ### Removed
 
+- Armor and Clothing Extension (WACCF) - MCM Menu Fix
 - Blended Roads
+- Ebony Weapons 2017 Retexture
 - Faction Economy - Selling items that were favorited could potentially cause a crash
+- Falmer Weapons for aMidianBorn Book of Silence
+- HD Reworked Falmer Architecture
 - JS Dragon Claws - LOTD Patch
 - Khajiit Wild Eyes
 - More Expensive Transmute for Mysticism
@@ -88,7 +100,9 @@
 ### Fixes
 
 - Lots of bug fixes
+- Regenerated AllGUD
 - Regenerated DynDOLOD
+- Regenerated Occlusion
 - Regenerated Synthesis patches
 - Regenerated TexGen output
 
