@@ -89,7 +89,7 @@
 - JS Dragon Claws - LOTD Patch
 - Khajiit Wild Eyes
 - More Expensive Transmute for Mysticism
-- Mysticism - A Magic Overhaul - Adds too many useless spells and Odin is way better
+- Mysticism - A Magic Overhaul - Adds too many useless spells and Odin is much better anyway
 - Mysticism - Vokrii Compatibility Patch
 - Reach Tree Reborn
 - Rude Imperial Soldiers Escort Prisoner fix
