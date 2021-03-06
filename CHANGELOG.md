@@ -62,6 +62,7 @@
 - High Poly Project v4.95
 - Iconic's Moon Crest Retexture v1.2
 - Improved Dwemer Glass v1.1
+- JK's Skyrim v1.7
 - Kalilies NPCs - Salt and Wind retexture v1.2
 - lilebonymace's patches xEdit scripts and stuff vs1.15
 - Meridia's Luxon Beacon Replacer - Grey Beacon
