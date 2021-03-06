@@ -30,6 +30,7 @@
 - Kanjs - Chaurus eggs - 4k - 2k - 1k - New Meshes
 - Legacy of the Dragonborn dome retexture
 - Legacy of the Dragonborn Plaques Retexture
+- Map Markers Complete with DLC and OCS
 - Mild Complexions
 - Odin - Skyrim Magic Overhaul
 - Odin - Summons Redone
@@ -58,6 +59,7 @@
 - Equip Enchantment Fix v1.2.3
 - Flinching - Script Free Edition v3.51
 - Guard Dialogue Overhaul SE v2.16
+- High Poly Project v4.95
 - Iconic's Moon Crest Retexture v1.2
 - Improved Dwemer Glass v1.1
 - Kalilies NPCs - Salt and Wind retexture v1.2
@@ -72,7 +74,8 @@
 - Spell Perk Item Distributor v4.3
 - SSE Display Tweaks v0.4.8-3
 - Stagger Direction Fix - SSE v2.02
-- Synthesis v0.16.5
+- Storm Lightning for SSE and VR (Minty Lightning 2019) v1.4.7
+- Synthesis v0.16.6
 - Undiscovered Means Unknown - Map Markers v2.11
 - Vigilant Armors and Weapons Retexture SE v1.1
 - Vigilant CBBE Patch v1.4.2
