@@ -1,5 +1,25 @@
 # Changelog
 
+## 3.4.1
+
+### Released at: `03/06/2021`
+
+### Added
+
+- Dwemer pipework reworked
+
+### Updated
+
+- Kanjs - Chaurus eggs - 4k - 2k - 1k - New Meshes - Animated Textures v2
+- Odin - Skyrim Magic Overhaul v1.6.0
+- Odin - Vokrii Compatibility Patch v4.3.0
+- Storm Lightning for SSE and VR (Minty Lightning 2019) v1.4.8
+- Wyrmstooth v1.19.1
+
+### Fixes
+
+- Regenerated Synthesis patches
+
 ## 3.4.0
 
 ### Released at: `03/05/2021`
