@@ -2,7 +2,7 @@
 
 ## 3.4.0
 
-### Released at: `Unreleased`
+### Released at: `03/05/2021`
 
 ## This update requires a new save game
 
@@ -92,7 +92,7 @@
 - JS Dragon Claws - LOTD Patch
 - Khajiit Wild Eyes
 - More Expensive Transmute for Mysticism
-- Mysticism - A Magic Overhaul - Adds too many useless spells and Odin fits better anyway
+- Mysticism - A Magic Overhaul - Adds too many useless spells and Odin fits better
 - Mysticism - Vokrii Compatibility Patch
 - Reach Tree Reborn
 - Rude Imperial Soldiers Escort Prisoner fix
