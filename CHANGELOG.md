@@ -27,6 +27,7 @@
 - Reliquary of Myth - Artifact Overhaul v3.7.3
 - SDA Wintersun Patch v3.0WintersunPatch
 - Serana Dialogue Add-On v2.3.4
+- Synthesis v0.16.8
 - The Tools of Kagrenac v1.58
 
 ### Removed
