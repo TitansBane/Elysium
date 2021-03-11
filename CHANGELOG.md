@@ -1,5 +1,45 @@
 # Changelog
 
+## 3.4.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Dirt
+- Essential Favorites
+- Hunters Dialogue Edit
+- JS Circlet Replacer - USKP - USSEP Patch
+- Retexture for The Scroll SE
+- Super Fast Get Up Animation
+
+### Updated
+
+- Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn v3
+- Aspens Ablaze v2.32
+- Dwemer pipework reworked vIII
+- Favorite Misc Items v3.5
+- Frozen Electrocuted Combustion v4.8
+- Improved Sparks v3.0.1
+- lilebonymace's patches xEdit scripts and stuff vs2.0
+- powerofthree's Papyrus Extender v4.3
+- Project Clarity AIO - Skyrim Textures Redone v2.1
+- Reliquary of Myth - Artifact Overhaul v3.7.3
+- SDA Wintersun Patch v3.0WintersunPatch
+- Serana Dialogue Add-On v2.3.4
+- The Tools of Kagrenac v1.58
+
+### Removed
+
+- D13 Faster GET UP STAND UP animation vanilla friendly SSE
+
+### Fixes
+
+- Fixed an issue where Zim's Dragon Improvements were overriding name Dragons from other mods
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 3.4.1
 
 ### Released at: `03/06/2021`
