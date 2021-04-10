@@ -118,6 +118,7 @@
 
 ### Fixes
 
+- Fixed level scaling of Bandits, Skeletons, and Draugrs.
 - Regenerated AllGUD
 - Regenerated DynDOLOD
 - Regenerated Occlusion
