@@ -1,5 +1,25 @@
 # Changelog
 
+## 3.5.1
+
+### Released at: `04/10/2021`
+
+### Added
+
+- Additional Dev Aveza locations for Legacy of the Dragonborn
+
+### Updated
+
+- Draugr Upgrades and Improvements v2.3
+- Odin - Skyrim Magic Overhaul v1.8.0
+- Odin - Vokrii Compatibility Patch v3.5.2
+- Vokrii - Minimalistic Perks of Skyrim v3.5.2
+- xLODGen vbeta 77
+
+### Fixes
+
+- Regenerated Synthesis patches
+
 ## 3.5.0
 
 ### Released at: `04/10/2021`
