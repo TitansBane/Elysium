@@ -116,6 +116,14 @@
 - Remiros' Wabbajack HD
 - WM's Flora Fixes - Revamped
 
+### Fixes
+
+- Regenerated AllGUD
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 3.4.2
 
 ### Released at: `03/11/2021`
