@@ -1,5 +1,94 @@
 # Changelog
 
+## 3.5.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Ancient Falmer - Auriel's Chantry Throne Replacer HD - SE
+- Auriel's Chantry HD - SE
+- Auriel's Shield and Bow and Ghosu's Auriel's Armory HD - SE
+- Boreal Boats SE
+- Companions Werewolf Bloodritual Scene Tweak
+- Custom Skills Framework
+- Gemstones Replacers HD SE
+- High Poly Soul Husks
+- Horse Stamina HUD - Script-Free
+- Iconic Statues
+- Immersive HD Banners
+- Lanterns Of Wyrmstooth (Unofficial LOS II addon for Wyrmstooth)
+- Legacy of The Dragonborn Perk Menus
+- Locational Damage(SKSE Plugin)
+- Lucien - Saints and Seducers Patch
+- ODIN spells for NPCS
+- Paragon Gems HD - SE
+- Rally's Civil War Document Tubes
+- Rally's Nord War Horns
+- Remiros' Wabbajack HD V2
+- Smooth DAR Combat Dodge
+- Solitude Catacombs Tweak
+- Soul Husk Retexture
+- Splashes Of Skyrim
+- Vokrii Perks For NPCS
+- Whiterun Mesh Fixes
+- WM's Flora Fixes - Revamped (No Scripts)
+
+### Updated
+
+- Animated Armoury - Legacy of Dragonborn Displays v1.2
+- Bug Fixes SSE v3
+- Copy and Paste in Console v1.0.1
+- Crossbow Integration (Including Creation Club) v2.2.0
+- Dirt and Blood - Dynamic Visual Effects v2.0
+- Dwemer Pipework Reworked v3.1
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-33
+- DynDOLOD Resources SE v3.00 Alpha-9
+- ELFX Fixes v5.6
+- Flinching - Script Free Edition v1.36
+- Legacy of the Dragonborn - Creation Club Patch Hub v4.0.4
+- Legacy of the Dragonborn Patches (Official) v2.5.1
+- Legacy of the Dragonborn SSE v5.5.0
+- Legacy of the Dragonborn - The Curators Companion v5.1.3
+- Lucien - Immersive Fully Voiced Male Follower v1.6.2
+- JK's Skyrim - Realistic Water Two Patch v1.7
+- Know Your Enemy - Trait-based resistances and weaknesses v8.1.1
+- Misc Tweaks - Better Horses v1.3
+- Missives - Wyrmstooth Patch v2.04a
+- MM - REAL ELKS v1.0.1
+- Odin - Skyrim Magic Overhaul v1.7.1
+- Odin - Vokrii Compatibility Patch v3.5.0
+- Pirate's Life for Me - A Creation Club Integration Mod v2.0.0
+- Relationship Dialogue Overhaul - Update and MCM v1.0.3
+- Reliquary of Myth - Artifact Overhaul v3.8.0
+- SDA Nether's Follower Framework Patch v3.0NFFPatch
+- Serana Dialogue Add-On v2.4.1
+- Smoking Torches and Candles v1.76
+- Spell Perk Item Distributor (SPID) v4.4
+- SSE Display Tweaks v0.4.9-1
+- Stagger Direction Fix - SSE v2.02a
+- Storm Lightning for SSE and VR (Minty Lightning 2019) v1.4.9
+- Unique Items Tweaks - Improved Miscellaneous Artifacts v1.6
+- Unofficial Identity Crisis LotD Patch v1.6.0
+- Vokrii - Minimalistic Perks of Skyrim v3.5.0
+- Wyrmstooth v1.19.2
+
+### Removed
+
+- Arri's Snow Elf Ruins Retexture Special Edition
+- Auriels Bow - HD Retexture
+- Auriels Shield - HD Retexture
+- Ennead Banners
+- Ghosus Auriels Quiver Retexture
+- Ghosu - Auriels Quiver Replacer
+- GIST - Genuinely Intelligent Soul Trap SE
+- Iconic's Remastered Paragon Gems
+- Particle Lights For ENB SE - Paragon Gems
+- Remiros' Wabbajack HD
+- WM's Flora Fixes - Revamped
+
 ## 3.4.2
 
 ### Released at: `03/11/2021`
