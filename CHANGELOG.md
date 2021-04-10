@@ -9,17 +9,24 @@
 ### Added
 
 - Ancient Falmer - Auriel's Chantry Throne Replacer HD - SE
+- Animated Armoury - WACCF Patch
 - Auriel's Chantry HD - SE
 - Auriel's Shield and Bow and Ghosu's Auriel's Armory HD - SE
 - Boreal Boats SE
+- Caveworm Plant Retexture
+- Chisel replacer HD - SE
 - Companions Werewolf Bloodritual Scene Tweak
+- Contraband Confiscation
 - Custom Skills Framework
+- ElSopa - HD Keys Redone SE
 - Gemstones Replacers HD SE
 - High Poly Soul Husks
 - Horse Stamina HUD - Script-Free
 - Iconic Statues
 - Immersive HD Banners
+- Kanjs - Utensils Sets and Weapons
 - Lanterns Of Wyrmstooth (Unofficial LOS II addon for Wyrmstooth)
+- Legacy of The Dragonborn - Museum Exterior Fixes
 - Legacy of The Dragonborn Perk Menus
 - Locational Damage(SKSE Plugin)
 - Lucien - Saints and Seducers Patch
@@ -27,11 +34,17 @@
 - Paragon Gems HD - SE
 - Rally's Civil War Document Tubes
 - Rally's Nord War Horns
+- Remiros' Long Bow HD
+- Remiros' Scimitar HD
 - Remiros' Wabbajack HD V2
+- Scrambled Bugs
 - Smooth DAR Combat Dodge
 - Solitude Catacombs Tweak
+- Solstheim Mudcrab Variant
 - Soul Husk Retexture
 - Splashes Of Skyrim
+- Thieves' Night On the Town -- Tnott
+- True Teacher Durnehviir
 - Vokrii Perks For NPCS
 - Whiterun Mesh Fixes
 - WM's Flora Fixes - Revamped (No Scripts)
@@ -39,7 +52,12 @@
 ### Updated
 
 - Animated Armoury - Legacy of Dragonborn Displays v1.2
+- ArteFakes - Unique Artifacts Replacer v2.0
+- Assorted mesh fixes v0.15
+- Better Windhelm Ground Meshes v1.3
 - Bug Fixes SSE v3
+- Castle Volkihar Rebuilt - SSE v2.0.6
+- Cathedral Assets Optimizer v5.1.1
 - Copy and Paste in Console v1.0.1
 - Crossbow Integration (Including Creation Club) v2.2.0
 - Dirt and Blood - Dynamic Visual Effects v2.0
@@ -48,6 +66,8 @@
 - DynDOLOD Resources SE v3.00 Alpha-9
 - ELFX Fixes v5.6
 - Flinching - Script Free Edition v1.36
+- Folkvangr - Grass and Landscape Overhaul v1.3
+- High Poly Blackreach Mushrooms v1.1
 - Legacy of the Dragonborn - Creation Club Patch Hub v4.0.4
 - Legacy of the Dragonborn Patches (Official) v2.5.1
 - Legacy of the Dragonborn SSE v5.5.0
@@ -58,6 +78,7 @@
 - Misc Tweaks - Better Horses v1.3
 - Missives - Wyrmstooth Patch v2.04a
 - MM - REAL ELKS v1.0.1
+- Mod Organizer 2 v2.4.1
 - Odin - Skyrim Magic Overhaul v1.7.1
 - Odin - Vokrii Compatibility Patch v3.5.0
 - Pirate's Life for Me - A Creation Club Integration Mod v2.0.0
@@ -65,26 +86,32 @@
 - Reliquary of Myth - Artifact Overhaul v3.8.0
 - SDA Nether's Follower Framework Patch v3.0NFFPatch
 - Serana Dialogue Add-On v2.4.1
+- Skyrim Landscape and Water Fixes v6.0
 - Smoking Torches and Candles v1.76
 - Spell Perk Item Distributor (SPID) v4.4
 - SSE Display Tweaks v0.4.9-1
 - Stagger Direction Fix - SSE v2.02a
 - Storm Lightning for SSE and VR (Minty Lightning 2019) v1.4.9
+- Synthesis v0.17.5
 - Unique Items Tweaks - Improved Miscellaneous Artifacts v1.6
 - Unofficial Identity Crisis LotD Patch v1.6.0
 - Vokrii - Minimalistic Perks of Skyrim v3.5.0
 - Wyrmstooth v1.19.2
+- xLODGen vbeta 76
 
 ### Removed
 
 - Arri's Snow Elf Ruins Retexture Special Edition
 - Auriels Bow - HD Retexture
 - Auriels Shield - HD Retexture
+- ElSopa - HD Keys SE
 - Ennead Banners
 - Ghosus Auriels Quiver Retexture
 - Ghosu - Auriels Quiver Replacer
 - GIST - Genuinely Intelligent Soul Trap SE
+- Iconic's Falmer Eye Gem Retexture (4K-2K)
 - Iconic's Remastered Paragon Gems
+- Legacy of the Dragonborn - Blended Roads Patch
 - Particle Lights For ENB SE - Paragon Gems
 - Remiros' Wabbajack HD
 - WM's Flora Fixes - Revamped
