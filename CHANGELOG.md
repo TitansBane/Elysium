@@ -1,5 +1,52 @@
 # Changelog
 
+## 3.6.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Azuras Star and Skeleton Key Remastered SE
+- Better Dynamic Majestic Mountains
+- Better Dynamic Snow SE v2
+- Dwemer Pipework Reworked - patch for ELFX
+- MultiLayer Parallax Soulgems Azura's star realm and holders HD SE
+- Particle Lights For ENB SE - Undead Creatures
+- SSE Parallax Shader Fix (BETA)
+- WiZkiD Parallax Farmhouses
+- WiZkiD Pavo's House
+- WiZkiD Pinewatch
+
+### Updated
+
+- Additional Dev Aveza locations for Legacy of the Dragonborn v1.1b
+- Animated Armoury - Fixes and WACCF Patch v2.0
+- Know Your Enemy - Trait-based resistances and weaknesses v8.1.2
+- Legacy of the Dragonborn - Creation Club Patch Hub v4.0.5
+- ODIN spells for NPCS
+- Serana Dialogue Add-On v2.4.2
+- Vigilant Armors and Weapons Retexture SE v2.0
+- Vokrii Perks For NPCS
+
+### Removed
+
+- Better Dynamic Snow SE v3
+- GOAT HD by Pfuscher
+- HD Saw dust
+- HD Skeever
+- Horker by Pfuscher
+- Renthal Nettle SSE
+- Skyrim Remastered - Soul Gems
+
+### Fixes
+
+- Hand-pick hundreds of new textures and added parallax textures for many objects
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 3.5.1
 
 ### Released at: `04/10/2021`
