@@ -42,10 +42,13 @@
 
 ### Fixes
 
-- Hand-pick hundreds of new textures and added parallax textures for many objects
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
+
+### Tweaks
+
+- Hand-pick hundreds of new textures and added parallax textures for many objects
 
 ## 3.5.1
 
