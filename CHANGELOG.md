@@ -39,6 +39,7 @@
 - Horker by Pfuscher
 - Renthal Nettle SSE
 - Skyrim Remastered - Soul Gems
+- True Nordic Farmhouses (2K - 4K)
 
 ### Fixes
 
