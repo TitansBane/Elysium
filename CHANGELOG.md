@@ -23,6 +23,7 @@
 
 - Additional Dev Aveza locations for Legacy of the Dragonborn v1.1b
 - Animated Armoury - Fixes and WACCF Patch v2.0
+- Assorted mesh fixes v0.16
 - Know Your Enemy - Trait-based resistances and weaknesses v8.1.2
 - Legacy of the Dragonborn - Creation Club Patch Hub v4.0.5
 - ODIN spells for NPCS
