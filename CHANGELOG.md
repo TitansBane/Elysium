@@ -1,5 +1,30 @@
 # Changelog
 
+## 3.6.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Bears of the North
+- Fusa Fusa Armored Husky
+- FusaFusa Project - Fluffy Animals SE
+- MAMMOTH
+- MM REAL ELKS 2K - FusaFusa Patch
+- Sabrecat FusaFusa Project Patch
+- Troll FusaFusa Project Patch
+- Wolves Reshaped
+
+### Updated
+
+- powerofthree's Papyrus Extender v4.3.5
+- Rally's Raven Rock v1.1
+- Serana Dialogue Add-On v2.4.3
+
+### Removed
+
+- HD Reworked Bears 4K
+
 ## 3.6.0
 
 ### Released at: `04/14/2021`
