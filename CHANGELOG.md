@@ -1,5 +1,29 @@
 # Changelog
 
+## 3.6.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Majestic Mountains - Mesh Tangent Space Fixes
+
+### Updated
+
+- Animated Armoury - Fixes and WACCF Patch v2.1
+- Flawn's Vanilla Argonians Redux - UNP CBBE SOS - 4k 2k v0.3
+- Frozen Electrocuted Combustion v4.8.5
+- Vokrii Perks For NPCS
+
+### Removed
+
+- Masculine Argonian Textures (Chameleon and Lizard) - No longer needed due to the new Flawn's Argonian update, which has vanilla male body support now
+- zxlice hitStop SSE - Script Free - Cause an issue with dual wield swing speed not restoring to the default value after slowing the weapon speed upon hitting a target
+
+### Fixes
+
+-  Updated modded weapons stats with animated armory keywords to be more in line with Animated Armoury - Fixes and WACCF Patch
+
 ## 3.6.1
 
 ### Released at: `04/15/2021`
