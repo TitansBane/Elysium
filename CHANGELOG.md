@@ -22,7 +22,8 @@
 
 ### Fixes
 
--  Updated modded weapons stats with animated armory keywords to be more in line with Animated Armoury - Fixes and WACCF Patch
+- Regenerated Synthesis patches
+- Updated modded weapons stats with animated armory keywords to be more in line with Animated Armoury - Fixes and WACCF Patch
 
 ## 3.6.1
 
