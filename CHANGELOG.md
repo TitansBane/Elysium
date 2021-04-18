@@ -1,5 +1,36 @@
 # Changelog
 
+## 3.6.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Dawnguard Music Overhaul - Skyrim Fan-made Music
+
+### Updated
+
+- Animated Armoury - Fixes and WACCF Patch v2.2
+- Cathedral Assets Optimizer v5.1.2
+- Frozen Electrocuted Combustion v4.8.6
+- Skyrim Flora Overhaul SE v2.72H
+- SSE Display Tweaks v0.4.11
+
+### Fixes
+
+- Fix floating mountain flowers near Solitude docks
+- Fix mismatch textures that didn't blend well
+- Delete the Blacksmith workbench mesh from Skyrim 2020 Parallax by Pfuscher
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Tweak grass plugins, so Folkvangr now covers beach grass, rocks, and driftwood
+- Remove driftwood from Depths of Skyrim
+
 ## 3.6.2
 
 ### Released at: `04/16/2021`
