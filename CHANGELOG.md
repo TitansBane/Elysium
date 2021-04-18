@@ -18,9 +18,9 @@
 
 ### Fixes
 
+- Delete the Blacksmith workbench mesh from Skyrim 2020 Parallax by Pfuscher
 - Fix floating mountain flowers near Solitude docks
 - Fix mismatch textures that didn't blend well
-- Delete the Blacksmith workbench mesh from Skyrim 2020 Parallax by Pfuscher
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
