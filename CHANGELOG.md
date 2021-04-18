@@ -7,6 +7,7 @@
 ### Added
 
 - Dawnguard Music Overhaul - Skyrim Fan-made Music
+- Yet Another Music Merge
 
 ### Updated
 
