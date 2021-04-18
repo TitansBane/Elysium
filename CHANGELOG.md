@@ -29,7 +29,6 @@
 ### Tweaks
 
 - Tweak grass plugins, so Folkvangr now covers beach grass, rocks, and driftwood
-- Remove driftwood from Depths of Skyrim
 
 ## 3.6.2
 
