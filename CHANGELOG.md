@@ -13,6 +13,7 @@
 - Animated Armoury - Fixes and WACCF Patch v2.2
 - Cathedral Assets Optimizer v5.1.2
 - Frozen Electrocuted Combustion v4.8.6
+- More Informative Console v0.41
 - Skyrim Flora Overhaul SE v2.72H
 - SSE Display Tweaks v0.4.11
 
