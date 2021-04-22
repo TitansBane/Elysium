@@ -1,5 +1,60 @@
 # Changelog
 
+## 3.7.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Equipment Durability System - Only using the Dynamic Temper feature to pair with Item Durability
+- Fort Dawnguard HD - SE - Only using the unique door textures addon
+- HD Reworked Bears 4K - Re-added to cover some missing textures
+- Improved Bards - Special Edition
+- My Road Signs are Beautiful - Multilingual HD Retexture - SE
+- Northbourne NPCs of Falkreath Hold
+- Northbourne NPCs of Haafingar
+- Northbourne NPCs of the Rift
+- Northbourne NPCs of Whiterun Hold
+- Northbourne NPCs of Winterhold
+- Skyrim 3D Trees and Plants - Parallaxed
+- SpeedTree
+
+### Updated
+
+- BriDO - Cannibal Draugr Patch v3.0-CD
+- Cannibal Draugr on Solstheim (Bloodmoon Creature Restoration Project) v2.1
+- Flawn's Vanilla Argonians Redux - UNP CBBE SOS - 4k 2k
+- Fortified Whiterun - JK's Skyrim AIO patch
+- Legacy of the Dragonborn - Creation Club Patch Hub v4.0.5a
+- More Informative Console v0.42
+- MultiLayer Parallax Soulgems Azura's star realm and holders HD SE v1.2
+- ODIN spells for NPCS
+- Reliquary of Myth - Artifact Overhaul v3.8.1
+- Synthesis v0.18.1
+- WiZkiD Parallax Farmhouses v1.4
+
+### Removed
+
+- CC's HQ Roadsigns SSE
+- Enhanced Landscapes - Oaks Standalone SSE - Marsh Pines - Dilon Vul
+- Enhanced Landscapes - Solstheim 3D Trees
+- Enhanced Vanilla Trees SE
+
+### Fixes
+
+- Fix missing grass outside Solitude
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Revamped the NPC merge, overhauling almost 400 NPCs
+
+### Tweaks
+
+- Rework the 3D Tree plugin to include more assets from the mod
+
 ## 3.6.3
 
 ### Released at: `04/18/2021`
