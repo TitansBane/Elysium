@@ -10,7 +10,7 @@
 
 - Equipment Durability System - Only using the Dynamic Temper feature to pair with Item Durability
 - Fort Dawnguard HD - SE - Only using the unique door textures addon
-- HD Reworked Bears 4K - Re-added to cover some missing textures
+- HD Reworked Bears 4K - Re-added to cover some missing textures like bear claws
 - Improved Bards - Special Edition
 - My Road Signs are Beautiful - Multilingual HD Retexture - SE
 - Northbourne NPCs of Falkreath Hold
@@ -49,10 +49,10 @@
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
 - Regenerated TexGen output
-- Revamped the NPC merge, overhauling almost 400 NPCs
 
 ### Tweaks
 
+- Revamped the NPC merge, overhauling almost 400 NPCs
 - Rework the 3D Tree plugin to include more assets from the mod
 
 ## 3.6.3
