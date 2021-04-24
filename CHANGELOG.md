@@ -1,5 +1,35 @@
 # Changelog
 
+## 3.7.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Northfire's Castle Volkihar
+
+### Updated
+
+- Cathedral Assets Optimizer v5.1.3
+- Particle Lights For ENB SE - Undead Creatures v1.1
+- Xavbio's Armor and Weapons Retexture Patch v2.0.0
+
+### Removed
+
+- CC's Castle Volkihar Reborn
+
+### Fixes
+
+- Fixed black face for Pantea Ateia
+- Fixed an invisible body issue with a specific piece of clothing from Common Clothes and Armors
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated TexGen output
+
+### Tweaks
+
+- Update pine forest grass into a more realistic thicket by adding tree droppings and increasing the height of plants
+
 ## 3.7.0
 
 ### Released at: `04/22/2021`
