@@ -20,8 +20,9 @@
 
 ### Fixes
 
-- Fixed black face for Pantea Ateia
 - Fixed an invisible body issue with a specific piece of clothing from Common Clothes and Armors
+- Fixed an issue during the Waking Dreams "cinematic" Miraak is unable to complete his scene and mount the dragon to fly away
+- Fixed black face for Pantea Ateia
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated TexGen output
