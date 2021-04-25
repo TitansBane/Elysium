@@ -18,6 +18,10 @@
 - Patched Creation Club Wild Horses to be consistent with SkyTest Wild Horses
 - Regenerated Grass Cache
 
+### Tweaks
+
+- Adjust the density of pine forest grass tree droppings so it blends in better
+
 ## 3.7.1
 
 ### Released at: `04/24/2021`
