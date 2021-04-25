@@ -2,7 +2,7 @@
 
 ## 3.7.2
 
-### Released at: `Unreleased`
+### Released at: `04/25/2021`
 
 ### Added
 
