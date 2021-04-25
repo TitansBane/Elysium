@@ -1,5 +1,23 @@
 # Changelog
 
+## 3.7.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- To Your Face Redux
+
+### Removed
+
+- No NPC Greetings
+
+### Fixes
+
+- Fixed player own horses, so they use the correct model and textures instead of using vanilla assets
+- Patched Creation Club Wild Horses to be consistent with SkyTest Wild Horses
+- Regenerated Grass Cache
+
 ## 3.7.1
 
 ### Released at: `04/24/2021`
