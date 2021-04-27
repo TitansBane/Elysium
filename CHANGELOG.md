@@ -37,6 +37,7 @@
 ### Tweaks
 
 - Now using Majestic Mountains - Darkside - Blends better with Tamrielic Textures
+- Remove all the big mushrooms from the Dead Marsh
 - Update the textures of mountains, rocks, and ice
 
 ## 3.7.2
