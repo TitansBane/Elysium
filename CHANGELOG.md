@@ -36,7 +36,8 @@
 
 ### Tweaks
 
--  Update the textures of mountains, rocks, and ice
+- Now using Majestic Mountains - Darkside - Blends better with Tamrielic Textures
+- Update the textures of mountains, rocks, and ice
 
 ## 3.7.2
 
