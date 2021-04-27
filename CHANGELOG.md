@@ -1,5 +1,43 @@
 # Changelog
 
+## 3.7.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Dynamic Cart Horses
+- Dynamic Cart Horses - HD Reworked Horses Patch
+- Moss Rocks - Replaces the moss plugin from Majestic Mountains
+- Mossy Whiterun Stonefloor Redone SE
+- Northfire's Skidmarks SE 2K-4K
+- Quest Conflict Fixes
+- Tamrielic Textures SE 1 - Landscapes - For only the mountain textures
+- Whiterun Horse Statue
+
+### Updated
+
+- Enhanced Reanimation v1.3
+- Majestic Mountains LOD Pack v1.2
+- powerofthree's Papyrus Extender v4.3.6
+- Scrambled Bugs v7
+- Skyrim - A Mountainous Experience v1.2
+- To Your Face Redux v1.1
+
+### Fixes
+
+- Fix landscape issues outside Dawnstar gate
+- Forward minor USSEP changes to Northbourne NPCs
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Update the facegens to the carriage drivers in CFTO, so Northbourne changes their appearances
+
+### Tweaks
+
+-  Update the textures of mountains, rocks, and ice
+
 ## 3.7.2
 
 ### Released at: `04/25/2021`
