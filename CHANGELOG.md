@@ -36,6 +36,7 @@
 
 ### Tweaks
 
+- Can now plant ingredients from the Dragonborn and Dawnguard DLCs in the Hearthfire planters
 - Now using Majestic Mountains - Darkside - Blends better with Tamrielic Textures
 - Remove all the big mushrooms from the Dead Marsh
 - Update the textures of mountains, rocks, and ice
