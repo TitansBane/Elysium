@@ -1,5 +1,24 @@
 # Changelog
 
+## 3.7.4
+
+### Released at: `04/28/2021`
+
+### Added
+
+- Harvest Those Mammoth Skulls
+- Immersive Khajiit Caravan Mules
+- Scarecrows of Skyrim
+
+### Updated
+
+- Skyrim - A Mountainous Experience v1.3
+- Synthesis v0.18.2
+
+### Fixes
+
+- Regenerated Synthesis patches
+
 ## 3.7.3
 
 ### Released at: `04/27/2021`
