@@ -16,6 +16,7 @@
 
 ### Fixes
 
+- Fixed some minor issues with Immersive Khajiit Caravan Mules
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
