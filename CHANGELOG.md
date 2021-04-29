@@ -1,5 +1,30 @@
 # Changelog
 
+## 3.7.5
+
+### Released at: `Unreleased`
+
+### Added
+
+- Extended Encounters
+
+### Updated
+
+- SDA Serana Dialogue Edit Patch v5.0SDEPatch
+- Skyrim - A Mountainous Experience v1.4
+- SSE Display Tweaks v0.4.12
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Disable Dragon Attack in Cities from Immersive World Encounters, which is now added by Extended Encounters
+- Made some performance tweaks to gain back around 3-5 FPS without any visual loss
+
 ## 3.7.4
 
 ### Released at: `04/28/2021`
