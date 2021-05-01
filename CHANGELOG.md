@@ -31,13 +31,18 @@
 
 ### Fixes
 
-- Disable a tree outside Solitude gates which was clipping into the walls
+- Disable a tree outside Solitude gates which was clipping into the outer walls
 - Fixed a few errors in the Elysium CC patch
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
 - Regenerated TexGen output
+- Remove redundant map markers from Map Markers Complete
 - Updated the LotD ELE patch
+
+### Tweaks
+
+- ESL flagged a couple of ESPs
 
 ## 3.7.5
 
