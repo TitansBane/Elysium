@@ -1,5 +1,44 @@
 # Changelog
 
+## 3.8.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Andrealphus' Exploit Fixes
+- Dynamic Things Alternative
+- Jarls Re-Imagined Redux
+- Rally's Shaggy Cows of Skyrim
+- Unique Border Gates Fixes
+- WiZkiD Hagraven Clutter and Bones
+
+### Updated
+
+- Pirate's Life for Me - A Creation Club Integration Mod v2.0.2
+- Scrambled Bugs v8
+- Sovngarde HD v3.1
+
+### Removed
+
+- Deer Skull and Antlers Retexture
+- Harvestable Hanging Taproots
+- Harvest Those Mammoth Skulls
+- Highlandcow HD by Pfuscher
+- WiZkiD Lootable Firewood Piles SSEEdit script
+
+### Fixes
+
+- Disable a tree outside Solitude gates which was clipping into the walls
+- Fixed a few errors in the Elysium CC patch
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Updated the LotD ELE patch
+
 ## 3.7.5
 
 ### Released at: `04/29/2021`
