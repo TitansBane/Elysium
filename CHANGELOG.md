@@ -37,7 +37,7 @@
 ### Fixes
 
 - Added a few new patches from Obscure's College of Winterhold
-- Corrected an issue with the Krosis mask where you would have an invisible head 
+- Corrected an issue with Krosis mask where you would have an invisible head 
 - Disable a tree outside Solitude gates which was clipping into the outer walls
 - Disable redundant map markers from Map Markers Complete
 - Fixed a few errors in the Elysium CC patch
