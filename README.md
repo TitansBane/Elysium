@@ -190,7 +190,7 @@ Elysium comes with a wide variety of new quests and encounters. A few are listed
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives have been extended to Solstheim and Wyrmstooth as well.
 
-[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendarr and Daedra. Vigilant has been tweaked to start at level 30 to prevent easy access to high-level gear and fighting bosses that are almost impossible to beat at lower levels.
+[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendarr and Daedra. Vigilant has been tweaked to start at level 10 to prevent easy access to high-level gear and fighting bosses that are almost impossible to beat at lower levels.
 
 [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) adds a new quest that takes the Dragonborn to the island of Wyrmstooth situated north of Solitude across the Sea of Ghosts. Battle across new landscapes and through new dungeons in this expansion-sized mod. Wyrmstooth has been tweaked to start at level 30, and all dungeons now scale around level 30ish.
 
