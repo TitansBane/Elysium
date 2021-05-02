@@ -19,6 +19,7 @@
 ### Updated
 
 - Cleaned Skyrim SE Textures v1.2.2
+- ENBSeries v0.454
 - Pirate's Life for Me - A Creation Club Integration Mod v2.0.2
 - Sacrilege - Minimalistic Vampires of Skyrim v2.0.0
 - Scrambled Bugs v8
