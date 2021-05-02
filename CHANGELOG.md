@@ -12,6 +12,7 @@
 - Dynamic Things Alternative
 - Jarls Re-Imagined Redux
 - Rally's Shaggy Cows of Skyrim
+- Sounds of Skyrim Complete SE
 - Unique Border Gates Fixes
 - WiZkiD Hagraven Clutter and Bones
 
@@ -19,9 +20,11 @@
 
 - Cleaned Skyrim SE Textures v1.2.2
 - Pirate's Life for Me - A Creation Club Integration Mod v2.0.2
+- Sacrilege - Minimalistic Vampires of Skyrim v2.0.0
 - Scrambled Bugs v8
 - Skyrim - A Mountainous Experience v1.5
 - Sovngarde HD v3.1
+- SSE Display Tweaks v0.4.13
 
 ### Removed
 
@@ -33,13 +36,17 @@
 
 ### Fixes
 
+- Added a few new patches from Obscure's College of Winterhold
+- Corrected an issue with the Krosis mask where you would have an invisible head 
 - Disable a tree outside Solitude gates which was clipping into the outer walls
+- Disable redundant map markers from Map Markers Complete
 - Fixed a few errors in the Elysium CC patch
+- Lots of bug fixes
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
+- Regenerated Occlusion
 - Regenerated Synthesis patches
 - Regenerated TexGen output
-- Remove redundant map markers from Map Markers Complete
 - Updated the LotD ELE patch
 
 ### Tweaks
