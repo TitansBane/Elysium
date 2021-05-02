@@ -17,8 +17,10 @@
 
 ### Updated
 
+- Cleaned Skyrim SE Textures v1.2.2
 - Pirate's Life for Me - A Creation Club Integration Mod v2.0.2
 - Scrambled Bugs v8
+- Skyrim - A Mountainous Experience v1.5
 - Sovngarde HD v3.1
 
 ### Removed
