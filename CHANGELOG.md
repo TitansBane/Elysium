@@ -49,7 +49,7 @@
 ### Removed
 
 - Dirt Retexture - It was deleted off the Nexus
-- Enchanting Adjustments and Price-Charge Bug Fix - Updated version was released
+- Enchanting Adjustments and Price-Charge Bug Fix - An updated version was released
 - Shadowmere Saddle Retexture
 
 ### Fixes
