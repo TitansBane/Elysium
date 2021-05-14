@@ -1,5 +1,67 @@
 # Changelog
 
+## 3.9.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- All Geared Up Derivative - Rustic Animated Potions and Poisons Patch
+- Andrealphus' Exploit Fixes - Horse Exploits Fixed
+- Animated Armoury - Enchantments
+- Better Power Attack Direction Control - SSE
+- Capital Windhelm Expansion
+- Capital Windhelm Expansion and JK Skyrim - United
+- DSL Demonic Shadowmere
+- Enchanting Adjustments Updated
+- VIGILANT Animated Armoury Mesh Fix for Ebony Twinblade (3RD PERSON)
+
+### Updated
+
+- Animated Armoury - Fixes Rebalance Enchantments and Patches v2.2.2
+- Creation Club Integration - Armours v2.2.1
+- Crossbow Integration (Including Creation Club) v2.3.0
+- Deiform Alduin
+- Dwemer Gates Don't Reset v1.2.6
+- Dynamic Things Alternative v0.8
+- Elwaps SpeedTree - Now without shadow flickering and much better FPS
+- Equip Enchantment Fix v1.2.4
+- Essential Favorites v2.1
+- Extended Encounters v1.6.2
+- Flinching - Script Free Edition v1.37
+- lilebonymace's patches xEdit scripts and stuff vs2.5
+- Mod Organizer 2 v2.4.2
+- powerofthree's Papyrus Extender v4.3.7
+- Rally's Nord War Horns v1.2
+- Reliquary of Myth - Artifact Overhaul v3.8.3
+- Serana Dialogue Add-On v2.5.4
+- Skyrim - A Mountainous Experience v1.5.5
+- SSE Display Tweaks v0.4.14
+- Synthesis v0.18.3
+- Unofficial Skyrim Creation Club Content Patches v5.15
+- Whiterun Mesh Fixes v1.1
+- WiZkiD Pavo's House v1.2
+- Wyrmstooth v1.19.3
+- xLODGen vbeta 81
+
+### Removed
+
+- Dirt Retexture - It was deleted off the Nexus
+- Enchanting Adjustments and Price-Charge Bug Fix - Updated version was released
+- Shadowmere Saddle Retexture
+
+### Fixes
+
+- Fixed Candlehearth Hall Patreon's hair
+- Fixed missing face texture for Skald the Elder
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Updated CC patch with many fixes
+
 ## 3.8.0
 
 ### Released at: `05/02/2021`
