@@ -60,7 +60,7 @@
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
 - Regenerated TexGen output
-- Updated CC patch with many fixes
+- Updated CC patch with many fixes/improvements
 
 ## 3.8.0
 
