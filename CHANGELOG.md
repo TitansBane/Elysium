@@ -1,5 +1,31 @@
 # Changelog
 
+## 3.9.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Andrealphus' Exploit Fixes - Dont Read Elder Scrolls While Swimming - SKSE
+- Immersive Interactions - Animated Actions
+
+### Updated
+
+- Cleaned Skyrim SE Textures v1.2.3
+- Dwemer Gates Don't Reset v1.2.7
+- ENBSeries v0.454
+- Serana Dialogue Add-On v2.5.5
+
+### Removed
+
+- Andrealphus' Exploit Fixes - Dont Read Elder Scrolls While Swimming
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated TexGen output
+- Remove the radial blur from the Nighteye visuals
+
 ## 3.9.0
 
 ### Released at: `05/14/2021`
