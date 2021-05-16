@@ -24,7 +24,7 @@
 
 - Regenerated DynDOLOD
 - Regenerated TexGen output
-- Remove the radial blur from the Nighteye visuals
+- Remove the persistent blur from the Night Eye effect
 
 ## 3.9.0
 
