@@ -1,5 +1,24 @@
 # Changelog
 
+## 3.9.2
+
+### Released at: `05/18/2021`
+
+### Added
+
+- Beards for High Poly Head
+- EVG Animation Variance - Disabled Elderly animation to prevent crashes
+
+### Updated
+
+- Deiform Alduin v1.1
+- Dwemer Gates Don't Reset v1.2.8
+
+### Fixes
+
+- Keeper Carcette will now retain her modded appearance after the attack on the Hall of the Vigilant
+- Move the Pack Mule rest marker in Whiterun, so it doesn't float over the Khajiit Caravan tent
+
 ## 3.9.1
 
 ### Released at: `05/16/2021`
