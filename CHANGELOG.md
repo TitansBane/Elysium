@@ -25,6 +25,7 @@
 
 ### Fixes
 
+- Disable XP gain for miscellaneous quests so you can no longer exploit those for infinite XP
 - Regenerated Synthesis patches
 - Remove duplicate Night-Eye spell tomes and helmet pieces
 
