@@ -1,5 +1,37 @@
 # Changelog
 
+## 4.0.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Lucien - Room Markers for Dumzbthar
+- Open World Loot - Encounter Zone and Loot Overhaul
+
+### Updated
+
+- Fixed Dragon Stalking Fix v2.0.1
+- Immersive Interactions - Animated Actions v1.23
+- Scrambled Bugs v9
+
+### Removed
+
+- Arena - An Encounter Zone Overhaul - No longer needed since Open World Loot apply the same changes
+- Morrowloot Miscellania - Hybrid Loot - Was too generous in handing out loot too much
+- Realistic Melee Range - Redundant with the Synthesis patch, which reduces all melee weapons ranges already
+
+### Fixes
+
+- Regenerated Synthesis patches
+- Remove duplicate Night-Eye spell tomes and helmet pieces
+
+### Tweaks
+
+- Tweak the Improved Camera ini, so it now works with Immersive Interactions in first-person
+
 ## 3.9.2
 
 ### Released at: `05/18/2021`
