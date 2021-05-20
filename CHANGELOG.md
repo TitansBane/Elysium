@@ -20,7 +20,7 @@
 ### Removed
 
 - Arena - An Encounter Zone Overhaul - No longer needed since Open World Loot apply the same changes
-- Morrowloot Miscellania - Hybrid Loot - Was too generous in handing out loot too much
+- Morrowloot Miscellania - Hybrid Loot - Was too generous in handing out loot too frequently
 - Realistic Melee Range - Redundant with the Synthesis patch, which reduces all melee weapons ranges already
 
 ### Fixes
