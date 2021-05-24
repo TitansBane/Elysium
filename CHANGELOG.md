@@ -1,5 +1,36 @@
 # Changelog
 
+## 4.0.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- SC - KS Hairdos Retextured
+
+### Updated
+
+- Immersive Interactions - Animated Actions v1.24
+- Immersive Khajiit Caravan Mules v1.2
+- Know Your Enemy - Trait-based resistances and weaknesses v8.1.3
+- KS Hairdos SSE v1.8
+- Legacy of the Dragonborn - Creation Club Patch Hub v4.0.5a
+- Northbourne NPCs of Falkreath Hold v1.3
+- Rare Curios - Bolts Expanded v1.2
+
+### Removed
+
+- KS Hairdos 1.7 Salt and Wind
+
+### Fixes
+
+- Fix item leveled list for CC armors
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Reduce the amount of experience awarded from killing enemies and enabled XP to gain from miscellaneous quests but significantly reduce from before.
+
 ## 4.0.0
 
 ### Released at: `05/20/2021`
