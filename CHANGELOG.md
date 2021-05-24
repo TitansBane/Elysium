@@ -17,6 +17,7 @@
 - Legacy of the Dragonborn - Creation Club Patch Hub v4.0.5a
 - Northbourne NPCs of Falkreath Hold v1.3
 - Rare Curios - Bolts Expanded v1.2
+- Synthesis v0.19-prerelease001
 
 ### Removed
 
