@@ -30,7 +30,7 @@
 
 ### Tweaks
 
-- Reduce the amount of experience awarded from killing enemies and enabled XP to gain from miscellaneous quests but significantly reduce from before.
+- Reduce the amount of experience awarded from killing enemies and enabled XP to gain from miscellaneous quests but significantly reduce from before
 
 ## 4.0.0
 
