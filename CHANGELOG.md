@@ -18,6 +18,7 @@
 - Capital Windhelm Expansion and JK Skyrim - United v1.0.7
 - DSL Demonic Shadowmere v1.2
 - NARC Remade - No Animals Report Crimes for Skyrim SE v1.0.3
+- xLODGen vbeta 82
 
 ### Fixes
 
