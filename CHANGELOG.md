@@ -1,5 +1,31 @@
 # Changelog
 
+## 4.1.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- 3D Trees - Solstheim FIX
+- BloodThirst Dawn and Duskfang Redone
+- Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
+- Stendarr Rising - The Hall of the Vigilant Rebuild
+
+### Updated
+
+- Capital Windhelm Expansion and JK Skyrim - United v1.0.7
+- DSL Demonic Shadowmere v1.2
+- NARC Remade - No Animals Report Crimes for Skyrim SE v1.0.3
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 4.0.1
 
 ### Released at: `05/24/2021`
