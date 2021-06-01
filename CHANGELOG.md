@@ -22,7 +22,7 @@
 - Nether's Follower Framework v2.7.7
 - Open World Loot - Encounter Zone and Loot Overhaul v1.2.6
 - powerofthree's Papyrus Extender v4.3.8
-- - Synthesis v0.19.1
+- Synthesis v0.19.1
 - Unofficial Skyrim Creation Club Content Patches v5.17
 
 ### Fixes
