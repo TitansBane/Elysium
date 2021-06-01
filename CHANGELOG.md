@@ -2,7 +2,7 @@
 
 ## 4.2.0
 
-### Released at: `Unreleased`
+### Released at: `06/01/2021`
 
 ## This update requires a new save game
 
