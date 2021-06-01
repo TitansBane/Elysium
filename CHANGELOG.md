@@ -1,5 +1,38 @@
 # Changelog
 
+## 4.2.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Extra Drawing Animations
+- Stalhrim Refrozen - Sensible Shine with Subtle Depth Effect
+
+### Updated
+
+- Dynamic Things Alternative v0.9
+- Falkreath v1.0.3
+- Immersive Dragons v1.4
+- Immersive Khajiit Caravan Mules v1.2
+- Manor Roads v2.0.4
+- Mild Complexions v2.0
+- Nether's Follower Framework v2.7.7
+- Open World Loot - Encounter Zone and Loot Overhaul v1.2.6
+- powerofthree's Papyrus Extender v4.3.8
+- Unofficial Skyrim Creation Club Content Patches v5.17
+
+### Fixes
+
+- Regenerated AllGUD
+
+### Tweaks
+
+- New hotkey, pressing H will now call your last ridden Horse
+- Tweak Follower Framework MCM settings
+
 ## 4.1.0
 
 ### Released at: `05/27/2021`
