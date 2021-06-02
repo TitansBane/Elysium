@@ -2,7 +2,7 @@
 
 ## 4.2.1
 
-### Released at: `Unreleased`
+### Released at: `06/01/2021`
 
 ### Added
 
@@ -15,6 +15,7 @@
 
 ### Fixes
 
+- Patched the Azura's Star from AllGUD for Azuras Star and Skeleton Key Remastered SE
 - Regenerated Synthesis patches
 
 ## 4.2.0
