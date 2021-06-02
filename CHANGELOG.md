@@ -1,5 +1,22 @@
 # Changelog
 
+## 4.2.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Pandorable's NPCs - males 2
+- Ugly Males of Skyrim
+
+### Removed
+
+- Jarls Re-Imagined Redux
+
+### Fixes
+
+- Regenerated Synthesis patches
+
 ## 4.2.0
 
 ### Released at: `06/01/2021`
