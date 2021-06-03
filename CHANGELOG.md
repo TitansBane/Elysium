@@ -1,5 +1,18 @@
 # Changelog
 
+## 4.2.2
+
+### Released at: `Unreleased`
+
+### Updated
+
+- Dwemer Gates Don't Reset v1.2.9
+- Stendarr Rising - The Hall of the Vigilant Rebuild v1.1.0
+
+### Fixes
+
+- Fixed the infamous "Crash on Save" bug, which could destroy any save to become unusable after a certain period
+
 ## 4.2.1
 
 ### Released at: `06/01/2021`
