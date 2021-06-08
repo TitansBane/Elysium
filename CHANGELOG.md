@@ -1,5 +1,47 @@
 # Changelog
 
+## 4.3.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Animated Armoury - DAR Version - New Weapons with animations
+- BA Bard Songs
+- Particle Lights for ENB - Wisps - Witchlight
+- Remiros' Statues HD
+- Skyrim's Got Talent - Improve As a Bard
+
+### Updated
+
+- Animated Armoury - Fixes Rebalance Enchantments and Patches v3.0
+- Cannibal Draugr on Solstheim (Bloodmoon Creature Restoration Project) v2.2
+- Dwemer Gates Don't Reset v1.3.1
+- More to Say v8.0.1
+- Open World Loot - Encounter Zone and Loot Overhaul v1.2.7
+- Pandorable's NPCs - males 2 v1.01
+- Skyrim Landscape and Water Fixes v6.1
+- SSE Display Tweaks v0.4.15
+- Unofficial Skyrim Special Edition Patch v4.2.5a
+- Vigilant - NPC Overhaul v2.2
+- Weapons Armor Clothing and Clutter Fixes v2.3
+
+### Removed
+
+- Animated Armoury - New Weapons with animations SSE Version - Replace with the newer DAR version
+- ETHEREAL CLOUDS - Special Edition - Using Project Clarity upscaled clouds which look better with Zangdar's ENB
+- Manor Roads
+
+### Fixes
+
+- Regenerated AllGUD
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 4.2.2
 
 ### Released at: `06/03/2021`
