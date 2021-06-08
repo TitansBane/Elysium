@@ -31,7 +31,7 @@
 ### Removed
 
 - Animated Armoury - New Weapons with animations SSE Version - Replace with the newer DAR version
-- ETHEREAL CLOUDS - Special Edition - Using Project Clarity upscaled clouds which look better with Zangdar's ENB
+- ETHEREAL CLOUDS - Special Edition - Using Project Clarity upscaled clouds which look better with Rudy ENB SE for Cathedral Weathers
 - Manor Roads
 
 ### Fixes
