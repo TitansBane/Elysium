@@ -2,7 +2,7 @@
 
 ## 4.3.1
 
-### Released at: `Unreleased`
+### Released at: `06/10/2021`
 
 ### Added
 
@@ -21,7 +21,7 @@
 
 ### Removed
 
-- Calcelmo Has Standards
+- Calcelmo Has Standards - New Immersive World Encounters does something similar
 
 ### Fixes
 
