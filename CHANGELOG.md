@@ -1,5 +1,32 @@
 # Changelog
 
+## 4.3.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Immersive World Encounters AddOn - High Poly Uniques
+- Particle Lights for ENB - Light Orbs - Motes
+
+### Updated
+
+- Animated Armoury - Fixes Rebalance Enchantments and Patches v3.0.1
+- Cleaned Skyrim SE Textures v1.2.3
+- Immersive World Encounters. FINAL SE v3.0
+- lilebonymace's patches xEdit scripts and stuff vs2.6
+- Reliquary of Myth - Artifact Overhaul v3.8.4
+- Scrambled Bugs v10
+- WoW Dragon Mounds CTD Fix v1.2
+
+### Removed
+
+- Calcelmo Has Standards
+
+### Fixes
+
+- Regenerated Synthesis patches
+
 ## 4.3.0
 
 ### Released at: `06/08/2021`
