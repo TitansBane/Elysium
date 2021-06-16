@@ -24,6 +24,7 @@
 - Legacy of the Dragonborn Patches (Official) v2.5.3
 - Reliquary of Myth - Artifact Overhaul v3.9.1
 - Skyrim 2020 Parallax by Pfuscher v8.4.2
+- Skyrim Priority SE - skse plugin v2.1.0
 - Unofficial Skyrim Creation Club Content Patches v5.19
 - Unofficial Skyrim Special Edition Patch v4.2.5b
 - Weapons Armor Clothing and Clutter Fixes v2.4
