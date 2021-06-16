@@ -30,7 +30,9 @@
 
 ### Removed
 
+- Archery Target Retexture
 - Honed Metal - SSE
+- Mossy Whiterun Stonefloor Redone SE
 - RUSTIC ELDERSCROLL - Special Edition
 
 ### Fixes
