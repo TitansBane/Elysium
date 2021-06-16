@@ -21,6 +21,7 @@
 - aMidianBorn Content Addon v2.2
 - Andrealphus' Exploit Fixes - Dont Read Elder Scrolls While Swimming v1.1
 - Immersive World Encounters. FINAL SE v3.1
+- Immersive World Encounters AddOn - High Poly Uniques v1.1
 - Legacy of the Dragonborn Patches (Official) v2.5.3
 - Reliquary of Myth - Artifact Overhaul v3.9.1
 - Skyrim 2020 Parallax by Pfuscher v8.4.2
@@ -28,6 +29,7 @@
 - Unofficial Skyrim Creation Club Content Patches v5.19
 - Unofficial Skyrim Special Edition Patch v4.2.5b
 - Weapons Armor Clothing and Clutter Fixes v2.4
+- xLODGen vbeta 83
 
 ### Removed
 
