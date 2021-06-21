@@ -17,6 +17,7 @@
 - Assorted mesh fixes v0.17
 - Cleaned Skyrim SE Textures v1.2.3.2
 - Dynamic Things Alternative v0.10
+- ENBSeries v0.454
 - Honed Metal Revoiced v1.5
 - Immersive World Encounters. FINAL SE v3.2
 - Immersive World Encounters AddOn - High Poly Uniques v1.1.1
