@@ -1,5 +1,42 @@
 # Changelog
 
+## 4.4.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Blue Palace Roof Mesh Fix
+- High Poly Canticle Tree
+- JS Helm of Yngol SE
+- Northfire's Castle Volkihar Parallax
+- Particle Lights for ENB - Staff Enchanter
+
+### Updated
+
+- Assorted mesh fixes v0.17
+- Cleaned Skyrim SE Textures v1.2.3.2
+- Dynamic Things Alternative v0.10
+- Honed Metal Revoiced v1.5
+- Immersive World Encounters. FINAL SE v3.2
+- Immersive World Encounters AddOn - High Poly Uniques v1.1.1
+- Markarth - A Reflective Experience v1.3.1
+- Reliquary of Myth - Artifact Overhaul v3.9.2
+- Scrambled Bugs v11
+- Skyrim Priority SE - skse plugin v3.0.0
+- Skyrim's Got Talent - Improve As a Bard v1.2
+- Synthesis v0.19.2
+- Whiterun Mesh Fixes v1.1.5
+- Wintersun - Faiths of Skyrim v3.2.0
+
+### Fixes
+
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Toggle off the visibility of The Curators Storage Token in the Forge / Smelter menus
+
 ## 4.4.0
 
 ### Released at: `06/16/2021`
