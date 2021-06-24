@@ -200,7 +200,7 @@ Elysium comes with a wide variety of new quests and encounters. A few are listed
 
 [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) is a DLC-sized quest mod involving a castle high in the Velothi Mountains, which feature a obtainable player home.
 
-[Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330) adds a large number of more than 70+ new random events as well as modifying some of the vanilla events.
+[Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330) adds a large number of roughly 100 new random events and new quests as well as modifying some of the vanilla events.
 
 Elysium also has a lot of modified vanilla quests such as:
 
