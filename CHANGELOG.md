@@ -36,7 +36,7 @@
 ### Fixes
 
 - Clean up a lot of redundant conflict fixes that aren't needed from the patches
-- Flag a couple of esp files as esl
+- Flag a couple more esp files as esl
 - Lots of xEdit fixes
 - Regenerated DynDOLOD
 - Regenerated Occlusion
