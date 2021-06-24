@@ -1,5 +1,49 @@
 # Changelog
 
+## 4.5.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Arvak Burning Hooves Restored - Cut Content Restoration
+- Auriel's Chantry HD - Parallax
+- Barefoot Footstep Extended SE
+- BB - Big Books
+- BURP - Book Unity and Revamp Project
+- C.O.I.N. - Coins of Interesting Natures
+- Sovngarde HD Parallax
+
+### Updated
+
+- Animated Armoury - DAR Version - New Weapons with animations v2.11
+- Dynamic Things Alternative v0.10.1
+- Legacy of the Dragonborn - Creation Club Patch Hub v4.1.0
+- Legacy of the Dragonborn - The Curators Companion v6.0.4
+- Legacy of the Dragonborn SSE v5.5.2
+- powerofthree's Tweaks v1.1.1
+- Real Rabbits HD - Color Variants and Smooth Mesh v1.3
+- SDA Nether's Follower Framework Patch v5.0NFFPatch
+- Serana Dialogue Add-On v2.6.1
+- Unofficial Identity Crisis TCC Patch v1.0.3
+
+### Removed
+
+- Realistic Paper
+
+### Fixes
+
+- Clean up a lot of redundant conflict fixes that aren't needed from the patches
+- Flag a couple of esp files as esl
+- Lots of xEdit fixes
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Remove rogue navmesh edits in Rorikstead from the main Elysium patch - I don't know how those edits snuck into the patch
+
 ## 4.4.1
 
 ### Released at: `06/21/2021`
