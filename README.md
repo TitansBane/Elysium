@@ -42,9 +42,9 @@
 
 ## Preface
 
-Elysium is a visually focused list that is fully featured with hundreds of new additions and optional Creation Club support. Many new mods, such as 3DNPC, Apocalypse, LotD, Nemesis, Vokrii, and a wide variety of new content, were added. You should expect a more challenging game with this list.
+Elysium is a visually focused list fully featured with hundreds of new additions and optional Creation Club support. In addition, many new mods, such as Interesting NPCs, Apocalypse, Legacy of the Dragonborn, Nemesis, Vokrii, and a wide variety of new content, were added. You should expect a more challenging game with this list.
 
-As for stability and conflict resolution, Elysium is base off of The Phoenix Flavour and has been patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
+As for stability and conflict resolution, Elysium is base on The Phoenix Flavour and has been patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
 
 ## Installation
 
@@ -171,9 +171,9 @@ Elysium uses the full suite of Enai Siaion's mods, which are:
 
 Various other mods are used to flesh out all aspects of the game as well such as:
 
-1. [Morrowloot Miscellania](https://www.nexusmods.com/skyrimspecialedition/mods/27094) for overhauling Skyrim's loot system.
+1. [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681) for overhauling Skyrim's encounter zones and loot system.
 2. [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612) for overhauling Skyrim’s unique items.
-3. [Animated Armoury - New Weapons with animations](https://www.nexusmods.com/skyrimspecialedition/mods/15394) which adds new weapons to Skyrim with custom attack animations, for both the Player and NPCs.
+3. [Animated Armoury - DAR Version - New Weapons with animations](https://www.nexusmods.com/skyrimspecialedition/mods/35978) which adds new weapons to Skyrim with custom attack animations, for both the Player and NPCs.
 4. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game.
 5. [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) which fixes bugs and inconsistencies for Skyrim's weapons, armors, clothing, jewelry, and clutter items.
 6. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod-added stuff.
@@ -217,13 +217,13 @@ Elysium also has a lot of modified vanilla quests such as:
 
 ### Audio and Weather
 
-[Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for Skyrim's ambiance and foley.
+[Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466), [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523), and [Sounds of Skyrim Complete](https://www.nexusmods.com/skyrimspecialedition/mods/8286) offer an amazing base for Skyrim's ambiance and foley.
 
 ### Creation Club
 
 Elysium has an optional MO2 profile that utilizes all Creation Club content for Legacy of the Dragonborn and various other mods. Fully integrated into Skyrim's world and is the recommended profile for Elysium. It requires all forty-eight purchasable downloadables to start up and play. 
 
-There is an empty mod at the top left of MO2 called `Creation Club` below `Official Master Files - Cleaned` that you can put all of your Creation Club content into, be sure to make a backup of all of your CC files as well.
+There is an empty mod at the top left of MO2 called `[NoDelete] Creation Club` below `Official Master Files - Cleaned` that you can put all of your Creation Club content into. As such, there is no need to worry if you ever decide to update Elysium again. The contents of that folder will be safe from being deleted the next time you update.
 
 ## Creating your Character
 
@@ -249,7 +249,9 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 
 These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
 
-- Immersive HUD - Toggle HUD: X
+- Crouch Sliding - Crouch Slide : Press and hold Alt + Shift
+- Immersive HUD - Toggle HUD : X
+- Nether's Follower Framework - Horse Whistle : H
 - The Ultimate Dodge Mod - Dodge : Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side-stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
 
