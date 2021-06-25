@@ -1,5 +1,26 @@
 # Changelog
 
+## 4.5.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- HD Vigilant Project - Amulet of Kings
+- Rare Curios Bolts Expanded Integration Patch
+
+### Updated
+
+- Crossbow Integration (Including Creation Club) v2.3.1
+- NPC AI Process Position Fix - SSE v4.03c
+- Serana Dialogue Add-On v2.6.2
+- Vokrii Perks For NPCS
+
+### Fixes
+
+- Reduce the chance of claws and whips spawning to 33%
+- Regenerated Synthesis patch for the CC profile
+
 ## 4.5.0
 
 ### Released at: `06/24/2021`
