@@ -12,7 +12,7 @@
 ### Updated
 
 - Crossbow Integration (Including Creation Club) v2.3.1
-- NPC AI Process Position Fix - SSE v4.03c
+- NPC AI Process Position Fix - SSE v4.05b
 - Serana Dialogue Add-On v2.6.2
 - Vokrii Perks For NPCS
 
