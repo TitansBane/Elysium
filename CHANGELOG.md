@@ -6,14 +6,23 @@
 
 ### Added
 
+- D13 Faster GET UP STAND UP Animation
+- Dragon Priest Fix - Behaviour Overhaul
+- Faster Reanimation
 - HD Vigilant Project - Amulet of Kings
 - Rare Curios Bolts Expanded Integration Patch
 
 ### Updated
 
+- Assorted mesh fixes v0.18
+- C.O.I.N. - Coins of Interesting Natures v1.1.0
 - Crossbow Integration (Including Creation Club) v2.3.1
+- Elder Scroll HD - SE v1.2
+- More to Say v8.0.2
 - NPC AI Process Position Fix - SSE v4.05b
+- Open World Loot - Encounter Zone and Loot Overhaul v1.2.8
 - Serana Dialogue Add-On v2.6.2
+- Stendarr Rising - The Hall of the Vigilant Rebuild v1.2.0
 - Vokrii Perks For NPCS
 
 ### Fixes
