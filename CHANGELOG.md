@@ -27,7 +27,7 @@
 
 ### Fixes
 
-- Reduce the chance of claws and whips spawning to 33%
+- Reduce the chance of claws and whips spawning on NPCs to 33%
 - Regenerated Synthesis patch for the CC profile
 
 ## 4.5.0
