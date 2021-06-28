@@ -1,5 +1,30 @@
 # Changelog
 
+## 4.5.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Arvak - My version
+- Paarthurnax - Quest Expansion
+
+### Updated
+
+- Conditional Expressions - Subtle Face Animations v1.12
+- More Informative Console v0.43
+- Stendarr Rising - The Hall of the Vigilant Rebuild v1.2.1
+
+### Removed
+
+- The Elder Scrolls V Rewritten - Arvak SE
+- The Paarthurnax Dilemma
+
+### Fixes
+
+- Regenerated Synthesis patches
+- Reinstall Draugr Upgrades and Improvements to fix broken meshes
+
 ## 4.5.1
 
 ### Released at: `06/27/2021`
