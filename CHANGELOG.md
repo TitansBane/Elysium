@@ -1,5 +1,35 @@
 # Changelog
 
+## 4.5.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Convenient Reading UI - SE
+- HD Vigilant Project - Jyggalag
+
+### Updated
+
+- C.O.I.N. - Coins of Interesting Natures v1.1.3
+- Crossbow Integration (Including Creation Club) v2.3.1a
+- Frozen Electrocuted Combustion v4.9.2
+- Legacy of the Dragonborn - Creation Club Patch Hub v4.1.2
+- powerofthree's Papyrus Extender v4.4.0
+- Serana Dialogue Add-On v2.6.3
+
+### Removed
+
+- Immersive Bookreading and Lockpicking
+- No More Laser-Printed Book
+
+### Fixes
+
+- Fix Serana commentary so it will now work during the House of Horrors quest
+- Merge changes from both Contraband Confiscation and No Crime Teleport's for two scripts
+- Regenerated AllGUD
+- Regenerated Synthesis patches
+
 ## 4.5.2
 
 ### Released at: `06/27/2021`
