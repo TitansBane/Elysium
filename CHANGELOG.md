@@ -2,7 +2,7 @@
 
 ## 4.5.3
 
-### Released at: `Unreleased`
+### Released at: `06/29/2021`
 
 ### Added
 
@@ -29,6 +29,7 @@
 - Merge changes from both Contraband Confiscation and No Crime Teleport's for two scripts
 - Regenerated AllGUD
 - Regenerated Synthesis patches
+- Update the LotD Simple Children patch for the latest version of LotD
 
 ## 4.5.2
 
