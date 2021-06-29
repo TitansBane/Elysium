@@ -13,8 +13,9 @@
 
 - C.O.I.N. - Coins of Interesting Natures v1.1.3
 - Crossbow Integration (Including Creation Club) v2.3.1a
-- Frozen Electrocuted Combustion v4.9.2
+- Frozen Electrocuted Combustion v4.9.3
 - Legacy of the Dragonborn - Creation Club Patch Hub v4.1.2
+- Paarthurnax - Quest Expansion v1.02
 - powerofthree's Papyrus Extender v4.4.0
 - Serana Dialogue Add-On v2.6.3
 
