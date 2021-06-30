@@ -1,5 +1,20 @@
 # Changelog
 
+## 4.5.4
+
+### Released at: `06/29/2021`
+
+### Updated
+
+- Auriel's Chantry HD - Parallax v2.0
+- powerofthree's Papyrus Extender v4.4.1
+- Sovngarde HD Parallax v2.0
+
+### Fixes
+
+- Fix two corrupted textures, one of which was causing a crash near Ivarstead
+- Redownloaded and reinstall Draugr Upgrades and Improvements to fix broken meshes for good this time, hopefully
+
 ## 4.5.3
 
 ### Released at: `06/29/2021`
