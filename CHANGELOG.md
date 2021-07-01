@@ -13,7 +13,7 @@
 
 ### Updated
 
-- C.O.I.N. - Coins of Interesting Natures v1.1.5
+- C.O.I.N. - Coins of Interesting Natures v1.1.5.1
 - Extended Encounters v1.6.3
 - Frozen Electrocuted Combustion v4.9.4
 - Immersive World Encounters. FINAL SE v3.3
