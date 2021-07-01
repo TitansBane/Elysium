@@ -33,7 +33,7 @@
 ### Fixes
 
 - Fix all known attack speed debuff in Elysium when using Survival Mode (Creation Club profile only)
-- Fix issues with the Spear of Bitter Mercy conjure Storm Atronach ability being usable (Creation Club profile only)
+- Fix issues with the Spear of Bitter Mercy conjure Storm Atronach ability being unusable (Creation Club profile only)
 - Fix two more corrupted textures that would cause crashes
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
