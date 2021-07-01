@@ -1,5 +1,48 @@
 # Changelog
 
+## 4.6.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Dungeons - Revisited
+- SPID INI Reworked
+
+### Updated
+
+- C.O.I.N. - Coins of Interesting Natures v1.1.5
+- Extended Encounters v1.6.3
+- Frozen Electrocuted Combustion v4.9.4
+- Immersive World Encounters. FINAL SE v3.3
+- Northbourne NPCs of Whiterun Hold v2.2
+- Relationship Dialogue Overhaul - Update and MCM v1.0.4
+- Wyrmstooth v1.19.4
+
+### Removed
+
+- Bleak falls barrow - Revisited
+- Embershard Mine - Revisited
+- Halted Stream Camp - Revisited
+- Steepfall Burrow - Revisited
+- Ustengrav - Revisited
+- White River Watch - Revisited
+
+### Fixes
+
+- Fix all known attack speed debuff in Elysium when using Survival Mode (Creation Club profile only)
+- Fix issues with the Spear of Bitter Mercy conjure Storm Atronach ability being usable (Creation Club profile only)
+- Fix two more corrupted textures that would cause crashes
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Regenerated xEdit patch output
+- Updated all necessary patches for Dungeons - Revisited
+- Updated all necessary patches for Wyrmstooth
+
 ## 4.5.4
 
 ### Released at: `06/29/2021`
