@@ -1,5 +1,42 @@
 # Changelog
 
+## 4.7.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Headhunter - Bounties Redone
+- JS Instruments of Skyrim SE
+- True Hunter - fewer animals per square meter
+- UNDERDOG - Animations
+- War Hammer and Battle Axe Movement Fix
+
+### Updated
+
+- Auriel's Chantry HD - Parallax v2.1
+- Creation Club Integration - Armours v2.2.2
+- Missives - Worldspace Additions v2.04b
+- Open World Loot - Encounter Zone and Loot Overhaul v1.2.9
+- Pirate's Life for Me - A Creation Club Integration Mod v2.0.3
+- Serana Dialogue Add-On v2.6.4
+- Skyrim's Got Talent - Improve As a Bard v1.21
+- Sovngarde HD Parallax v2.1
+- SPID INI Reworked v1.08
+
+### Removed
+
+- Rally's Instruments
+
+### Fixes
+
+- Cold animations from EVG Conditional Idles will now correctly trigger from Survival Mode (Creation Club profile only)
+- Fix a common crash from killing/disabling bandits or certain NPCs
+- Fix a rare crash that could happen from Smooth Cam
+- Regenerated Synthesis patches
+
 ## 4.6.0
 
 ### Released at: `07/01/2021`
