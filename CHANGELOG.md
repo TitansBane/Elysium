@@ -21,7 +21,7 @@
 - Missives - Worldspace Additions v2.04b
 - Open World Loot - Encounter Zone and Loot Overhaul v1.2.9
 - Pirate's Life for Me - A Creation Club Integration Mod v2.0.3
-- Serana Dialogue Add-On v2.6.4
+- Serana Dialogue Add-On v2.6.5
 - Skyrim's Got Talent - Improve As a Bard v1.21
 - Sovngarde HD Parallax v2.1
 - SPID INI Reworked v1.08
