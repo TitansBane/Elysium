@@ -28,6 +28,7 @@
 
 ### Removed
 
+- No Spinning Death Animation
 - Rally's Instruments
 
 ### Fixes
