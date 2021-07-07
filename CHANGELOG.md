@@ -26,6 +26,7 @@
 ### Fixes
 
 - Fix several more corrupted textures that would cause crashes
+- Fix an issue where you could die falling during Meridia's quest
 - Updated AllGUD MCM settings
 
 ## 4.7.0
