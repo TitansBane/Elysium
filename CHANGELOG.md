@@ -1,5 +1,33 @@
 # Changelog
 
+## 4.7.1
+
+### Released at: `07/07/2021`
+
+### Added
+
+- Menu and Load Smoke Removed for ENB
+- Unique Skulls HD - SE
+
+### Updated
+
+- Dirt and Blood - Dynamic Visual Effects v2.1
+- JS Instruments of Skyrim SE v1.2
+- SPID INI Reworked v1.09
+- UNDERDOG - Animations v1.4
+- Vokrii Perks For NPCS v1.1
+
+### Removed
+
+- ElSopa HD - Dragonborn Skull Variants SE
+- ElSopa HD - Saerek Skull Key SE
+- Loading Screen Smoke Removed
+
+### Fixes
+
+- Fix several more corrupted textures that would cause crashes
+- Updated AllGUD MCM settings
+
 ## 4.7.0
 
 ### Released at: `07/05/2021`
