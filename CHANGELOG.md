@@ -1,5 +1,45 @@
 # Changelog
 
+## 4.7.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Go to bed
+- Go To Bed - DAR patch
+- RUSTIC RELIEFS
+
+### Updated
+
+- Assorted mesh fixes v0.20
+- Auriel's Chantry HD - Parallax v2.2
+- BA Bard Songs v1.3
+- Classic Sprinting Redone (SKSE64) v2.2
+- Headhunter - Bounties Redone v1.10
+- HD Stone Quarry and Clay Deposit SE v1.0.2
+- Immersive HD Banners v1.5
+- JS Purses and Septims SE v1.2
+- lilebonymace's patches xEdit scripts and stuff vs2.7
+- More to Say v8.0.3
+- RedBag's Dragonsreach - SE v1.4b
+- Reliquary of Myth - Artifact Overhaul v3.9.3
+- Sovngarde HD Parallax v2.2
+- Stalhrim Refrozen - Sensible Shine with Subtle Depth Effect v1.6.0
+- Vokrii Perks For NPCS v1.3
+
+### Removed
+
+- CC's Remastered Murals
+- RUSTIC MONUMENTS and TOMBSTONES
+- RUSTIC WORD WALLS
+
+### Fixes
+
+- Fix a bug where the player would randomly play a bard instrument occasionally
+- Fix an issue with one of the SPID ini, where you could acquire a spell called Tremor unintentionally
+- Regenerated Synthesis patches
+
 ## 4.7.1
 
 ### Released at: `07/07/2021`
