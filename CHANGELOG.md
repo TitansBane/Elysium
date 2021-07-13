@@ -1,5 +1,30 @@
 # Changelog
 
+## 4.7.3
+
+### Released at: `07/11/2021`
+
+### Updated
+
+- aMidianBorn Content Addon v2.2
+- Headhunter - Bounties Redone v1.15
+- Honed Metal SSE Updated v1.21
+- JS Barenziah SE v1.3
+- JS Shrines of the Divines SE v1.2
+- Particle Lights for ENB - Staff Enchanter
+- Pirate's Life for Me - A Creation Club Integration Mod v2.1.0
+- powerofthree's Papyrus Extender v4.4.2
+- Weapons Armor Clothing and Clutter Fixes v2.5
+
+### Fixes
+
+- Fix character creation menu light not functioning
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Adjust fade sliders back to how they were initially tweaked from a previous update, someone how they got reverted
+
 ## 4.7.2
 
 ### Released at: `07/11/2021`
