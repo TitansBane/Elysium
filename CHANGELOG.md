@@ -14,7 +14,7 @@
 ### Fixes
 
 - Fossil Mining v3
-- Fossil Mining Patch v3
+- Fossil Mining Patch v3 - Unfortunately, this mod update requires a new save due to no longer being compacted into an esl format
 - Reliquary of Myth - Artifact Overhaul v3.9.4
 
 ### Fixes
