@@ -1,5 +1,34 @@
 # Changelog
 
+## 4.8.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Don't Stay in The Water
+- Mrf's Riften
+
+### Fixes
+
+- Fossil Mining v3
+- Fossil Mining Patch v3
+- Reliquary of Myth - Artifact Overhaul v3.9.4
+
+### Fixes
+
+- Disable sulfur shader to fix a few grey texture issue
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- No more low poly snow on trees (expect slightly more memory usage)
+
 ## 4.7.3
 
 ### Released at: `07/13/2021`
