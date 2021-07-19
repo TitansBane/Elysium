@@ -38,7 +38,7 @@
 
 ### Fixes
 
-- Some animals added by SkyTEST now use the vanilla models for better overall consistency
+- A few animals added by SkyTEST now use the vanilla models for better overall consistency
 - JK's Windhelm rats are now replaced by SkyTEST versions for consistency
 - Regenerated DynDOLOD
 - Regenerated Occlusion
