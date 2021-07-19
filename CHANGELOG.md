@@ -47,7 +47,7 @@
 
 ### Tweaks
 
-- Tweak the SkyTEST plugin, so the Riften dogs and rats are no longer removed
+- Tweak the SkyTEST plugin, so the Riften dogs and small Skeevers are no longer removed
 
 ## 4.8.0
 
