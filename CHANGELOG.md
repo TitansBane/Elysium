@@ -1,5 +1,48 @@
 # Changelog
 
+## 4.8.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Additional Clockwork
+- Alduin's Wall - Sven Fix
+- Flying Crows SSE - Replacement for Birds of Skyrim
+- Headhunter's Backpack Patches
+- KD - Realistic Fireplaces - Fixes
+- OBIS-Missives Addon and OBIS-Missives-HeadHunter Addon
+- Seagulls of Skyrim - Replacement for Birds of Skyrim
+- SkyTEST - Less shiny pigs
+
+### Updated
+
+- AI Overhaul SSE v1.6.5
+- Assorted mesh fixes
+- Astral Aspect - 8K 4K 2K Standing Stones v2.0
+- Dwemer Gates Don't Reset v1.3.3
+- Fossil Mining Patch v3.0.1
+- Headhunter - Bounties Redone v1.20
+- High Poly Gleamblossoms v1.2
+- Masculine Khajiit Textures (Grey Cat and Leopard) v1.1
+- RUSTIC RELIEFS v1.1
+- SkyTEST - Realistic Animals and Predators SE v1.65.02
+- The Forgotten City Entrance v1.0.1
+- UNDERDOG - Animations v1.9.1
+- Unique Skulls HD - SE v1.1
+
+### Removed
+
+- Bard Instrumentals Mostly - Sing Rarely
+- SkyTEST - Bellyaches HD collection SE
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 4.8.0
 
 ### Released at: `07/15/2021`
