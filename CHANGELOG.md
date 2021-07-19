@@ -38,10 +38,16 @@
 
 ### Fixes
 
+- Animals added by SkyTEST now use the vanilla models for better overall consistency
+- JK's Windhelm rats are now replace by SkyTEST versions
 - Regenerated DynDOLOD
 - Regenerated Occlusion
 - Regenerated Synthesis patches
 - Regenerated TexGen output
+
+### Tweaks
+
+- Tweak the SkyTEST plugin, so the Riften dogs and rats are no longer removed
 
 ## 4.8.0
 
