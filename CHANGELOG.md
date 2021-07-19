@@ -8,11 +8,11 @@
 
 - Additional Clockwork
 - Alduin's Wall - Sven Fix
-- Flying Crows SSE - Replacement for Birds of Skyrim
+- Flying Crows SSE - Replacement for Birds and Flocks
 - Headhunter's Backpack Patches
 - KD - Realistic Fireplaces - Fixes
 - OBIS-Missives Addon and OBIS-Missives-HeadHunter Addon
-- Seagulls of Skyrim - Replacement for Birds of Skyrim
+- Seagulls of Skyrim - Replacement for Birds and Flocks
 - SkyTEST - Less shiny pigs
 
 ### Updated
@@ -34,6 +34,7 @@
 ### Removed
 
 - Bard Instrumentals Mostly - Sing Rarely
+- Birds and Flocks SSE Edition
 - SkyTEST - Bellyaches HD collection SE
 
 ### Fixes
