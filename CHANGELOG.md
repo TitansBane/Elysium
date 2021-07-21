@@ -1,5 +1,29 @@
 # Changelog
 
+## 4.8.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Particle Lights for ENB - Nordic Ruins Candles
+- Weapon Animation (Miraak's Sword)
+
+### Updated
+
+- ENBSeries v0.460
+- Fossil Mining v3.1
+- Fossil Mining Patch v3.0.2
+- Honed Metal SSE Updated v1.21 CTD Hotfix
+
+### Fixes
+
+- Fix issue with torches brightness from the ENB Light Patcher
+
+### Tweaks
+
+- Distribute backpacks so that you will find them being used by NPCs now (Creation Club profile only)
+
 ## 4.8.1
 
 ### Released at: `07/19/2021`
