@@ -2,7 +2,7 @@
 
 ## 4.8.2
 
-### Released at: `Unreleased`
+### Released at: `07/21/2021`
 
 ### Added
 
