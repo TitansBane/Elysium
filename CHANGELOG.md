@@ -1,5 +1,29 @@
 # Changelog
 
+## 4.8.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Canis Hysteria - The Werewolf Disease
+- Less Crappy (High Poly) Dark Elf Furniture
+
+### Updated
+
+- ENBSeries v0.460
+
+### Fixes
+
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Added No Grass In Objects - Performance Mode ini tweak
+- Generated DynDOLOD for Performance Mode
+- Generated Synthesis patches for Performance Mode
+- Generated TexGen output for Performance Mode
+
 ## 4.8.2
 
 ### Released at: `07/21/2021`
