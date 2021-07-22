@@ -1,5 +1,29 @@
 # Changelog
 
+## 4.9.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Shout Pronunciations and Translations - With Thunderchild and Skyvoice support
+
+### Updated
+
+- Fossil Mining Patch v3.0.3
+- powerofthree's Tweaks v1.2
+
+### Removed
+
+- Andrealphus Tweaks - Exploit Fixes - Player Grab Stealing
+- Shouts in the Dragon Tongue - Special Edition
+
+### Fixes
+
+- Regenerated Synthesis patches
+
 ## 4.8.3
 
 ### Released at: `07/21/2021`
