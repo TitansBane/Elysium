@@ -14,6 +14,7 @@
 - AI Overhaul SSE v1.6.6
 - C.O.I.N. - Coins of Interesting Natures v1.1.6
 - Canis Hysteria - The Werewolf Disease v1.0.1
+- ENBSeries v0.460
 
 ### Removed
 
