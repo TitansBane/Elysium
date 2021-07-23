@@ -1,5 +1,31 @@
 # Changelog
 
+## 4.9.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Authentic Eyes
+- High Poly Blackreach Mushrooms - Skyrim Remastered Patch
+
+### Updated
+
+- AI Overhaul SSE v1.6.6
+- C.O.I.N. - Coins of Interesting Natures v1.1.6
+- Canis Hysteria - The Werewolf Disease v1.0.1
+
+### Removed
+
+- Natural Eyes SSE
+
+### Fixes
+
+- Walking underwater will now clean you of dirt and blood and freeze you to death if Survival mode is enabled.
+- Regenerated DynDOLOD for Performance Mode
+- Regenerated Synthesis patches for Performance Mode
+- Regenerated TexGen output for Performance Mode
+
 ## 4.9.0
 
 ### Released at: `07/22/2021`
