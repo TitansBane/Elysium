@@ -1,5 +1,28 @@
 # Changelog
 
+## 4.9.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Navigator - Navmesh Fixes
+
+### Updated
+
+- BloodThirst Dawn and Duskfang Redone v3.0
+- Immersive Interactions - Animated Actions v1.30
+
+### Fixes
+
+- Fix a minor issue when the player transforms into a Werewolf so the Growl warning message will no longer show up
+- Fix Bloodthirst visuals when sheathed on the left side (Creation Club profile only)
+- Improve and fix EVG Conditional Idles conditions for better compatibility with other mods like Survival Mode, a few animations are enabled again for NPCs
+
+### Tweaks
+
+- Made several tweaks to Survival Mode for higher hunger values on all food, simpler hot soup recipes, compatibility with TML braziers for more areas with warmth, etc.
+
 ## 4.9.1
 
 ### Released at: `07/23/2021`
