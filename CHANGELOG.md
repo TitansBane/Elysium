@@ -22,7 +22,7 @@
 
 ### Tweaks
 
-- Made several tweaks to Survival Mode for higher hunger values on all food, simpler hot soup recipes, compatibility with TML braziers for more areas with warmth, etc.
+- Made several tweaks to Survival Mode for higher hunger values on all food, simpler hot soup recipes, compatibility with TML braziers for more areas with warmth, etc
 
 ## 4.9.1
 
