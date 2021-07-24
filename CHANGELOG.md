@@ -11,6 +11,7 @@
 ### Updated
 
 - BloodThirst Dawn and Duskfang Redone v3.0
+- ENBSeries v0.460
 - Immersive Interactions - Animated Actions v1.30
 
 ### Fixes
