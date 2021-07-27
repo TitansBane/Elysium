@@ -16,6 +16,7 @@
 - Draugr Upgrades and Improvements (Draugr and Skeleton Overhaul) v2.4.1
 - Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-34
 - DynDOLOD Resources SE v3.00 Alpha-10
+- ENBSeries v0.460
 - Favor Jobs Overhaul v1.1.1
 - lilebonymace's patches xEdit scripts and stuff vs2.12
 - Navigator - Navmesh Fixes v1.0.2
