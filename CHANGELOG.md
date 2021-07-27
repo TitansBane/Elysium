@@ -1,5 +1,36 @@
 # Changelog
 
+## 4.9.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Forsworn Gravesingers
+- Forsworn Skinchangers
+
+### Updated
+
+- BodySlide and Outfit Studio v5.4.1
+- Cathedral Weathers and Seasons v2.31
+- Draugr Upgrades and Improvements (Draugr and Skeleton Overhaul) v2.4.1
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-34
+- DynDOLOD Resources SE v3.00 Alpha-10
+- Favor Jobs Overhaul v1.1.1
+- lilebonymace's patches xEdit scripts and stuff vs2.12
+- Navigator - Navmesh Fixes v1.0.2
+- OBIS-Missives Addon and OBIS-Missives-HeadHunter Addon v1.03
+- The Forgotten City Entrance v1.0.2
+- WoW Dragon Mounds CTD Fix v1.2
+
+### Fixes
+
+- Fixed incorrect LODs for both Flying Crows and Seagulls of Skyrim
+- Fixed splash footstep effects not appearing
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 4.9.2
 
 ### Released at: `07/24/2021`
