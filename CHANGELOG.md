@@ -12,7 +12,8 @@
 ### Updated
 
 - BodySlide and Outfit Studio v5.4.1
-- Cathedral Weathers and Seasons v2.31
+- Canis Hysteria - The Werewolf Disease v1.0.2
+- Cathedral Weathers and Seasons v2.32
 - Draugr Upgrades and Improvements (Draugr and Skeleton Overhaul) v2.4.1
 - Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-34
 - DynDOLOD Resources SE v3.00 Alpha-10
