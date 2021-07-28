@@ -27,11 +27,17 @@
 
 ### Fixes
 
+- Fixed a few quests from Capital Windhelm Expansion that weren't completable
+- Fixed a item reward from Capital Windhelm Expansion that was flag as non-playable
 - Fixed incorrect LODs for both Flying Crows and Seagulls of Skyrim
 - Fixed splash footstep effects not appearing
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
+
+### Tweaks
+
+- Adjusted Vampire's Sight Night-Eye visuals for Rudy ENB CW Zangdar's Edit
 
 ## 4.9.2
 
