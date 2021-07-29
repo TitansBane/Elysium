@@ -1,5 +1,29 @@
 # Changelog
 
+## 4.9.4
+
+### Released at: `Unreleased`
+
+### Added
+
+- Skeleton Replacer HD - SE
+
+### Updated
+
+- Additional Clockwork v1.0.2
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-35
+- ENBSeries v0.460
+
+### Removed
+
+- Particle Lights for ENB - Nordic Ruins Candles - Skeleton Replacer HD fully covers it with a patch
+- Skeletons don't breathe SSE
+
+### Fixes
+
+- Fixed a consistent crash when sheathing the Winterhold Staff of Icestorm
+- Fixed a property that was not filled and would generate papyrus errors from Quests Are In Skyrim
+
 ## 4.9.3
 
 ### Released at: `07/27/2021`
