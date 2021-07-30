@@ -1,5 +1,22 @@
 # Changelog
 
+## 4.9.6
+
+### Released at: `Unreleased`
+
+### Updated
+
+- Serana's Hood Fix v3.1.0
+- Skeleton Replacer HD - SE v1.1
+
+### Fixes
+
+- Hot Soups from Survival Mode now have the same effects as their regular counterparts (Creation Club profile only)
+
+### Tweaks
+
+- Improved lighting for the Great City of Winterhold interiors
+
 ## 4.9.5
 
 ### Released at: `07/29/2021`
