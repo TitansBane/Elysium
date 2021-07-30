@@ -2,7 +2,7 @@
 
 ## 4.9.6
 
-### Released at: `Unreleased`
+### Released at: `07/30/2021`
 
 ### Updated
 
