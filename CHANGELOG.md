@@ -1,5 +1,27 @@
 # Changelog
 
+## 4.9.5
+
+### Released at: `Unreleased`
+
+### Added
+
+- Simple Weapon Swing Parry - Scripts Free - SSE
+
+### Updated
+
+- Majestic Mountains - An update was released that requires DynDOLOD to be regenerated
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Disable the parry mechanic from zxlice BackStab and Parry mod - Parrying is now cover by Simple Weapon Swing Parry which works for dual wielders too
+
 ## 4.9.4
 
 ### Released at: `07/28/2021`
