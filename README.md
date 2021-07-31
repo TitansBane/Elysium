@@ -249,10 +249,10 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 
 These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
 
-- Crouch Sliding - Crouch Slide : Press and hold Alt + Shift
+- Crouch Sliding - Crouch Slide : Press and hold Alt + Ctrl
 - Immersive HUD - Toggle HUD : X
 - Nether's Follower Framework - Horse Whistle : H
-- The Ultimate Dodge Mod - Dodge : Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
+- The Ultimate Dodge Mod - Dodge : Shift **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side-stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
 
 ### High Poly Head
