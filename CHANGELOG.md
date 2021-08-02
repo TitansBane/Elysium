@@ -1,5 +1,22 @@
 # Changelog
 
+## 4.9.7
+
+### Released at: `Unreleased`
+
+### Added
+
+- Skeleton Replacer HD - ELFX Patch
+
+### Updated
+
+- Open World Loot - Encounter Zone and Loot Overhaul v1.3.0
+
+### Fixes
+
+- Fixed the crosshair while aiming in third-person for bow aiming and magic combat
+- Fixed the misaligned greatsword grip for female characters
+
 ## 4.9.6
 
 ### Released at: `07/30/2021`
