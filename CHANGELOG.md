@@ -10,6 +10,7 @@
 
 ### Updated
 
+- ENBSeries v0.460
 - Legacy of the Dragonborn - Creation Club Patch Hub v4.2.0
 
 ### Removed
