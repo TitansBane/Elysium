@@ -1,5 +1,34 @@
 # Changelog
 
+## 4.9.8
+
+### Released at: `Unreleased`
+
+### Added
+
+- WiZkiD Riften and Ratway
+
+### Updated
+
+- Legacy of the Dragonborn - Creation Club Patch Hub v4.2.0
+
+### Removed
+
+- Mrf's Riften
+
+### Fixes
+
+- Generated Terrain LOD - Proper LODs are now generated for overall consistency with landscape changes
+- Regenerated AllGUD
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Decrease the LOD Brightness to -5, so trees transition better
+- Removed the sheath from all greatsword that is cover by LeanWolf's Better-Shaped Weapons
+
 ## 4.9.7
 
 ### Released at: `08/02/2021`
