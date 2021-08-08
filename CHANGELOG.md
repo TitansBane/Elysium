@@ -1,5 +1,99 @@
 # Changelog
 
+## 5.0.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- Beast Skeletons Revised (Bitter Edition)
+- Better Bossbars for TDM
+- Better Dynamic Snow (v2 vs v3) Parallax and you (and some patches)
+- Cities of the North - Dawnstar
+- Cities of the North - Dawnstar Patch Collection
+- Cities of the North - Dawnstar - Partitioned Meshes for Lighting
+- Cities of the North - Morthal
+- Cities of the North - Morthal Patch Collection
+- Cities of the North - Morthal - Partitioned Meshes for Lighting
+- More Mailboxes for Skald's Mail
+- Skald's Mail - A Courier Alternative
+- Skald's Mail - Creation Club House Patch
+- Skald's Mail - Legacy of the Dragonborn patch
+- Skald's Mail - More Mailbox for Skald's Mail - Patches for Multiple City Mods
+- Skeleton Replacer - Tools Of Kagrenac Patch
+- Skyrim's Paraglider
+- The Great Cities - Minor Cities and Towns SSE Edition
+- The Great Town and Village - SMIM Patch
+- The Great Town of Karthwasten Patch Collection
+- The Great Town of Karthwasten SSE
+- The Great Town of Shor's Stone Enhanced
+- The Great Town of Shor's Stone Patch Collection
+- The Great Town of Shor's Stone SSE
+- The Great Town of Shor's Stone - Wintersun Addon
+- The Great Village of Kynesgrove
+- The Great Village of Kynesgrove Patch Collection
+- The Great Village of Mixwater Mill Patch Collection
+- The Great Village of Mixwater Mill SSE
+- The Great Village of Old Hroldan Patch Collection
+- The Great Village of Old Hroldan SSE
+- The Notice Board Redefined - New Meshes and Textures
+- True Directional Movement - Modernized Third Person Gameplay
+
+### Updated
+
+- Better Power Attack Direction Control - SSE v0.31
+- Dynamic Things Alternative v0.11
+- ENBSeries v0.460
+- Draugr Upgrades and Improvements (Draugr and Skeleton Overhaul) v2.4.2
+- Font Overhaul - Natural Typefaces for Skyrim -- FONTS v2.1.1
+- Majestic Mountains - DynDoLod V 3.0 Lod pack v1.1
+- Odin - Skyrim Magic Overhaul v1.9.0
+- Realistic Water Two SE v3.1.1
+- Reliquary of Myth - Artifact Overhaul v3.9.5
+- Serana Dialogue Add-On v2.7.0
+- Skeleton Replacer - Patch Collection
+- xLODGen vbeta 84
+
+### Removed
+
+- Beast Skeletons
+- Beast Skeletons - Plugin Replacer
+- Bee Hives
+- Bring Out Your Dead
+- Darkwater Crossing
+- Dawnstar
+- Dragon Bridge
+- Falkreath
+- Helarchen Creek
+- Incognito
+- Ivarstead
+- Karthwasten
+- Keld-Nar
+- Kynesgrove
+- Oakwood
+- Provincial Courier Service
+- Rorikstead
+- Shor's Stone
+- Soljund's Sinkhole
+- Storefront
+- The Fall of Granite Hill
+- Whistling Mine
+
+### Fixes
+
+- Fixed the Ratway Warrens heavily-locked door missing textures
+- Fixed some navmeshes from Identity Crisis
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated Terrain LOD
+- Regenerated TexGen output
+
+### Tweaks
+
+- The washing power can now only be used when standing in the water
+- Tweak ENB water settings
+
 ## 4.9.8
 
 ### Released at: `08/03/2021`
