@@ -83,6 +83,8 @@
 
 - Fixed the Ratway Warrens heavily-locked door missing textures
 - Fixed some navmeshes from Identity Crisis
+- Lots of xEdit fixes
+- Patched some meshes for parallax support
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
