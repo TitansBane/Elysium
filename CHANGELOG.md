@@ -1,5 +1,22 @@
 # Changelog
 
+## 5.0.1
+
+### Released at: `Unreleased`
+
+### Updated
+
+- Forget Spell v1.2.2
+- The Great Town of Karthwasten Patch Collection v2.0.2
+- The Great Village of Kynesgrove Patch Collection v1.1.4
+- The Great Town of Shor's Stone Patch Collection v2.0.2
+- VIGILANT Voiced - English Addon v3.2.1
+
+### Fixes
+
+- Disable disarming perks from being distributed to NPC's, no more losing your shield constantly
+- Regenerated Synthesis patches
+
 ## 5.0.0
 
 ### Released at: `08/08/2021`
