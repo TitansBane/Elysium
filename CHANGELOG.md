@@ -35,9 +35,9 @@
 
 ### Tweaks
 
-- All walking and running speeds are now the same speed to be compatible with True Directional Movement
-- Disable the health bar from True Directional Movement so vanilla is used instead
-- Disable the overpowered spell from Skyrim's Paraglider
+- Disable the health bar from True Directional Movement so the vanilla bar is used instead
+- Disable the Tarhiel's Gale spell from Skyrim's Paraglider
+- Walking and running speeds for all directions are now the same speed to be compatible with True Directional Movement
 
 ## 5.0.1
 
