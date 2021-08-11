@@ -2,7 +2,7 @@
 
 ## 5.1.0
 
-### Released at: `Unreleased`
+### Released at: `08/11/2021`
 
 ### Added
 
@@ -24,6 +24,7 @@
 
 ### Fixes
 
+- Added missing JK's + Pets of Skyrim patch (Creation Club profile only)
 - Fixed Morthal navmesh causing issues with NPCs pathing and not being able to enter buildings
 - Fixed some object snow shaders from Skyrim's Paraglider not using the Better Dynamic Snow version
 - Patched Thieves' Night On the Town for all city overhauls
@@ -36,7 +37,7 @@
 ### Tweaks
 
 - Disable the health bar from True Directional Movement so the vanilla bar is used instead
-- Disable the Tarhiel's Gale spell from Skyrim's Paraglider
+- Disable the overpowered Tarhiel's Gale spell from Skyrim's Paraglider
 - Walking and running speeds for all directions are now the same speed to be compatible with True Directional Movement
 
 ## 5.0.1
