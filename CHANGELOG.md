@@ -24,12 +24,19 @@
 
 ### Fixes
 
-- Fixed Morthal navmeshes
+- Fixed Morthal navmesh causing issues with NPCs pathing and not being able to enter buildings
+- Fixed some object snow shaders from Skyrim's Paraglider not using the Better Dynamic Snow version
+- Patched Thieves' Night On the Town for all city overhauls
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
 - Regenerated Terrain LOD
 - Regenerated TexGen output
+
+### Tweaks
+
+- All walking and running speeds are now the same speed to be compatible with True Directional Movement
+- Disable the overpowered spell from Skyrim's Paraglider
 
 ## 5.0.1
 
