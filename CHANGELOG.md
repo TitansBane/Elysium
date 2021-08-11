@@ -1,5 +1,36 @@
 # Changelog
 
+## 5.1.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- High Gate Ruins Puzzle Reset Fix
+- Resplendent Queen Bee Statue - 8K
+- Rodryk's Dragon Bridge
+- Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
+- Rodryk's Dragon Bridge - Patch Collection
+- Rodryk's Dragon Bridge Retexture
+- Scallions of Skyrim - High Polygon Leeks
+
+### Updated
+
+- Immersive Patrols SE Simplified v2.1.0
+- lilebonymace's patches xEdit scripts and stuff v1.43
+- NPC AI Process Position Fix - SSE v4.05c
+- Serana Dialogue Add-On v2.7.0
+- True Directional Movement - Modernized Third Person Gameplay v1.2.1
+
+### Fixes
+
+- Fixed Morthal navmeshes
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated Terrain LOD
+- Regenerated TexGen output
+
 ## 5.0.1
 
 ### Released at: `08/08/2021`
