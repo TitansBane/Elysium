@@ -1,5 +1,36 @@
 # Changelog
 
+## 5.2.0
+
+### Released at: `Unreleased`
+
+### Added
+
+- JK's Blue Palace
+- Leaps of Faith - A Misc Quest
+- Nilheim - Misc Quest Expansion
+- True Directional Movement - Tail Animation Fix
+
+### Updated
+
+- Assorted mesh fixes v0.23
+- Canis Hysteria - The Werewolf Disease v1.0.3
+- CBBE Creation Club Outfits Bodyslides v1.6
+- Dirt and Blood - Dynamic Visual Effects v2.11
+- DynDOLOD Resources SE 3 vAlpha-11
+- lilebonymace's patches xEdit scripts and stuff vs2.15
+- Missives - Wyrmstooth Patch v2.04c
+- Radiant Requirements MCM v1.2.0
+- Reliquary of Myth - Artifact Overhaul v3.9.6
+- RUSTIC RELIEFS - PARALLAX v1.2
+- Scrambled Bugs v12
+- Skyrim Landscape and Water Fixes v6.3
+- Skyrim's Got Talent - Improve As a Bard v1.21
+- SmoothCam v1.5
+- The Forgotten City Entrance v1.0.3
+- Unofficial Identity Crisis LotD Patch v1.6.1
+- Wyrmstooth v1.19.5
+
 ## 5.1.0
 
 ### Released at: `08/11/2021`
