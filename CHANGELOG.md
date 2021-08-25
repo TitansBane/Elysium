@@ -6,29 +6,101 @@
 
 ### Added
 
+- A little tree mod WIP
+- Animated Static Reload Fix
+- Auto Input Switch
+- Capital Whiterun Expansion
+- CWE - JK - United - JKs Candlehearth Hall Patch
+- Dwemer Compass Enhanced - Legacy of the Dragonborn
+- Fixed Mesh Lighting
+- Flickering Meshes Fix
+- Forgotten City Music Fixer
+- JK's and Redbag's Dragonsreach Patch
+- JK's Angeline's Aromatics
+- JK's Arcadia's Cauldron
+- JK's Arnleif and Sons Trading Company
+- JK's Belethor's General Goods
+- JK's Bits and Pieces
 - JK's Blue Palace
+- JK's Candlehearth Hall
+- JK's Dragonsreach
+- JK's Elgrims Elixirs
+- JK's Interiors Patch Collection
+- JK's Mistveil Keep
+- JK's New Gnisis Cornerclub
+- JK's Palace of the Kings
+- JK's Radiant Raiment
+- JK's Sadris Used Wares
+- JK's Silver-Blood Inn
+- JK's Sleeping Giant Inn
+- JK's The Bannered Mare
+- JK's The Bee and Barb
+- JK's The Drunken Huntsman
+- JK's The Ragged Flagon
+- JK's The Temple of Mara
+- JK's The Winking Skeever
+- JK's Warmaiden's
+- JK's White Phial
 - Leaps of Faith - A Misc Quest
+- Lux
+- MCM Helper
+- Movement Behavior Overhaul - True Directional Movement Patch
 - Nilheim - Misc Quest Expansion
+- Quaint Raven Rock - SE
+- Quaint Raven Rock Patch Collection
+- Raven Rock Building Tweaks
+- Reach Trees Enhanced
+- Sidequests of Skyrim
+- Skaal Village Overhaul
+- Skaal Village Overhaul Patch Collection
+- Solstheim Objects SMIMed - High Poly Dark Elf Furniture
 - True Directional Movement - Tail Animation Fix
+- Vanilla Script (micro)Optimizations
 
 ### Updated
 
 - Assorted mesh fixes v0.23
+- BodySlide and Outfit Studio v5.4.2
 - Canis Hysteria - The Werewolf Disease v1.0.3
 - CBBE Creation Club Outfits Bodyslides v1.6
 - Dirt and Blood - Dynamic Visual Effects v2.11
-- DynDOLOD Resources SE 3 vAlpha-11
+- Dragon Priest Fix - Behaviour Overhaul v1.4.1
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-39
+- Dynamic Things Alternative v0.13
+- DynDOLOD Resources SE 3 v3.00 Alpha-11
+- Favor Jobs Overhaul v1.2.0
+- Footprints Sand patch v0.6
+- Frozen Electrocuted Combustion v4.9.5
+- Headhunter's Backpack Patches v3
+- Immersive Interactions - Animated Actions v1.36
+- Immersive Sounds - Compendium v3.0
+- Legacy of The Dragonborn - Museum Exterior Fixes v0.3.1
+- Legacy of the Dragonborn Patches (Official) v2.5.5
 - lilebonymace's patches xEdit scripts and stuff vs2.15
 - Missives - Wyrmstooth Patch v2.04c
+- Navigator - Navmesh Fixes v1.0.6
+- ODIN spells for NPCS v1.2
+- powerofthree's Papyrus Extender v4.5.1
+- Project Clarity AIO - Skyrim Textures Redone v2.2
 - Radiant Requirements MCM v1.2.0
+- Realistic Skin Shaders - Falmer and Hagravens v1.05
 - Reliquary of Myth - Artifact Overhaul v3.9.6
 - RUSTIC RELIEFS - PARALLAX v1.2
 - Scrambled Bugs v12
+- Serana Dialogue Add-On v2.7.2
 - Skyrim Landscape and Water Fixes v6.3
 - Skyrim's Got Talent - Improve As a Bard v1.21
+- Skyrim's Paraglider v1.5.0
 - SmoothCam v1.5
+- SPID INI Reworked v1.1
+- Splashes Of Skyrim v1.3
 - The Forgotten City Entrance v1.0.3
+- The Great Town of Shor's Stone Enhanced v1.4
+- True Directional Movement - Modernized Third Person Gameplay v1.3.0
 - Unofficial Identity Crisis LotD Patch v1.6.1
+- Unofficial Skyrim Creation Club Content Patches v5.22
+- Water for ENB v1.37
+- WiZkiD - Hall of the Dead Stained Glass Windows v1.5
 - Wyrmstooth v1.19.5
 
 ## 5.1.0
