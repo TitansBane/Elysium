@@ -94,6 +94,7 @@
 - SmoothCam v1.5
 - SPID INI Reworked v1.1
 - Splashes Of Skyrim v1.3
+- Synthesis v0.19.3
 - The Forgotten City Entrance v1.0.3
 - The Great Town of Shor's Stone Enhanced v1.4
 - True Directional Movement - Modernized Third Person Gameplay v1.3.0
@@ -102,6 +103,24 @@
 - Water for ENB v1.37
 - WiZkiD - Hall of the Dead Stained Glass Windows v1.5
 - Wyrmstooth v1.19.5
+
+### Removed
+
+- ELE-ELFX Consistency Patch and Tweaks
+- ELFX Fixes
+- Enhanced Lighting for ENB (ELE) - Special Edition
+- Enhanced Lights and FX
+- Unofficial Enhanced Lights and FX ELFX SMIM fps patch for SE
+
+### Fixes
+
+- Fixed a repeatable crash that could happen from completing Inigo's quest due to a tree being enabled afterward
+- Lots of xEdit fixes
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated Terrain LOD
+- Regenerated TexGen output
 
 ## 5.1.0
 
