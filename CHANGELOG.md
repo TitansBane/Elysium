@@ -110,6 +110,8 @@
 - ELFX Fixes
 - Enhanced Lighting for ENB (ELE) - Special Edition
 - Enhanced Lights and FX
+- Raven Rock - Fix Exit on Horseback
+- Solstheim Lighthouse
 - Unofficial Enhanced Lights and FX ELFX SMIM fps patch for SE
 
 ### Fixes
