@@ -1,5 +1,51 @@
 # Changelog
 
+## 5.3.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- High Poly NPC Overhaul - Alternate Start Live Another Life (ASLAL)
+- High Poly NPC Overhaul - Capital Whiterun Expansion
+- High Poly NPC Overhaul - Carriage and Ferry Travel Overhaul (CFTO)
+- High Poly NPC Overhaul - Immersive College NPCs
+- High Poly NPC Overhaul - JK's Skyrim
+- High Poly NPC Overhaul - Obscure's College of Winterhold
+- High Poly NPC Overhaul - The Great Town of Karthwasten
+- High Poly NPC Overhaul - The Great Town of Shor's Stone
+- High Poly NPC Overhaul - The Great Village of Mixwater Mill
+- High Poly NPC Overhaul - The Great Village of Old Hroldan
+- High Poly NPCs
+- High Poly NPCs - Wyrmstooth and Beyond Reach
+- JK's The Hag's Cure
+- Modpocalypse NPCs - OBIS - Organized Bandits in Skyrim
+- Modpocalypse NPCs - Resources
+- SPID - Armor and Clothing Extension
+- Wyrmstooth Metallurgy Patch
+
+### Updated
+
+- JK's Interiors Patch Collection v3.13.1
+- Lux v3.0
+- Sidequests of Skyrim v0.3.4
+- Spell Perk Item Distributor (SPID) v4.5.1
+
+### Removed
+
+- High Quality Tintmasks for JKs Skyrim
+- OBIS Facegen Fix
+
+### Fixes
+
+- Fixed a missing pillar in the Blue Palace
+- Fixed the issue where TUDM dodge would be broken until you hit G
+- Lots of additional fixes
+- Regenerated Synthesis patches
+- Replace the Thistle Branch model from the Hearthfire DLC with one from 3D Plants
+
 ## 5.2.0
 
 ### Released at: `08/25/2021`
