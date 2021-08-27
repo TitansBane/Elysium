@@ -2,7 +2,7 @@
 
 ## 5.3.0
 
-### Released at: `Unreleased`
+### Released at: `08/27/2021`
 
 ## This update requires a new save game
 
