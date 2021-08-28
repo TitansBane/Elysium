@@ -1,5 +1,18 @@
 # Changelog
 
+## 5.3.1
+
+### Released at: `08/27/2021`
+
+### Updated
+
+- ENBSeries v0.462
+- True Directional Movement - Modernized Third Person Gameplay v1.4.0
+
+### Removed
+
+- SSE Parallax Shader Fix (BETA) - Incompatible with ENBSeries now as the new update for ENBSeries fixes parallax
+
 ## 5.3.0
 
 ### Released at: `08/27/2021`
