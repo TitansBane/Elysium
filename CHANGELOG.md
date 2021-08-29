@@ -31,7 +31,7 @@
 
 ### Tweaks
 
-- Automated the XPMSE MCM for quivers and bolts
+- Automated the XPMSE MCM for quivers and bolts so they no longer clip with things like backpacks
 
 ## 5.3.1
 
