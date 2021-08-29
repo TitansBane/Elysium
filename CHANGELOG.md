@@ -20,7 +20,7 @@
 
 ### Fixes
 
-- Disable a few idle markers in Dawnstar that didn't look right for NPCs
+- Disable a few idle markers in Dawnstar that didn't look correct for NPCs
 - Fixed a cliff mesh that was blocking the entranceway to White River Watch
 - Fixed a few reach trees in Winterhold that didn't fit in with the surroundings and disable a floating door
 - Fixed the Chilling Frost perk not decreasing the target's weapon attack speed
