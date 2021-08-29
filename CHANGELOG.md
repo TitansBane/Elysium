@@ -29,6 +29,10 @@
 - Regenerated Synthesis patches
 - Regenerated TexGen output
 
+### Tweaks
+
+- Automated the XPMSE MCM for quivers and bolts
+
 ## 5.3.1
 
 ### Released at: `08/27/2021`
