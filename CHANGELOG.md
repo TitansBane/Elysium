@@ -4,27 +4,30 @@
 
 ### Released at: `Unreleased`
 
+### Added
+
+- XPMSSE Weapon Styles Uncloaked
+
 ### Updated
 
 - Dynamic Things Alternative v0.14
 - ENBSeries v0.462
 - Fixed Mesh Lighting v1.4.1
-- Flickering Meshes Fix v1.2
+- Flickering Meshes Fix v1.3
+- Particle Lights for ENB - Nordic Ruins Candles - Lux Patch
+- Sidequests of Skyrim v0.3.6
+- zEdit v0.6.6.1
 
 ### Fixes
 
-- Disable a few idle markers in Dawnstar that didn't look right
-- Fixed a cliff mesh that was blocking the entrance to White River Watch
-- Fixed a few reach trees in Winterhold that didn't fit in and disable a floating door
+- Disable a few idle markers in Dawnstar that didn't look right for NPCs
+- Fixed a cliff mesh that was blocking the entranceway to White River Watch
+- Fixed a few reach trees in Winterhold that didn't fit in with the surroundings and disable a floating door
 - Fixed the Chilling Frost perk not decreasing the target's weapon attack speed
 - Fixed the oversize fireplace in The Bannered Mare
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
-
-### Tweaks
-
-- Mountains should look more crisper and sharper overall
 
 ## 5.3.1
 
