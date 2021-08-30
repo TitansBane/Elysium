@@ -2,7 +2,7 @@
 
 ## 5.3.2
 
-### Released at: `Unreleased`
+### Released at: `08/29/2021`
 
 ### Added
 
