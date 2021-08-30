@@ -1,5 +1,30 @@
 # Changelog
 
+## 5.3.3
+
+### Released at: `Unreleased`
+
+### Updated
+
+- .NET Script Framework v16
+- Auto Input Switch v1.1.1
+- Better Dynamic Ash SE (official) v2.1.1
+- Better Windhelm Ground Meshes - With Parallax Support v1.3.2
+- Flickering Meshes Fix v1.4b
+- Sidequests of Skyrim v0.4
+- Skeleton Replacer HD - SE v1.1
+- True Directional Movement - Modernized Third Person Gameplay v1.4.1
+- VIGILANT Voiced - English Addon v3.2.2
+- Vokrii - Minimalistic Perks of Skyrim v3.6.0
+
+### Fixes
+
+- Fixed a crash in Velothi Tunnels - Glass Lake area
+- Fixed floating lanterns in Windhelm
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 5.3.2
 
 ### Released at: `08/29/2021`
