@@ -11,6 +11,7 @@
 - Better Dynamic Ash SE (official) v2.1.1
 - Better Windhelm Ground Meshes - With Parallax Support v1.3.2
 - Flickering Meshes Fix v1.4b
+- Rudy ENB CW Zangdar's Edit
 - Sidequests of Skyrim v0.4
 - Skeleton Replacer HD - SE v1.1
 - True Directional Movement - Modernized Third Person Gameplay v1.4.1
