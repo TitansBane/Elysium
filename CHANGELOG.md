@@ -1,5 +1,37 @@
 # Changelog
 
+## 5.3.4
+
+### Released at: `Unreleased`
+
+### Added
+
+- Modpocalypse NPCs - JK's Skyrim
+- Tundra berries
+
+### Updated
+
+- Auto Input Switch v1.1.2
+- Feminine Khajiit Textures (Grey Cat and Leopard) v3.0
+- lilebonymace's patches xEdit scripts and stuff v1.54
+- More Immersive Activations (SkyRem - Mia) v2.1.3
+- SPID INI Reworked v1.11
+
+### Removed
+
+- High Poly NPC Overhaul - JK's Skyrim
+
+### Fixes
+
+- Fixed a few floating plants
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Paragliding will now drain your stamina over time and if you run out of stamina you'll fall to your death
+- Tarhiel's Gale can now only be used once a day and the spell tome is no longer disabled
+- The southeast gate in Riften is now locked and is guarded by a Riften guard just like the other gates
+
 ## 5.3.3
 
 ### Released at: `08/30/2021`
