@@ -322,8 +322,8 @@ Download the following file from the original [Remove QuickSave Button](https://
 In the FOMOD select 3b - MCM-Save-etc, MCM renamed. This mod is a replacer. Disable/delete the original version.
 
 #### Forget Spell
-Download the following file from the [Ultra Widescreen (2560x1080 Tested) Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854) mod page :
-  - Main Files : 2560x1080 Forget Spell Patch
+Download the following file from the [Ultra Widescreen Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854) mod page :
+  - Main Files : Ultrawide Forget Spell Patch
 
 This is a patch. Place it below Forget Spell in the mod order.
 
