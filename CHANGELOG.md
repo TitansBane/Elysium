@@ -1,5 +1,48 @@
 # Changelog
 
+## 5.3.5
+
+### Released at: `Unreleased`
+
+### Added
+
+- Afterlife - Resurrected
+- ENB lights for Aetherium shards
+- The Ultimate Dodge Mod - Script Fixes
+
+### Updated
+
+- Assorted mesh fixes v0.25
+- Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch) v1.0.2
+- C.O.I.N. - Coins of Interesting Natures v1.1.7
+- Headhunter's Backpack Patches v4
+- Immersive Interactions - Animated Actions v1.50
+- JK's Interiors Patch Collection v3.14
+- JK's Palace of the Kings v1.1.2
+- Landscape Fixes For Grass Mods v4.9
+- Nilheim - Misc Quest Expansion v1.10
+- SPID INI Reworked v1.12
+- True Directional Movement - Modernized Third Person Gameplay v1.4.2
+- Tundra berries v1.1
+
+### Fixes
+
+- Fixed a faulty mesh in Fellglow Keep
+- Fixed an issue where some LODs were not unloading in the Solitude Docks
+- Fixed Lux Imagespaces/Lighting Template's not being forwarded for cells added by Interesting NPCs and LOTD - This will fix the pitch black issue
+- Interior lighting now has the correct brightness where before the value was being reduced by a far greater amount than usual by the patcher
+- Lots of xEdit fixes and consistency patching
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Occlusion
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- A few low-quality shrines from Wintersun were replaced with better-looking models
+- Grass LODs is back since now it shows up correctly for all regions due to the new DynDOLOD update - Grass density was reduced but there will be a few FPS loss in the Whiterun plains
+
 ## 5.3.4
 
 ### Released at: `08/31/2021`
