@@ -41,7 +41,7 @@
 ### Tweaks
 
 - A few low-quality shrines from Wintersun were replaced with better-looking models
-- Grass LODs is back since now it shows up correctly for all regions due to the new DynDOLOD update - Grass density was reduced but there will be a few FPS loss in the Whiterun plains
+- Grass LODs is back since now it shows up correctly for all regions due to the newest DynDOLOD update - Grass density was reduced but there will be a few FPS loss in the Whiterun plains
 
 ## 5.3.4
 
