@@ -7,6 +7,7 @@
 ### Added
 
 - Afterlife - Resurrected
+- Coherent Inns Prices
 - ENB lights for Aetherium shards
 - Face Masks of Skyrim - ReTexture - Organized Bandits 'OBIS' - Wet And COLD 'WAT'
 - SPID for Footprints
