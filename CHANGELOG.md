@@ -8,13 +8,20 @@
 
 - Afterlife - Resurrected
 - ENB lights for Aetherium shards
+- Face Masks of Skyrim - ReTexture - Organized Bandits 'OBIS' - Wet And COLD 'WAT'
+- SPID for Footprints
 - The Ultimate Dodge Mod - Script Fixes
+- Wet and Cold - Fur Hoods Fix
+- Wet and Cold - Gear
+- Wet and Cold - HD textures SE
+- Wet and Cold SE
 
 ### Updated
 
 - Assorted mesh fixes v0.25
 - Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch) v1.0.2
 - C.O.I.N. - Coins of Interesting Natures v1.1.7
+- Dwemer Compass Enhanced - Legacy of the Dragonborn v1.1
 - Headhunter's Backpack Patches v4
 - Immersive Interactions - Animated Actions v1.50
 - JK's Interiors Patch Collection v3.14
