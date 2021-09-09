@@ -36,7 +36,7 @@
 
 - Fixed an issue where the player is a vampire would prevent sneaking
 - Fixed the landscape in Riverwood and disable a log that was clipping
-- Fixed the navmesh in Dragon Bridge which cause NPCs to not cross certain areas
+- Fixed the navmesh in Dragon Bridge which causes NPCs to not cross certain areas
 - Fixed Werewolves attack bug which would also prevent the player from attacking too
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
