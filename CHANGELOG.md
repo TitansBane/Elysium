@@ -1,5 +1,42 @@
 # Changelog
 
+## 5.3.6
+
+### Released at: `Unreleased`
+
+### Added
+
+- High Hrothgar Fixed
+- Mrf's Markarth
+- Remiros' Dunmer Urns HD
+- Sanguine - Enhanced Blood Retexture SE
+- Skyrim Remastered - High Hrothgar v2
+
+### Updated
+
+- Dwemer Pipework Reworked v4
+- Enhanced Blood Textures SE v3.99
+- Guard Dialogue Overhaul SE v2.17
+- Immersive World Encounters. FINAL SE v3.4a
+- Less Crappy (High Poly) Dark Elf Furniture v2.1.0
+- Scrambled Bugs v13
+- SPID INI Reworked v1.13
+- Stendarr Rising - The Hall of the Vigilant Rebuild v1.3.0
+- The Choice is Yours v2.1
+
+### Removed
+
+- ElSopa HD - Realistic Dark Elf Urns SE
+- Pilgrims Delight - High Hrothgar Shrine Retextures
+- Skyrim 3D High Hrothgar Steps
+- The Halls of the Greybeards - a High Hrothgar Retexuring
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 5.3.5
 
 ### Released at: `09/06/2021`
