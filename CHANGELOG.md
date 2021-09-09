@@ -44,6 +44,7 @@
 ### Tweaks
 
 - Automated both VioLens and Wyrmstooth MCM
+- Grass is now more windy
 - No more grass LODs for performance mode
 
 ## 5.3.5
