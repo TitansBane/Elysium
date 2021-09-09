@@ -26,6 +26,7 @@
 
 ### Removed
 
+- Difficulty Balance
 - ElSopa HD - Realistic Dark Elf Urns SE
 - Pilgrims Delight - High Hrothgar Shrine Retextures
 - Skyrim 3D High Hrothgar Steps
