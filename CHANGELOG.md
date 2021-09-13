@@ -1,5 +1,50 @@
 # Changelog
 
+## 5.4.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Fixed Fixed Dragon Stalking Fix
+- Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)
+
+### Updated
+
+- .NET Script Framework v17
+- Assorted mesh fixes v0.26
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-41
+- DynDOLOD Resources SE 3 v3.00 Alpha-12
+- Fossil Mining v3.2
+- Kthonia's Unique Weapon Pack - Dragonborn Weapons v1.2
+- Legacy of the Dragonborn Patches (Official) v2.5.6
+- lilebonymace's patches xEdit scripts and stuff v1.55
+- Nether's Follower Framework v2.7.8
+- No Grass In Objects v7
+- Sanguine - Enhanced Blood Retexture SE v1.3.1
+- Spell Perk Item Distributor (SPID) v5.0
+- SPID for Footprints v2.2.2
+- The Choice is Yours v2.2
+- Timing is Everything SE v2.2FF
+
+### Fixes
+
+- Eliminate stuttering when walking across cell borders
+- Fixed a consistent crash from occurring when entering Karagas' Maze or other Dwemer locations
+- Lots of xEdit fixes
+- Redone merge patches with additional fixes
+- Reduce script lag
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+- Updated the OCW TOK patch to fix some minor issues
+
+### Tweaks
+
+- The Sly Fox Inn in Shor's Stone is now cheaper to rent a room
+
 ## 5.3.6
 
 ### Released at: `09/09/2021`
