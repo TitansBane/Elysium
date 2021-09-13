@@ -17,6 +17,7 @@
 - Assorted mesh fixes v0.26
 - Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-41
 - DynDOLOD Resources SE 3 v3.00 Alpha-12
+- ENBSeries v0.462
 - Fossil Mining v3.2
 - Kthonia's Unique Weapon Pack - Dragonborn Weapons v1.2
 - Legacy of the Dragonborn Patches (Official) v2.5.6
