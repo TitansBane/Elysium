@@ -14,6 +14,7 @@
 
 - Spell Perk Item Distributor (SPID) v5.0.2
 - SPID for Footprints v2.3
+- Timing is Everything SE v2.2FFF
 
 ### Fixes
 
