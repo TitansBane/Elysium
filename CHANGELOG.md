@@ -12,12 +12,13 @@
 
 ### Updated
 
-- Spell Perk Item Distributor (SPID) v5.0.1
+- Spell Perk Item Distributor (SPID) v5.0.2
 - SPID for Footprints v2.3
 
 ### Fixes
 
-- Made some additional fixes
+- Fixed the armchairs in Myrwatch so they don't use the same model from Thrones of Skyrim (Creation Club profile only)
+- Reformatted SPID existing INIs to fix a few that weren't working correctly
 
 ## 5.4.0
 
