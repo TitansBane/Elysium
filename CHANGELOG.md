@@ -1,5 +1,24 @@
 # Changelog
 
+## 5.4.1
+
+### Released at: `09/13/2021`
+
+### Added
+
+- Apocalypse - Magic of Skyrim Cleaned and Enhanced Textures
+- Triumvirate Cleaned and Enhanced Textures
+- Wintersun Cleaned and Enhanced Textures
+
+### Updated
+
+- Spell Perk Item Distributor (SPID) v5.0.1
+- SPID for Footprints v2.3
+
+### Fixes
+
+- Made some additional fixes
+
 ## 5.4.0
 
 ### Released at: `09/13/2021`
