@@ -21,6 +21,7 @@
 - Masculine Khajiit Textures (Grey Cat and Leopard) v1.5
 - No Grass In Objects v8
 - Sanguine - Enhanced Blood Retexture SE v1.4.0
+- Spell Perk Item Distributor (SPID) v5.0.3
 - SPID for Footprints v2.4
 
 ### Removed
@@ -29,6 +30,8 @@
 
 ### Fixes
 
+- Disable the Wildshape spell from being distributed to vendors
+- Lots of xEdit fixes
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
