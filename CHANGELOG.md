@@ -1,5 +1,34 @@
 # Changelog
 
+## 5.4.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Bone Hawk Replacer- Mihail Monsters and Animals (MIHAIL SSE PORT)
+- Daedric Crescent- Mihail Weapons and Shields (MIHAIL SSE PORT) - Using as only a replacer for the LOTD Daedric Crescent Blade
+- Hawk Replacer- Mihail Monsters and Animals (MIHAIL SSE PORT)
+- More Lights for ENB - Blood Splatter Fix
+- Windhelm Fake Windows Fix
+
+### Updated
+
+- Conditional Expressions - Subtle Face Animations v1.20
+- Creation Club Integration - Armours v2.2.3
+- Dwemer Compass Enhanced - Legacy of the Dragonborn v1.2
+- lilebonymace's patches xEdit scripts and stuff vs2.16
+- Masculine Khajiit Textures (Grey Cat and Leopard) v1.5
+- No Grass In Objects v8
+- Sanguine - Enhanced Blood Retexture SE v1.4.0
+- SPID for Footprints v2.4
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 5.4.1
 
 ### Released at: `09/13/2021`
