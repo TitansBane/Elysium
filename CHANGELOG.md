@@ -23,6 +23,10 @@
 - Sanguine - Enhanced Blood Retexture SE v1.4.0
 - SPID for Footprints v2.4
 
+### Removed
+
+- Flying Crows SSE
+
 ### Fixes
 
 - Regenerated DynDOLOD
