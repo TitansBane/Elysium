@@ -9,6 +9,7 @@
 - Bone Hawk Replacer- Mihail Monsters and Animals (MIHAIL SSE PORT)
 - Daedric Crescent- Mihail Weapons and Shields (MIHAIL SSE PORT) - Using as only a replacer for the LOTD Daedric Crescent Blade
 - Hawk Replacer- Mihail Monsters and Animals (MIHAIL SSE PORT)
+- HD Vigilant Project - Umaril
 - More Lights for ENB - Blood Splatter Fix
 - Windhelm Fake Windows Fix
 
