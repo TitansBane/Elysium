@@ -19,6 +19,7 @@
 - Dwemer Compass Enhanced - Legacy of the Dragonborn v1.2
 - lilebonymace's patches xEdit scripts and stuff vs2.16
 - Masculine Khajiit Textures (Grey Cat and Leopard) v1.5
+- Nether's Follower Framework v2.7.9
 - No Grass In Objects v8
 - Sanguine - Enhanced Blood Retexture SE v1.4.0
 - Spell Perk Item Distributor (SPID) v5.0.3
