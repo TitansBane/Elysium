@@ -2,7 +2,7 @@
 
 ## 5.4.2
 
-### Released at: `Unreleased`
+### Released at: `09/15/2021`
 
 ### Added
 
