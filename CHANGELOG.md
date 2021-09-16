@@ -31,6 +31,7 @@
 
 ### Fixes
 
+- Fixed up a dozen errors from leveled lists that were patched incorrectly, mostly Creation Club related
 - Disable the Wildshape spell from being distributed to vendors
 - Lots of xEdit fixes
 - Regenerated DynDOLOD
