@@ -7,13 +7,18 @@
 ### Added
 
 - Clockwork Cleaned Textures
+- JK's Understone Keep
 - Legacy of The Dragonborn - Dwemer Compass Replacer
+- Lux - Understone Keep patch
 - Summermyst Cleaned Textures
 
 ### Updated
 
 - Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-43
 - ENBSeries v0.463
+- Fixed Mesh Lighting v1.4.2
+- Footprints Sand patch v0.7
+- JK's Interiors Patch Collection v3.15
 - Nilheim - Misc Quest Expansion v1.11
 - NPC AI Process Position Fix - SSE v4.05d
 - SmoothCam - EasyEase Preset v1.5
