@@ -1,5 +1,38 @@
 # Changelog
 
+## 5.4.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- Clockwork Cleaned Textures
+- Legacy of The Dragonborn - Dwemer Compass Replacer
+- Summermyst Cleaned Textures
+
+### Updated
+
+- ENBSeries v0.463
+- Nilheim - Misc Quest Expansion v1.11
+- NPC AI Process Position Fix - SSE v4.05d
+- SmoothCam - EasyEase Preset v1.5
+
+### Removed
+
+- Dwemer Compass Enhanced - Legacy of the Dragonborn
+
+### Fixes
+
+- Disable a few steps from JK's Skyrim in Whiterun that were clipping with another set of steps
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Cathedral - 3D Pine Grass no longer uses the high poly green grass update which will yield 3-5 FPS back and has more dynamic growth everywhere similar to the mod Origins Of Forest
+
 ## 5.4.2
 
 ### Released at: `09/15/2021`
