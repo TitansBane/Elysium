@@ -12,6 +12,7 @@
 
 ### Updated
 
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-43
 - ENBSeries v0.463
 - Nilheim - Misc Quest Expansion v1.11
 - NPC AI Process Position Fix - SSE v4.05d
