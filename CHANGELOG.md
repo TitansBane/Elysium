@@ -26,9 +26,11 @@
 ### Removed
 
 - Dwemer Compass Enhanced - Legacy of the Dragonborn
+- High Poly Canticle Tree - Fixed Mesh Lighting already includes this replacer
 
 ### Fixes
 
+- A few xEdit fixes
 - Disable a few steps from JK's Skyrim in Whiterun that were clipping with another set of steps
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
