@@ -1,4 +1,4 @@
-![Logo](https://github.com/TitansBane/Elysium/raw/master/image/Elysium_Banner.png)
+![Logo](https://github.com/TitansBane/Elysium/raw/master/image/Elysium_Banner.webp)
 
 # Elysium
 
