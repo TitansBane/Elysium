@@ -1,5 +1,37 @@
 # Changelog
 
+## 5.5.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- High Poly NPC Overhaul - Expanded Towns and Cities
+- Pandorable's Heroes of Sovngarde
+- Squirrels- Mihail Monsters and Animals (MIHAIL SSE PORT) - Clean up and improve the esp plugin
+- Tamrielic Textures SE 1 - Landscapes - Only using coastal beach and rivers terrain textures
+
+### Updated
+
+- Expanded Towns and Cities (SSE) v0.5.1 - Added ETaC Darkwater Crossing to the list
+- Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible) v1.3
+- SPID for Footprints v2.5
+- True Directional Movement - Modernized Third Person Gameplay v1.4.3
+
+### Removed
+
+- 5und43f1n3d317y's Living Eyes
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated Terrain LOD
+- Regenerated TexGen output
+
 ## 5.4.3
 
 ### Released at: `09/17/2021`
