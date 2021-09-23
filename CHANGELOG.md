@@ -12,6 +12,7 @@
 - Lucien - Creation Club - Expanded Crossbow Pack Patch
 - Lucien - Creation Club - Goblins Patch
 - Lucien - Creation Club - Myrwatch Patch
+- Obscure's Art Editions - Noble Shelves
 - Obscure's Art Editions - Tablecloths
 - Pandorable's Heroes of Sovngarde
 - Rudification - Rudy Candles Expanded
