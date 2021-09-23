@@ -9,6 +9,10 @@
 ### Added
 
 - High Poly NPC Overhaul - Expanded Towns and Cities
+- Lucien - Creation Club - Expanded Crossbow Pack Patch
+- Lucien - Creation Club - Goblins Patch
+- Lucien - Creation Club - Myrwatch Patch
+- Obscure's Art Editions - Tablecloths
 - Pandorable's Heroes of Sovngarde
 - Rudification - Rudy Candles Expanded
 - Squirrels- Mihail Monsters and Animals (MIHAIL SSE PORT) - Clean up and improve the esp plugin
@@ -16,10 +20,15 @@
 
 ### Updated
 
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-44
 - Expanded Towns and Cities (SSE) v0.5.1 - Added ETaC Darkwater Crossing to the list
 - Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible) v1.3
+- JK's Interiors Patch Collection v3.16
+- JK's The Winking Skeever v1.2.1
+- Legacy of The Dragonborn - Dwemer Compass Replacer v0.3.1
 - SPID for Footprints v2.5
 - True Directional Movement - Modernized Third Person Gameplay v1.4.3
+- Vanilla Script (micro)Optimizations v1.1a
 
 ### Removed
 
@@ -27,11 +36,19 @@
 
 ### Fixes
 
+- Captial Whiterun Expansion books are now overhauled by BURP which I forgot to add before in previous updates
+- Implemented Lux - Shadow Scene Node fix for Dragonsreach - Should help for those experiencing crashes
+- Lots of conflict fixes and consistency patching for Obscure's College of Winterhold that were not patched before
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
 - Regenerated Terrain LOD
 - Regenerated TexGen output
+- Replace the hideous vanilla grass around Riverwood with better-looking grass
+
+### Tweaks
+
+- Edited Leaps of Faith script to detect whenever the player jumps and sinks into the water
 
 ## 5.4.3
 
