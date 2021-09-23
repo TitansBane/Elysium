@@ -10,6 +10,7 @@
 
 - High Poly NPC Overhaul - Expanded Towns and Cities
 - Pandorable's Heroes of Sovngarde
+- Rudification - Rudy Candles Expanded
 - Squirrels- Mihail Monsters and Animals (MIHAIL SSE PORT) - Clean up and improve the esp plugin
 - Tamrielic Textures SE 1 - Landscapes - Only using coastal beach and rivers terrain textures
 
