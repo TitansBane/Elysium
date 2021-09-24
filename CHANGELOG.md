@@ -21,7 +21,9 @@
 
 ### Updated
 
+- Coherent Inns Prices v1.1
 - Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-44
+- DynDOLOD Resources SE 3 v3.00 Alpha-13
 - Expanded Towns and Cities (SSE) v0.5.1 - Added ETaC Darkwater Crossing to the list
 - Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible) v1.3
 - JK's Interiors Patch Collection v3.16
