@@ -29,6 +29,7 @@
 - JK's Interiors Patch Collection v3.16
 - JK's The Winking Skeever v1.2.1
 - Legacy of The Dragonborn - Dwemer Compass Replacer v0.3.1
+- Mrf's Markarth
 - SPID for Footprints v2.5
 - True Directional Movement - Modernized Third Person Gameplay v1.4.3
 - Vanilla Script (micro)Optimizations v1.1a
