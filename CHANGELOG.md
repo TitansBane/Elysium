@@ -42,6 +42,7 @@
 
 - Captial Whiterun Expansion books are now overhauled by BURP which I forgot to add before in previous updates
 - Fixed some Capital Windhelm meshes that had incorrect snow material shader which resulted in grey textures
+- Fixed a Wet and Cold crash that could occur when a unique NPC with Wet and Cold gear on them was killed and clean up by the game
 - Implemented Lux - Shadow Scene Node fix for Dragonsreach - Should help for those experiencing crashes
 - Lots of conflict fixes and consistency patching for Obscure's College of Winterhold that were not patched before
 - Regenerated DynDOLOD
