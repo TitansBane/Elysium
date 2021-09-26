@@ -21,6 +21,7 @@
 - OnHit Animations Framework - SSE v1.16
 - Sanguine - Enhanced Blood Retexture SE v1.4.0 Blood pool hotfix
 - SSE Gameplay Tweaks v6
+- Synthesis v0.19.4
 
 ### Fixes
 
