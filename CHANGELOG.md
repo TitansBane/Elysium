@@ -2,7 +2,7 @@
 
 ## 5.5.1
 
-### Released at: `Unreleased`
+### Released at: `09/27/2021`
 
 ### Added
 
@@ -13,18 +13,21 @@
 ### Updated
 
 - Immersive World Encounters. FINAL SE v3.4
-- JK's Interiors Patch Collection v3.17.2
+- JK's Interiors Patch Collection v3.18
 - JK's Understone Keep v1.1.0
 - Know Your Enemy - Trait-based resistances and weaknesses v9.0.1.1
+- Lanterns Of Skyrim II v3.1
 - lilebonymace's patches xEdit scripts and stuff v1.58
 - Lux v3.2
 - OnHit Animations Framework - SSE v1.16
 - Sanguine - Enhanced Blood Retexture SE v1.4.0 Blood pool hotfix
 - SSE Gameplay Tweaks v6
 - Synthesis v0.19.4
+- Wintersun Cleaned and Enhanced Textures v2
 
 ### Fixes
 
+- Fix a dark face bug with a NPC from Vigilant
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
