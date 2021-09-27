@@ -27,7 +27,7 @@
 
 ### Fixes
 
-- Fix a dark face bug with a NPC from Vigilant
+- Fix a dark face bug with an NPC from Vigilant
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
 - Regenerated TexGen output
