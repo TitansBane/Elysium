@@ -19,6 +19,7 @@
 
 ### Fixes
 
+- Fix another dark face bug with an NPC from Vigilant
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
