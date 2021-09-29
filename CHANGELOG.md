@@ -1,5 +1,32 @@
 # Changelog
 
+## 5.5.2
+
+### Released at: `Unreleased`
+
+### Added
+
+- Lucien - Creation Club - Alternative Armors - Dwarven Mail Patch
+- Lucien - Creation Club - Lord's Mail Patch
+- Potema Ruins Door
+
+### Updated
+
+- Navigator - Navmesh Fixes v1.0.8
+- Odin - Summons Redone v1.2
+- Squirrels- Mihail Monsters and Animals (MIHAIL SSE PORT) v1.1
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Updated pine forest grass to have even more dynamic growth than before and snow grass is now using assets from Folkvangr instead of Cathedral Landscapes
+
 ## 5.5.1
 
 ### Released at: `09/27/2021`
