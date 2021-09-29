@@ -12,7 +12,8 @@
 
 ### Updated
 
-- Navigator - Navmesh Fixes v1.0.8
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold v3.0
+- Navigator - Navmesh Fixes v1.0.9
 - Odin - Summons Redone v1.2
 - Squirrels- Mihail Monsters and Animals (MIHAIL SSE PORT) v1.1
 
