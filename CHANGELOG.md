@@ -7,20 +7,25 @@
 ### Added
 
 - ENB Lights For Effect Shaders
+- Odin Cleaned Textures
 - Pandorable's Marvellous Miners - Annekke Sylgja
 - Quest and Reward Delay for Legacy of the Dragonborn
 - Roos' Butter - 1K
+- SkyUI - Ghost Item Bug Fix
 
 ### Updated
 
-- Assorted mesh fixes v0.29
+- Assorted mesh fixes v0.30.1
 - Enhanced Blood Textures SE v4.0 beta 3
 - Feminine Khajiit Textures (Grey Cat and Leopard) v3.1
+- Frozen Electrocuted Combustion v4.9.6
 - HD Stone Quarry and Clay Deposit SE v1.0.3
 - RUSTIC RELIEFS v1.3
 - Serana Dialogue Add-On v2.8.0.2
 - Spell Perk Item Distributor (SPID) v5.0.4
 - Store Entrance Doorbells v2.0
+- The Great Town of Karthwasten Patch Collection v2.1
+- The Great Village of Mixwater Mill Patch Collection v2.1
 - Vigilant Armors and Weapons Retexture SE v3.0
 
 ### Fixes
