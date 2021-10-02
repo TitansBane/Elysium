@@ -1,5 +1,41 @@
 # Changelog
 
+## 5.5.3
+
+### Released at: `Unreleased`
+
+### Added
+
+- ENB Lights For Effect Shaders
+- Pandorable's Marvellous Miners - Annekke Sylgja
+- Quest and Reward Delay for Legacy of the Dragonborn
+- Roos' Butter - 1K
+
+### Updated
+
+- Assorted mesh fixes v0.29
+- Enhanced Blood Textures SE v4.0 beta 3
+- Feminine Khajiit Textures (Grey Cat and Leopard) v3.1
+- HD Stone Quarry and Clay Deposit SE v1.0.3
+- RUSTIC RELIEFS v1.3
+- Serana Dialogue Add-On v2.8.0.2
+- Spell Perk Item Distributor (SPID) v5.0.4
+- Store Entrance Doorbells v2.0
+- Vigilant Armors and Weapons Retexture SE v3.0
+
+### Fixes
+
+- Fixed a consistent crash from occurring when entering Karagas' Maze or other Dwemer locations for real this time
+- Fixed a rare skeleton crash from EVG Animation Variance that some users were reporting
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Updated pine forest grass once again to make the overgrowth look more natural
+
 ## 5.5.2
 
 ### Released at: `09/29/2021`
