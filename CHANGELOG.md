@@ -1,5 +1,46 @@
 # Changelog
 
+## 5.6.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Modpocalypse NPCs - Immersive College NPCs
+- Modpocalypse NPCs - Obscure's College of Winterhold
+- Simplicity of Snow
+- SR Serana Replace - Renewal (option - Fixed crossed arms animation) - Only added for the fixed crossed arms animation
+- WiZkiD Carriages
+
+### Updated
+
+- Expanded Towns and Cities (SSE) v0.5.3
+- Footprints Sand patch v0.8
+- JK's Interiors Patch Collection v3.19
+- Modpocalypse NPCs - Resources v1.01
+- Serana Dialogue Add-On v2.8.1
+- The Great Village of Kynesgrove Patch Collection v1.1.5
+- The Tools of Kagrenac v1.58a
+
+### Removed
+
+- Better Dynamic Majestic Mountains
+- Better Dynamic Snow SE
+- Better Dynamic Snow (v2 vs v3) Parallax and you (and some patches)
+- High Poly NPC Overhaul - Immersive College NPCs
+- High Poly NPC Overhaul - Obscure's College of Winterhold
+
+### Fixes
+
+- Disable the elder animations to fixed skeleton crashes from EVG Animation Variance
+- Lots of xEdit fixes
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
 ## 5.5.3
 
 ### Released at: `10/02/2021`
@@ -31,7 +72,7 @@
 ### Fixes
 
 - Fixed a consistent crash from occurring when entering Karagas' Maze or other Dwemer locations for real this time
-- Fixed a rare skeleton crash from EVG Animation Variance that some users were reporting
+- Disable the elder animations to fixed skeleton crashes from EVG Animation Variance
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
