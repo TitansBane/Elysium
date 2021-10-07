@@ -26,6 +26,7 @@
 - Immersive World Encounters. FINAL SE v3.5a
 - Scrambled Bugs v14
 - Sidequests of Skyrim v0.5
+- Simplicity of Snow v0.2
 - Skyrim Script Extender (SKSE) v2.0.20
 
 ### Removed
@@ -39,7 +40,7 @@
 
 ### Fixes
 
-- Fixed a few navmeshes in Dawnstar
+- Fixed a few navmesh issues in Dawnstar
 - Regenerated Synthesis patches
 
 ### Tweaks
