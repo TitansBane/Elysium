@@ -15,14 +15,18 @@
 - Modpocalypse NPCs - The Great Village of Old Hroldan
 - Parallax Meshes for The Great Cities Towns Villages
 - Static Mesh Improvement Mod Improvement Mod
+- zxlice's ultimate potion animation - ZUPA
 
 ### Updated
 
+- Cathedral Assets Optimizer v5.3.0
 - Cities of the North - Dawnstar - JK's Skyrim Patch v1.2
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-47
 - Immersive World Encounters AddOn - High Poly Uniques v1.2
 - Immersive World Encounters. FINAL SE v3.5a
 - Scrambled Bugs v14
 - Sidequests of Skyrim v0.5
+- Skyrim Script Extender (SKSE) v2.0.20
 
 ### Removed
 
