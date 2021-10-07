@@ -1,5 +1,47 @@
 # Changelog
 
+## 5.6.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- Modpocalypse NPCs - Immersive Patrols
+- Modpocalypse NPCs - Legacy of the Dragonborn
+- Modpocalypse NPCs - The Great Town of Karthwasten
+- Modpocalypse NPCs - The Great Town of Shor's Stone
+- Modpocalypse NPCs - The Great Village of Kynesgrove
+- Modpocalypse NPCs - The Great Village of Mixwater Mill
+- Modpocalypse NPCs - The Great Village of Old Hroldan
+- Parallax Meshes for The Great Cities Towns Villages
+- Static Mesh Improvement Mod Improvement Mod
+
+### Updated
+
+- Cities of the North - Dawnstar - JK's Skyrim Patch v1.2
+- Immersive World Encounters AddOn - High Poly Uniques v1.2
+- Immersive World Encounters. FINAL SE v3.5a
+- Scrambled Bugs v14
+- Sidequests of Skyrim v0.5
+
+### Removed
+
+- High Poly NPCs - Immersive Patrols SE
+- High Poly NPC Overhaul - The Great Town of Karthwasten
+- High Poly NPC Overhaul - The Great Town of Shor's Stone
+- High Poly NPC Overhaul - The Great Village of Mixwater Mill
+- High Poly NPC Overhaul - The Great Village of Old Hroldan
+- The Great Town and Village - SMIM Patch
+
+### Fixes
+
+- Fixed a few navmeshes in Dawnstar
+- Regenerated Synthesis patches
+
+### Tweaks
+
+- Updated the water assets with better textures and meshes from Water for ENB newest version
+
 ## 5.6.0
 
 ### Released at: `10/05/2021`
