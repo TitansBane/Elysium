@@ -29,6 +29,7 @@
 - JK's Temple of Dibella
 - JS Dragon Claws AE (Anniversary Edition)
 - Labyrinthian Shalidor's Maze Fixes
+- Mesh Patch for Various Mods - Unofficial Material Fix - Assorted Mesh Fixes Patch
 - Modpocalypse NPCs - Carriage and Ferry Travel Overhaul
 - Modpocalypse NPCs - The Forgotten City
 - Mount Anthor Dragon Fix
@@ -98,11 +99,20 @@
 
 ### Fixes
 
+- Lots of xEdit fixes
+- Patched a script so both Simple Camping Storage and Go to bed are compatible with each other (Creation Club profile only)
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
 - Regenerated Terrain LOD
 - Regenerated TexGen output
+
+### Tweaks
+
+- Automated Go to bed MCM settings
+- Downgrade Scrambled Bugs to v13 so users will no longer have to install .NET v5.0
+- Drastically improve Survival Mode balancing with changes to Cold, Hunger, and Fatigue (Creation Club profile only)
+- New trees setup with better LODs and a slight increase in FPS
 
 ## 5.6.1
 
