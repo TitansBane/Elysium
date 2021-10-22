@@ -1,5 +1,109 @@
 # Changelog
 
+## 5.7.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- 3D Riften Trellis and Roofs
+- A little tree mod WIP Add-On - DynDOLOD 3
+- Andrealphus' Exploit Fixes - Telekinesis - XP Exploit Fix
+- Armor Mesh Fixes SE
+- Ashbound -- Solstheim Enhanced
+- Base Coat
+- Better Dirt Cliffs and Alphas
+- Blended Roads Redone SE - 8K
+- Chillwind Depths CTD Fix
+- Cities of the North - Falkreath
+- Cities of the North - Falkreath Patch Collection
+- CoMAP - Common Marker Addon Project
+- Dlizzio's Mesh Fixes
+- eFPS - Exterior FPS boost
+- eFPS - Official Patch for The Great City series
+- eFPS - Official Patch Hub
+- Halldir's Cairn CTD Fix
+- Hearthfire BYOH Mesh Fixes
+- JK's Temple of Dibella
+- JS Dragon Claws AE (Anniversary Edition)
+- Labyrinthian Shalidor's Maze Fixes
+- Modpocalypse NPCs - Carriage and Ferry Travel Overhaul
+- Modpocalypse NPCs - The Forgotten City
+- Mount Anthor Dragon Fix
+- Nilheim BQ Fix
+- Parallax Meshes for JK's Overhauls
+- Ragged Cap - Beggar Cap Fix SE
+- Rudification - Rudy Candles Expanded
+- Slow sprint bug fix
+- Source of Stalhrim Quest Fix
+- Suffer at Kynareth's
+- The Great Village of Mixwater Mill - Chicken Coop Fix
+- Unique Goldenglow Estate Crossing
+- Water in Wells - mesh-only animated wells
+
+### Updated
+
+- Additional Clockwork v2.0.0
+- A little tree mod WIP v0.9
+- Assorted mesh fixes v0.31.1
+- C.O.I.N. - Coins of Interesting Natures v1.1.8.1
+- Cathedral Assets Optimizer v5.3.2
+- Cathedral Weathers and Seasons v2.33
+- Cities of the North - Dawnstar v1.2.1
+- Cities of the North - Dawnstar Patch Collection v2.6
+- Cities of the North - Morthal Patch Collection v2.5
+- Dragon Priest Fix - Behaviour Overhaul v1.5
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-52
+- DynDOLOD Resources SE 3 v3.00 Alpha-15
+- Expanded Towns and Cities (SSE) v0.5.5
+- High Poly Project v5.2
+- JK's Interiors Patch Collection v3.22
+- JK's The Bee and Barb v1.1.0
+- Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M'rissi-Hoth) v2.0
+- Lux v3.3
+- Navigator - Navmesh Fixes v1.1.1
+- powerofthree's Papyrus Extender v4.5.2
+- Quaint Raven Rock Patch Collection v2.2.2
+- Realistic Water Two Patch Hub - Wyrmstooth Patch v4.0
+- Realistic Water Two SE v4.0.1
+- Reliquary of Myth - Artifact Overhaul v4.0.2
+- Rodryk's Dragon Bridge - Patch Collection v1.6.0
+- Rudy ENB SE for Cathedral Weathers v4.1
+- Simple Weapon Swing Parry - Scripts Free - SSE v1.10
+- Simplicity of Snow v0.4
+- Skaal Village Overhaul Patch Collection v1.2
+- SPID for Footprints v3.1
+- SPID INI Reworked v1.16
+- Static Mesh Improvement Mod Improvement Mod v1.2.2
+- The Great Town of Shor's Stone Patch Collection v2.0.3
+- The Great Village of Kynesgrove Patch Collection v1.1.6
+- The Great Village of Old Hroldan Patch Collection v2.0.4
+- Water for ENB v1.45
+
+### Removed
+
+- Armor of Yngol SSE
+- BB - Big Books
+- Cathedral - Plants
+- Cleaned Skyrim SE Textures
+- High Poly NPC Overhaul - Carriage and Ferry Travel Overhaul (CFTO)
+- JS Dragon Claws - Patches
+- JS Dragon Claws Legacy of the Dragonborn patch
+- JS Dragon Claws SE
+- Project Clarity AIO - Skyrim Textures Redone
+- Undiscovered Means Unknown - Map Markers
+- zxlice's ultimate potion animation - ZUPA
+
+### Fixes
+
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated Terrain LOD
+- Regenerated TexGen output
+
 ## 5.6.1
 
 ### Released at: `10/07/2021`
