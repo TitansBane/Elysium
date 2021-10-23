@@ -27,6 +27,7 @@
 - Halldir's Cairn CTD Fix
 - Hearthfire BYOH Mesh Fixes
 - JK's Temple of Dibella
+- JK's Temple of Kynareth
 - JS Dragon Claws AE (Anniversary Edition)
 - Labyrinthian Shalidor's Maze Fixes
 - Mesh Patch for Various Mods - Unofficial Material Fix - Assorted Mesh Fixes Patch
@@ -48,18 +49,19 @@
 
 - Additional Clockwork v2.0.0
 - A little tree mod WIP v0.9
+- Animated Armoury - DAR Version - New Weapons with animations v2.3
 - Assorted mesh fixes v0.31.1
 - C.O.I.N. - Coins of Interesting Natures v1.1.8.1
 - Cathedral Assets Optimizer v5.3.2
 - Cathedral Weathers and Seasons v2.33
 - Cities of the North - Dawnstar v1.2.1
-- Cities of the North - Dawnstar Patch Collection v2.6
+- Cities of the North - Dawnstar Patch Collection v2.7
 - Cities of the North - Morthal Patch Collection v2.5
 - Dragon Priest Fix - Behaviour Overhaul v1.5
 - Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-53
 - DynDOLOD Resources SE 3 v3.00 Alpha-15
 - Expanded Towns and Cities (SSE) v0.5.5
-- High Poly Project v5.2
+- High Poly Project v5.3
 - JK's Interiors Patch Collection v3.22
 - JK's The Bee and Barb v1.1.0
 - Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M'rissi-Hoth) v2.0
