@@ -56,7 +56,7 @@
 - Cities of the North - Dawnstar Patch Collection v2.6
 - Cities of the North - Morthal Patch Collection v2.5
 - Dragon Priest Fix - Behaviour Overhaul v1.5
-- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-52
+- Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-53
 - DynDOLOD Resources SE 3 v3.00 Alpha-15
 - Expanded Towns and Cities (SSE) v0.5.5
 - High Poly Project v5.2
