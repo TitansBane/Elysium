@@ -96,6 +96,7 @@
 
 - Armor of Yngol SSE
 - BB - Big Books
+- Better Shrouded Armor SSE - Ancient Replacer Only
 - Cathedral - Plants
 - Cleaned Skyrim SE Textures
 - High Poly NPC Overhaul - Carriage and Ferry Travel Overhaul (CFTO)
