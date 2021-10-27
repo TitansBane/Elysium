@@ -26,6 +26,7 @@
 - eFPS - Official Patch Hub
 - Halldir's Cairn CTD Fix
 - Hearthfire BYOH Mesh Fixes
+- House of Horrors - Quest Expansion
 - JK's Temple of Dibella
 - JK's Temple of Kynareth
 - JS Dragon Claws AE (Anniversary Edition)
@@ -38,6 +39,7 @@
 - Parallax Meshes for JK's Overhauls
 - Ragged Cap - Beggar Cap Fix SE
 - Rudification - Rudy Candles Expanded
+- Skyland Imperial and Nordic Tents
 - Slow sprint bug fix
 - Source of Stalhrim Quest Fix
 - Suffer at Kynareth's
@@ -47,12 +49,12 @@
 
 ### Updated
 
-- Additional Clockwork v2.0.0
+- Additional Clockwork v2.0.1
 - A little tree mod WIP v0.9
 - Animated Armoury - DAR Version - New Weapons with animations v2.3
-- Assorted mesh fixes v0.31.1
+- Assorted mesh fixes v0.32.1
 - C.O.I.N. - Coins of Interesting Natures v1.1.8.1
-- Cathedral Assets Optimizer v5.3.2
+- Cathedral Assets Optimizer v5.3.3
 - Cathedral Weathers and Seasons v2.33
 - Cities of the North - Dawnstar v1.2.1
 - Cities of the North - Dawnstar Patch Collection v2.7
@@ -62,7 +64,9 @@
 - DynDOLOD Resources SE 3 v3.00 Alpha-15
 - Expanded Towns and Cities (SSE) v0.5.5
 - High Poly Project v5.3
-- JK's Interiors Patch Collection v3.22
+- Immersive Interactions - Animated Actions v1.55
+- JK's Interiors Patch Collection v3.22.2
+- JK's Sadris Used Wares v1.0.1
 - JK's The Bee and Barb v1.1.0
 - Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M'rissi-Hoth) v2.0
 - Lux v3.3
@@ -72,18 +76,21 @@
 - Realistic Water Two Patch Hub - Wyrmstooth Patch v4.0
 - Realistic Water Two SE v4.0.1
 - Reliquary of Myth - Artifact Overhaul v4.0.2
+- Resplendent Queen Bee Statue - 8K v1.1
 - Rodryk's Dragon Bridge - Patch Collection v1.6.0
 - Rudy ENB SE for Cathedral Weathers v4.1
+- Serana Dialogue Add-On v2.8.2
 - Simple Weapon Swing Parry - Scripts Free - SSE v1.10
 - Simplicity of Snow v0.4
 - Skaal Village Overhaul Patch Collection v1.2
 - SPID for Footprints v3.1
 - SPID INI Reworked v1.16
-- Static Mesh Improvement Mod Improvement Mod v1.2.2
+- Static Mesh Improvement Mod Improvement Mod v1.3.0
 - The Great Town of Shor's Stone Patch Collection v2.0.3
 - The Great Village of Kynesgrove Patch Collection v1.1.6
 - The Great Village of Old Hroldan Patch Collection v2.0.4
-- Water for ENB v1.45
+- Vanilla Script (micro)Optimizations v1.12
+- Water for ENB v1.46
 
 ### Removed
 
@@ -101,6 +108,9 @@
 
 ### Fixes
 
+- Fixed OBIS Hidden Bandits from being permanently invisible, they now have a cooldown to when they can turn invisible
+- Fixed the Deck of Demons from LotD so it can no longer affect followers
+- Fixed the Winterhold blacksmith inventory so he now offers stuff to sell and has the correct amount of gold
 - Lots of xEdit fixes
 - Patched a script so both Simple Camping Storage and Go to bed are compatible with each other (Creation Club profile only)
 - Regenerated DynDOLOD
@@ -114,7 +124,7 @@
 - Automated Go to bed MCM settings
 - Downgrade Scrambled Bugs to v13 so users will no longer have to install .NET v5.0
 - Drastically improve Survival Mode balancing with changes to Cold, Hunger, and Fatigue (Creation Club profile only)
-- New trees setup with better LODs and a slight increase in FPS
+- New trees setup with better LODs and a slight boost in FPS
 
 ## 5.6.1
 
