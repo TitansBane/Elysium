@@ -9,6 +9,7 @@
 ### Added
 
 - 3D Riften Trellis and Roofs
+- 4thUnknown - Ancient Shrouded Armor Replacer
 - A little tree mod WIP Add-On - DynDOLOD 3
 - Andrealphus' Exploit Fixes - Telekinesis - XP Exploit Fix
 - Armor Mesh Fixes SE
@@ -20,6 +21,8 @@
 - Cities of the North - Falkreath
 - Cities of the North - Falkreath Patch Collection
 - CoMAP - Common Marker Addon Project
+- Dark Brotherhood Armor SE
+- Dark Brotherhood Armor SE - CBBE 3BA conversion
 - Dlizzio's Mesh Fixes
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch for The Great City series
@@ -70,6 +73,7 @@
 - JK's The Bee and Barb v1.1.0
 - Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M'rissi-Hoth) v2.0
 - Lux v3.3
+- Missives - Worldspace Additions - Missives - Wyrmstooth Patch v2.04d
 - Navigator - Navmesh Fixes v1.1.1
 - powerofthree's Papyrus Extender v4.5.2
 - Quaint Raven Rock Patch Collection v2.2.2
@@ -91,6 +95,7 @@
 - The Great Village of Old Hroldan Patch Collection v2.0.4
 - Vanilla Script (micro)Optimizations v1.12
 - Water for ENB v1.46
+- Wyrmstooth v1.19.6
 
 ### Removed
 
