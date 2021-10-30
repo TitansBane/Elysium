@@ -22,8 +22,8 @@
 - Cities of the North - Falkreath Patch Collection
 - CoMAP - Common Marker Addon Project
 - Dark Brotherhood Armor SE
-- Dark Brotherhood Armor SE - CBBE 3BA conversion
 - Dlizzio's Mesh Fixes
+- Dragonborn Ingredients
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch for The Great City series
 - eFPS - Official Patch Hub
@@ -39,6 +39,7 @@
 - Modpocalypse NPCs - The Forgotten City
 - Mount Anthor Dragon Fix
 - Nilheim BQ Fix
+- Oxygen Meter
 - Parallax Meshes for JK's Overhauls
 - Ragged Cap - Beggar Cap Fix SE
 - Rudification - Rudy Candles Expanded
@@ -52,33 +53,42 @@
 
 ### Updated
 
+- .NET Script Framework v18
 - Additional Clockwork v2.0.1
 - A little tree mod WIP v0.9
 - Animated Armoury - DAR Version - New Weapons with animations v2.3
 - Assorted mesh fixes v0.32.1
-- C.O.I.N. - Coins of Interesting Natures v1.1.8.1
-- Cathedral Assets Optimizer v5.3.3
+- C.O.I.N. - Coins of Interesting Natures v1.1.10
+- Cathedral Assets Optimizer v5.3.4
 - Cathedral Weathers and Seasons v2.33
 - Cities of the North - Dawnstar v1.2.1
 - Cities of the North - Dawnstar Patch Collection v2.7
-- Cities of the North - Morthal Patch Collection v2.5
+- Cities of the North - Morthal Patch Collection v2.6.1
 - Dragon Priest Fix - Behaviour Overhaul v1.5
 - Dynamic Distant Objects LOD - DynDOLOD v3.00 Alpha-53
 - DynDOLOD Resources SE 3 v3.00 Alpha-15
+- Elder Scroll HD - SE v1.2
+- ENBSeries v0.465
 - Expanded Towns and Cities (SSE) v0.5.5
+- High Poly NPCs - Wyrmstooth and Beyond Reach v1.19.6
 - High Poly Project v5.3
 - Immersive Interactions - Animated Actions v1.55
-- JK's Interiors Patch Collection v3.22.2
+- JK's Interiors Patch Collection v3.23
 - JK's Sadris Used Wares v1.0.1
+- JK's The Bannered Mare. v1.1.0
 - JK's The Bee and Barb v1.1.0
 - Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M'rissi-Hoth) v2.0
+- lilebonymace's patches xEdit scripts and stuff v1.59
 - Lux v3.3
 - Missives - Worldspace Additions - Missives - Wyrmstooth Patch v2.04d
+- Mrf's Markarth v2.1.1
 - Navigator - Navmesh Fixes v1.1.1
+- Open World Loot - Encounter Zone and Loot Overhaul v1.3.1
 - powerofthree's Papyrus Extender v4.5.2
-- Quaint Raven Rock Patch Collection v2.2.2
+- Quaint Raven Rock Patch Collection v2.2.3
 - Realistic Water Two Patch Hub - Wyrmstooth Patch v4.0
 - Realistic Water Two SE v4.0.1
+- Relationship Dialogue Overhaul - Update and MCM v1.0.5
 - Reliquary of Myth - Artifact Overhaul v4.0.2
 - Resplendent Queen Bee Statue - 8K v1.1
 - Rodryk's Dragon Bridge - Patch Collection v1.6.0
@@ -131,6 +141,7 @@
 - Downgrade Scrambled Bugs to v13 so users will no longer have to install .NET v5.0
 - Drastically improve Survival Mode balancing with changes to Cold, Hunger, and Fatigue (Creation Club profile only)
 - New trees setup with better LODs and a slight boost in FPS
+- Swapped to Stock Game feature from Game Folder Files
 
 ## 5.6.1
 
