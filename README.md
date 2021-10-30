@@ -17,7 +17,7 @@
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Stock Game](#stock-game)
     - [ENB](#enb)
   - [How to start up Elysium](#how-to-start-up-elysium)
   - [Updating](#updating)
@@ -44,7 +44,7 @@
 
 Elysium is a visually focused list fully featured with hundreds of new additions and optional Creation Club support. In addition, many new mods, such as Interesting NPCs, Apocalypse, Legacy of the Dragonborn, Nemesis, Vokrii, and a wide variety of new content, were added. You should expect a more challenging game with this list.
 
-As for stability and conflict resolution, Elysium is base on The Phoenix Flavour and has been patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
+As for stability and conflict resolution, Elysium was originally based on The Phoenix Flavour and has been patched for the new additions to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created.
 
 ## Installation
 
@@ -114,11 +114,11 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
-### Copy Game Folder Files
+### Stock Game
 
-Copy all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
+Unlike regular Skyrim installation or other Wabbajack lists, Elysium comes with the **Stock Game Feature** which is a copy of a Skyrim installation located within your installation folder, cleaned, and with everything you need to start playing now. 
 
- - Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 12 MB of files.
+It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Therefore, after Wabbajack completes, you don't need to move anything to your regular Skyrim installation. If you wish to change ENB please follow the steps below.
 
 ### ENB
 
@@ -138,7 +138,7 @@ Please check that vsync is set to disable in enblocal.ini otherwise you will eit
 
 ## How to start up Elysium
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. You have to run SKSE through Mod Organizer 2 in order to play Elysium from now on.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to Elysium [SKSE] by selecting it in the dropdown box and then hitting the run button. You have to run Elysium [SKSE] through Mod Organizer 2 in order to play Elysium from now on.
 
 ## Updating
 
