@@ -131,6 +131,7 @@
 - Patched a script so both Simple Camping Storage and Go to bed are compatible with each other (Creation Club profile only)
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
+- Regenerated Occlusion
 - Regenerated Synthesis patches
 - Regenerated Terrain LOD
 - Regenerated TexGen output
