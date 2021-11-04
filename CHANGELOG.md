@@ -1,5 +1,51 @@
 # Changelog
 
+## 5.8.0
+
+### Released at: `10/30/2021`
+
+## This update requires a new save game
+
+### Added
+
+- Complete NPC Overhaul - Argonians
+- Dark Brotherhood Sanctuary Decor - HD Custom Black Door Banners and Tenets
+- DragonPriest Retexture - SE
+- FUS RO DON'T - PushActorAway Crash Prevention Script Tweak
+- High Poly Vanilla Hair
+- Modpocalypse NPCs - Immersive World Encounters
+- Modpocalypse NPCs - Wyrmstooth
+- Transparent and Refracting Icicle and Frost Atronach
+
+### Updated
+
+- Cities of the North - Falkreath Patch Collection v1.6
+- eFPS - Exterior FPS boost v2.1
+- eFPS - Official Patch Hub v1.5a
+- Fixed Mesh Lighting v1.5
+- Flickering Meshes Fix v1.5b
+- Modpocalypse NPCs - Resources v1.02
+- My Road Signs are Beautiful - Multilingual HD Retexture - SE v1.4
+- powerofthree's Tweaks v1.3.3
+- Skyrim Landscape and Water Fixes v6.4
+- Water for ENB v1.47
+- Wyrmstooth v1.19.7
+
+### Removed
+
+- Dovah Sonaak - Dragon Priest Masks SE
+- Dragon Priest Weapons Improved
+- High Poly NPCs - Wyrmstooth and Beyond Reach
+
+### Fixes
+
+- Fixed a crash that could randomly occurred outside Whiterun
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated Synthesis patches
+- Regenerated Terrain LOD
+- Regenerated TexGen output
+
 ## 5.7.0
 
 ### Released at: `10/30/2021`
