@@ -22,6 +22,7 @@
 - Cities of the North - Falkreath Patch Collection v1.6
 - eFPS - Exterior FPS boost v2.1
 - eFPS - Official Patch Hub v1.5a
+- Experience v2.0.0
 - Fixed Mesh Lighting v1.5
 - Flickering Meshes Fix v1.5b
 - Modpocalypse NPCs - Resources v1.02
@@ -35,11 +36,15 @@
 
 - Dovah Sonaak - Dragon Priest Masks SE
 - Dragon Priest Weapons Improved
+- eFPS - Official Patch for The Great City series - Now included in eFPS - Official Patch Hub
 - High Poly NPCs - Wyrmstooth and Beyond Reach
 
 ### Fixes
 
-- Fixed a crash that could randomly occurred outside Whiterun
+- Disable a chimney from Soljund's Sinkhole that was not supposed to be enabled
+- Fixed a crash that could randomly occur outside Whiterun
+- Fixed a few occlusion planes from eFPS that were causing visual issues
+- Lots of xEdit fixes mainly to forward USSEP changes to books grammatical errors and a few other things missed as well
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
 - Regenerated Synthesis patches
