@@ -44,6 +44,7 @@
 - Disable a chimney from Soljund's Sinkhole that was not supposed to be enabled
 - Fixed a crash that could randomly occur outside Whiterun
 - Fixed a few occlusion planes from eFPS that were causing visual issues
+- Fixed Black Face bug for a NPC from ToK
 - Lots of xEdit fixes mainly to forward USSEP changes to books grammatical errors and a few other things missed as well
 - Regenerated DynDOLOD
 - Regenerated Grass Cache
