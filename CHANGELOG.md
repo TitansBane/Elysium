@@ -29,6 +29,7 @@
 - My Road Signs are Beautiful - Multilingual HD Retexture - SE v1.4.1
 - powerofthree's Tweaks v1.3.3
 - Realistic Water Two SE v4.0.1
+- Rudy ENB CW Zangdar's Edit Lux Edition
 - Skyrim Landscape and Water Fixes v6.4.1
 - Water for ENB v1.47
 - Wyrmstooth v1.19.7
