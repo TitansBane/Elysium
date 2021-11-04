@@ -43,7 +43,7 @@
 ### Fixes
 
 - Disable a chimney from Soljund's Sinkhole that was not supposed to be enabled
-- Disable Faction Stealing patch from powerofthree's Tweaks to fix an issue where you would not have permission to harvest crops
+- Disable Faction Stealing patch from powerofthree's Tweaks to fix an issue where you would not able to get permission to harvest crops
 - Fixed a crash that could randomly occur outside Whiterun
 - Fixed a few occlusion planes from eFPS that were causing visual issues
 - Fixed Black Face bug for a NPC from ToK
