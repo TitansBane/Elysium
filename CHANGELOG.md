@@ -29,7 +29,7 @@
 ### Tweaks
 
 - Increase the level requirement to start Vigilant from level 10 to level 40
-- Updated trees again with a mix of "A little tree mod" and "SpeedTree" combo - I wasn't 100% happy with the current tree setup especially the snow trees
+- Updated trees again with a mix of "A little tree mod" and "SpeedTree" combo - I wasn't 100% happy with the current trees especially with the snowy pine trees
 
 ## 5.8.0
 
