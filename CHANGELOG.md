@@ -1,5 +1,34 @@
 # Changelog
 
+## 5.8.1
+
+### Released at: `Unreleased`
+
+### Added
+
+- JK's Temple of the Divines
+
+### Updated
+
+- Flickering Meshes Fix v1.6
+- HD Stone Quarry and Clay Deposit SE v1.1.0
+- JK's Interiors Patch Collection v3.24.1
+- Lux v3.5
+- Modpocalypse NPCs - Wyrmstooth v1.01
+- Water for ENB v1.48
+
+### Fixes
+
+- More xEdit fixes
+- Regenerated DynDOLOD
+- Regenerated Synthesis patches
+- Regenerated TexGen output
+
+### Tweaks
+
+- Increase the level requirement to start Vigilant from level 10 to level 40
+- Updated trees again with a mix of "A little tree mod" and "SpeedTree" combo - I wasn't 100% happy with the current tree setup especially the snow trees
+
 ## 5.8.0
 
 ### Released at: `11/04/2021`
