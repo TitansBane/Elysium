@@ -19,6 +19,8 @@
 
 ### Fixes
 
+- Fixed frequent crashes around the College of Winterhold
+- Fixed some placement issues with clutter in the Old Bridge Goods store in Dragon Bridge
 - More xEdit fixes
 - Regenerated DynDOLOD
 - Regenerated Synthesis patches
