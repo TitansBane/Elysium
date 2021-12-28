@@ -14,6 +14,7 @@
       - [Start Skyrim](#start-skyrim)
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
+        - [Downgrade Skyrim](#downgrade-skyrim)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
