@@ -86,6 +86,9 @@ After you have done everything above and got a clean SSE installation-ready, sta
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near your drive's root level like `C:/Wabbajack.`
 
+##### Downgrade Skyrim
+Elysium requires the 1.5.97.0 (pre-AE) version of Skyrim. Download the FullPatcher.exe (the big one) from [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and point it at your Skyrim install folder. If you encounter any issues with the downgrade patcher, make sure your game is fully updated in steam first and then try running it again.
+
 #### Downloading and Installing
 
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and fastest speed, it is advised to place the working folder on an SSD.
